@@ -7,7 +7,6 @@ import SEO from '../components/seo'
 import { makeStyles } from '@material-ui/core/styles'
 import Grid from '@material-ui/core/Grid'
 import Divider from '@material-ui/core/Divider'
-import ListSubheader from '@material-ui/core/ListSubheader'
 import List from '@material-ui/core/List'
 import ListItem from '@material-ui/core/ListItem'
 import ListItemIcon from '@material-ui/core/ListItemIcon'
@@ -20,6 +19,8 @@ import ExpandLess from '@material-ui/icons/ExpandLess'
 import ExpandMore from '@material-ui/icons/ExpandMore'
 import Done from '@material-ui/icons/Done'
 
+import styled from "styled-components"
+
 const useStyles = makeStyles(theme => ({
   root: {
     width: '100%',
@@ -29,6 +30,11 @@ const useStyles = makeStyles(theme => ({
     paddingLeft: theme.spacing(4),
   },
 }));
+
+const ImageWrapper = styled.div`
+  max-width: 100px;
+  margin-bottom: 1.45rem;
+`
 
 const IndexPage = () => {
 
@@ -44,6 +50,8 @@ const IndexPage = () => {
       case "info":
         setInfo(!info)
         break
+      default:
+        break
     }
   }
 
@@ -52,9 +60,9 @@ const IndexPage = () => {
       <SEO title="Home" />
       <Grid container spacing={3} justify="center">
         <Grid item xs={2}>
-          <div style={{ maxWidth: `100px`, marginBottom: `1.45rem` }}>
+          <ImageWrapper>
             <Image />
-          </div>
+          </ImageWrapper>
         </Grid>
         <Grid item xs={8}>
           <h1>Gatsby Material UI Starter</h1>
