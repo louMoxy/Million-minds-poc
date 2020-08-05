@@ -1,17 +1,13 @@
 import { css } from 'styled-components';
 
-/*
- * this can be used to house variables eg colors, fonts :
- * export default {
- *  colors: {
- *    white: "#fff",
- *  }
- * }
- * usage would be :
- * color: ${style.color.white};
-*/
+export const colours = {
+  black: '#465669',
+  peach: '#EBA098',
+  offWhite: '#F0F3F7',
+  purple: '#C2A2EF',
+  blue: '#81B1EB'
+}
 
-// import style from './style';
 
 export const GlobalStyles = css`
 html {
