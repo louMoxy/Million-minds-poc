@@ -1,5 +1,4 @@
 import React from 'react'
-import PropTypes from 'prop-types'
 import { StaticQuery, graphql } from 'gatsby'
 import Img from 'gatsby-image'
 
@@ -30,15 +29,4 @@ const Image = () => (
     render={data => <Img fluid={data.placeholderImage.childImageSharp.fluid} />}
   />
 )
-
-Image.propTypes = {
-  src: PropTypes.string,
-  maxWidth: PropTypes.number,
-}
-
-Image.defaultProps = {
-  src: '',
-  maxWidth: 100,
-}
-
 export default Image
