@@ -7,11 +7,13 @@
 
 import React from 'react'
 import PropTypes from 'prop-types'
+import styled from 'styled-components'
 
 import Header from './header'
 import { createGlobalStyle } from 'styled-components';
 
 import { GlobalStyles } from './GlobalStyles'
+import Container from '@material-ui/core/Container'
 const GlobalStyle = createGlobalStyle`${GlobalStyles}`
 
 const Layout = ({ children }) => {
@@ -21,15 +23,23 @@ const Layout = ({ children }) => {
       <>
         <Header />
         <main>{children}</main>
-        <footer style={{ paddingTop: 10 }}>
-          © {new Date().getFullYear()}, Built with
-          {` `}
-          <a href="https://www.gatsbyjs.org">Gatsby</a>
-        </footer>
+        <Container component='div'>
+          <Footer>
+            Copyright © {new Date().getFullYear()}, White Swan
+          </Footer>
+        </Container>
+
       </>
     </>
   )
 }
+
+const Footer = styled.footer`
+  padding-top: '10px';
+  text-align: center;
+  border-top: 1px solid #ccc;
+  font-size: 0.6em;
+`
 
 Layout.propTypes = {
   children: PropTypes.node.isRequired,
