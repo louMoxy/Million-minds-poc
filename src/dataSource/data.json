@@ -1,0 +1,61 @@
+[
+  {
+    "id": 1,
+    "symptom": "For a few days I've had sharp stomach pain and sickness alongside no appetite at all. Then last night the pain grew even more intense, I vomited for at least three hours and felt sick all through the night.",
+    "symptomName": "Appendicitis",
+    "terms": [
+      "high temperature",
+      "feeling hot",
+      "shivery",
+      "headaches",
+      "muscle and joint pain",
+      "feel tired",
+      "exhausted",
+      "complete loss of energy",
+      "heart palpitations"
+    ],
+    "reportIds": [1]
+  },
+  {
+    "id": 2,
+    "symptomName": "Osteoarthritis",
+    "symptom": "Painful joints, thumbs, knees and fingers and more recently some swelling of joints",
+    "reportIds": [],
+    "terms": [
+      "Painful joints",
+      "fingers",
+      "knees",
+      "thumbs",
+      "some swelling of joints"
+    ]
+  },
+  {
+    "id": 3,
+    "symptomName": "Osteoarthritis and Rheumatoid Arthritis",
+    "symptom": "Pain, tiredness, bruising, night sweats, fainting, insomnia, bad vision, bad bloodcircualtion, ache, weight-loss",
+    "reportIds": [],
+    "terms": [
+      "Pain",
+      "tiredness",
+      "bruising",
+      "night sweats",
+      "fainting",
+      "insomnia",
+      "bad vision",
+      "bad bloodcircualtion",
+      "ache",
+      "weight-loss"
+    ]
+  },
+  {
+    "id": 4,
+    "symptomName": "Rheumatoid Arthritis",
+    "symptom": "My shoulder pain is in my right scapular and is a burning, sharp pain that only subsides when I lay flat on my back on a hard surface. The pain is made worse with overuse of the shoulder beyond normal, everyday activities (running, heavy lifting, pushups). I have adapted my lifestyle to exclude activities that cause pain.  This continued for 7 years until I became pregnant and the pain disappeared entirely for the duration of my pregnancy and 2 yrs following my son's birth. At 2.5 years post birth, I experienced extreme pain in my left hip joint. This pain first presented itself on a 12 hour car ride. I stepped out of the car after 8 hrs of driving and collapsed from pain - unable to bear any weight on my left leg.  The pain would appear every morning making walking almost impossible for the first 2 -3 hrs after waking. The pain would gradually get better throughout the day but never completely go away. Riding in a car always made the pain significantly worse. Sitting caused stiffness, but did not worsen or lessen the pain. Walking relieved both pain and stiffness.  I began taking 800mg of Advil 4 times per day. I took my first 800 mg dose at 7am and experienced pain relief within 30-40min, allowing me to walk normally. I took another 800mg dose at 11am and another at 3pm and another at 7pm.",
+    "reportIds": [],
+    "terms": [
+      "shoulder pain",
+      "burning",
+      "sharp pain"
+    ]
+  }
+]
