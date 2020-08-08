@@ -1,4 +1,5 @@
 import { css } from 'styled-components';
+import styled from 'styled-components'
 
 export const colours = {
   black: '#465669',
@@ -7,6 +8,19 @@ export const colours = {
   purple: '#C2A2EF',
   blue: '#81B1EB'
 }
+
+export const Container = styled.div`
+  display: flex;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+  & > div:first-child {
+    flex: 2;
+  }
+  & > div:nth-child(2) {
+    flex: 1;
+  }
+`;
 
 
 export const GlobalStyles = css`
