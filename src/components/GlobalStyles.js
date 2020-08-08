@@ -6,7 +6,7 @@ export const colours = {
   peach: '#EBA098',
   offWhite: '#F0F3F7',
   purple: '#C2A2EF',
-  blue: '#81B1EB'
+  blue: '#81B1EB',
 }
 
 export const Container = styled.div`
@@ -15,10 +15,10 @@ export const Container = styled.div`
   margin: 0 auto;
   padding: 20px;
   & > div:first-child {
-    flex: 2;
+    flex: 5;
   }
   & > div:nth-child(2) {
-    flex: 1;
+    flex: 2;
   }
 `;
 

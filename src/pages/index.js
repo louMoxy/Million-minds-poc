@@ -7,8 +7,9 @@ import { SymptomCapture } from '../components/symptomCapture'
 import { BannerStepper } from '../components/Banner'
 import { SelectedIdContextProvider } from '../context/selectedIdContext'
 import { colours } from '../components/GlobalStyles'
+import { EntityRecog } from '../components/entityRecog'
 
-const stepContent = [<SymptomCapture />, <SymptomCapture />, <SymptomCapture />]
+const stepContent = [<SymptomCapture />, <EntityRecog />, <SymptomCapture />]
 
 const IndexPage = () => {
   const [activeStep, setActiveStep] = React.useState(0)

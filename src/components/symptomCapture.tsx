@@ -12,7 +12,7 @@ import ExpandMoreIcon from '@material-ui/icons/ExpandMore'
 import { Container } from './GlobalStyles'
 import { SelectedIdContext } from '../context/selectedIdContext'
 
-const maxStringLength = 200;
+const maxStringLength = 200
 const symptomsData = dataSource.getAllSymptom()
 const sortedData = (a, b) => a.symptomName.localeCompare(b.symptomName)
 
@@ -26,11 +26,11 @@ export const SymptomCapture = () => {
       }))
       .sort(sortedData)
   )
-  const {setSelectedId, selectedId} = React.useContext(SelectedIdContext);
+  const { setSelectedId } = React.useContext(SelectedIdContext)
 
   React.useEffect(() => {
-    setSelectedId(symptoms[0].id);
-  }, []);
+    setSelectedId(symptoms[0].id)
+  }, [])
 
   const expandText = (selectedId: number) => {
     const selectedData = symptoms.find(({ id }) => id === selectedId)
@@ -45,7 +45,6 @@ export const SymptomCapture = () => {
     setSymptoms(newData.sort(sortedData))
   }
 
-  console.log(selectedId)
   return (
     <Container>
       <div>

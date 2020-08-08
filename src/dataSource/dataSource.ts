@@ -16,8 +16,13 @@ export class dataSource {
     }))
   }
 
-  static getHighlightedTerms(id: number): string[] {
-    return data.find((d: Data) => d.id === id).terms
+  static getHighlightedTerms(id: number): string {
+    const selectedData = data.find((d: Data) => d.id === id);
+    let result = selectedData.symptom;
+    selectedData.terms.forEach((term) => {
+      result = result.replace(term, `<span>${term}</span>`)
+    })
+    return result;
   }
 
   static getSearchQuery(id: number): string {
