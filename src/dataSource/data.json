@@ -1,0 +1,264 @@
+[
+  {
+    "id": 1,
+    "symptomName": "Appendicitis",
+    "symptom": "For a few days I've had sharp stomach pain and sickness alongside no appetite at all. Then last night the pain grew even more intense, I vomited for at least three hours and felt sick all through the night.",
+    "terms": [
+      "stomach pain",
+      "sickness"
+    ]
+  },
+  {
+    "id": 2,
+    "symptomName": "Appendicitis",
+    "symptom": "I woke up with severe stomach pain this morning, I have been having some abdominal pain with constipation since last Thursday. It’s been a couple of hours since I woke up, the pain still persists, pain at the lower abdominal right feels constant.",
+    "terms": [
+      "severe stomach pain",
+      "abdominal pain",
+      "constipation",
+      "pain at the lower abdominal"
+    ]
+  },
+  {
+    "id": 3,
+    "symptomName": "Osteoarthritis",
+    "symptom": "Painful joints, thumbs, knees and fingers and more recently some swelling of joints",
+    "terms": [
+      "Painful joints, thumbs, knees and fingers",
+      "swelling of joints"
+    ]
+  },
+  {
+    "id": 4,
+    "symptomName": "Osteoarthritis and Rheumatoid Arthritis",
+    "symptom": "Pain, tiredness, bruising, night sweats, fainting, insomnia, bad vision, bad bloodcircualtion, ache, weight-loss",
+    "terms": [
+      "Pain",
+      "tiredness",
+      "bruising",
+      "night sweats",
+      "fainting",
+      "insomnia",
+      "bad vision",
+      "bad bloodcircualtion",
+      "ache",
+      "weight-loss"
+    ]
+  },
+  {
+    "id": 5,
+    "symptomName": "Rheumatoid Arthritis",
+    "symptom": "My shoulder pain is in my right scapular and is a burning, sharp pain that only subsides when I lay flat on my back on a hard surface. The pain is made worse with overuse of the shoulder beyond normal, everyday activities (running, heavy lifting, pushups). I have adapted my lifestyle to exclude activities that cause pain.  This continued for 7 years until I became pregnant and the pain disappeared entirely for the duration of my pregnancy and 2 yrs following my son's birth. At 2.5 years post birth, I experienced extreme pain in my left hip joint. This pain first presented itself on a 12 hour car ride. I stepped out of the car after 8 hrs of driving and collapsed from pain - unable to bear any weight on my left leg.  The pain would appear every morning making walking almost impossible for the first 2 -3 hrs after waking. The pain would gradually get better throughout the day but never completely go away. Riding in a car always made the pain significantly worse. Sitting caused stiffness, but did not worsen or lessen the pain. Walking relieved both pain and stiffness.  I began taking 800mg of Advil 4 times per day. I took my first 800 mg dose at 7am and experienced pain relief within 30-40min, allowing me to walk normally. I took another 800mg dose at 11am and another at 3pm and another at 7pm.",
+    "terms": [
+      "shoulder pain",
+      "right scapular",
+      "burning, sharp pain",
+      "extreme pain in my left hip joint",
+      "stiffness",
+      "pain and stiffness"
+    ]
+  },
+  {
+    "id": 6,
+    "symptomName": "Rheumatoid Arthritis",
+    "symptom": "I can't straighten my arm past a 45 degree angle. It is hard to do most things especially dressing and sleeping. There is so much pain in my arms that I feel weak and slow and tired and frustrated. It's now begun to spread to my all other joints but never all of them at the same time.",
+    "terms": [
+      "straighten my arm",
+      "weak and slow and tired and frustrated",
+      "spread to my all other joints"
+    ]
+  },
+  {
+    "id": 7,
+    "symptomName": "Lung Cancer ",
+    "symptom": "Difficulty swallowing, reduced appetite, tiredness, coughing, pain in the chest",
+    "terms": [
+      "Difficulty swallowing",
+      "reduced appetite",
+      "tiredness",
+      "coughing",
+      "pain in the chest"
+    ]
+  },
+  {
+    "id": 8,
+    "symptomName": "Pancreatic Cancer",
+    "symptom": "I've been getting pains in my stomach and feeling sick. I've also been getting indigestion.",
+    "terms": [
+      "pains in my stomach",
+      "feeling sick",
+      "indigestion"
+    ]
+  },
+  {
+    "id": 9,
+    "symptomName": "Endometriosis ",
+    "symptom": "Excessively heavy period, extreme period pain for a week each month which leads most months to having to take time off work.",
+    "terms": [
+      "heavy period",
+      "extreme period pain"
+    ]
+  },
+  {
+    "id": 10,
+    "symptomName": "Fibromyalgia",
+    "symptom": "After returning from a stressful holiday in Turkey I started getting a really bad pain in my left hip and feeling really tired. It's really stiff most of the time. ",
+    "terms": [
+      "pain in my left hip",
+      "feeling really tired",
+      "stiff"
+    ]
+  },
+  {
+    "id": 11,
+    "symptomName": "Irritable bowel syndrome",
+    "symptom": "constant tummy pains, lower and stomach; irregular bowel, going from one extreme to another of consistency of the bowel, which has brought piles to the outer side of anus; in the past year the pain has got so bad that I pass out on the toilet and find myself on the floor of the bathroom, in the past year the pain has migrated to right hand side of the belly button (5cm) and up towards under the rib",
+    "terms": [
+      "tummy pains, lower and stomach",
+      "irregular bowel",
+      "consistency of the bowel",
+      "piles to the outer side of anus",
+      "pain has migrated to right hand side of the belly"
+    ]
+  },
+  {
+    "id": 12,
+    "symptomName": "Irritable bowel syndrome",
+    "symptom": "I have stomach pain bouncing between constipation and diarrhoea and left it for a couple of months as it was intermittent. My symptoms seem to be going between perfect and a little constipated and today have blood in my stools.",
+    "terms": [
+      "stomach pain",
+      "constipation",
+      "diarrhoea",
+      "blood in my stools"
+    ]
+  },
+  {
+    "id": 13,
+    "symptomName": "Inflammatory Bowel Syndrome",
+    "symptom": "I've been experiencing more regular bouts of diarrhoea and generally not feeling great. I also get cramps in the abdomen and mouth ulcers. I have been getting inflamed joints too, but I'm not sure if this is related to my stomach problems. ",
+    "terms": [
+      "diarrhoea",
+      "cramps in the abdomen",
+      "mouth ulcers",
+      "inflamed joints"
+    ]
+  },
+  {
+    "id": 15,
+    "symptomName": "Lupus",
+    "symptom": "In the past i've had a horrible full body rash which is terribly itchy. Also experience tiredness and anemia.\nAt 20 years old I lost weight drastically and was very skinny. Was dizzy and tired all the time could barely think. During the early part of these symptoms I blacked out at the top of the stairs and fell to the bottom. Couldn't remember who I was or where I was for about an hour before memory slowly came back. I had no injuries at all from the fall. I always felt nauseous. After a few months I noticed my neck getting a bump in the front, my weight started to climb with no change to diet in fact I was eating less because too tired to eat. My nails were brittle, my hair was dry and brittle. My heart rate often would start racing very fast at around 190+beats per minute. I slept for 12 hours and woke up exhausted still. Symptoms got better for a while but I was still unwell. Just before I got pregnant with my first child I had very bad headache that there was hardly any relief for for six months. I was still dizzy and feeling sick almost constantly. GP's at the time ignored my pleas. Even prescribing anti depressants without any tests at all. I refused to take them. (I fell pregnant and quit my very stressful job as I felt I would lose the baby of I didn't do so. Doc's suspect the same. The headaches disappeared as suddenly as they'd started. \nAt 20 weeks pregnant I started to swell a lot, I had lower back pain which I'd experienced a lot of over the years. I felt I needed the loo all the time but couldn't go. My joints began to swell and burn with pain. I had to be helped into and out of the bath. My skin on my legs and waist start to dent with pressure and remain dented for some time. I went into hospital at 24 weeks. I was monitored very carefully by many Doctors. The joint pain eased after being in hospital but I was very swollen with water retention. The Doc's were worried about kidney failure. I was put on blood thinners, given two steroid injections for the baby, put on steroid tablets, I had to have an iron infusion as I was very anaemic. But my iron levels were fine and Doc's realised my red blood cells were very low. So I had to have blood transfusions. I had four pints of blood altogether. My blood count went from six to 12. I was on medication for too high potassium for a week. At 31 weeks my eye sight in my right eye got really fuzzy. I was checked for a blood clot, and was diagnosed with having so much fluid on me that it was putting pressure on my cornea. ",
+    "terms": [
+      "body rash",
+      "itchy",
+      "tiredness",
+      "anemia",
+      "lost weight",
+      "dizzy",
+      "tired",
+      "nauseous",
+      "neck getting a bump in the front",
+      "nails were brittle",
+      "hair was dry and brittle",
+      "heart rate often would start racing",
+      "dizzy and feeling sick",
+      "exhausted",
+      "headache",
+      "anti depressants",
+      "lower back pain",
+      "joints began to swell",
+      "joint pain",
+      "swollen with water retention",
+      "kidney failure",
+      "blood thinners",
+      "steroid injections",
+      "steroid tablets",
+      "iron infusion",
+      "anaemic",
+      "red blood cells were very low",
+      "blood transfusions",
+      "too high potassium",
+      "right eye got really fuzzy",
+      "blood clot",
+      "pressure on my cornea"
+    ]
+  },
+  {
+    "id": 16,
+    "symptomName": "Lupus",
+    "symptom": "I have severe pain in my joints that makes walking and daily activities like dressing, cooling extremely painful and impossible at times to complete. I have dry skin on hands that crack and bleed at knuckles. I have developed an intolerance for cold temperatures that turn my fingers blue after becoming chilled to the point of uncontrollable shivering. Sometimes I have a sharp pain in my legs that would appear and disappear without a cause.",
+    "terms": [
+      "severe pain in my joints",
+      "extremely painful",
+      "dry skin on hands",
+      "crack and bleed at knuckles",
+      "intolerance for cold temperatures",
+      "turn my fingers blue",
+      "uncontrollable shivering",
+      "sharp pain in my legs"
+    ]
+  },
+  {
+    "id": 17,
+    "symptomName": "Lyme Disease",
+    "symptom": "I've been getting a high temperature and feeling hot and shivery. I also get headaches and muscle and joint pain and feel tired and exhausted with a complete loss of energy. I've had some standard tests done by the doctor but nothing major has come back. I sometimes also get heart palpitations",
+    "terms": [
+      "high temperature",
+      "hot and shivery",
+      "headaches",
+      "muscle and joint pain",
+      "tired and exhausted",
+      "loss of energy",
+      "heart palpitations"
+    ]
+  },
+  {
+    "id": 18,
+    "symptomName": "Lyme Disease",
+    "symptom": "Few days ago, I was bitten by a tick. Now I have developed a rash where I had the tick bite. I have also developed flu like symptoms, with fever, chills, muscle aches and joint pains. My body feels aching and fatigued.",
+    "terms": [
+      "bitten by a tick",
+      "rash",
+      "tick bite",
+      "flu like symptoms",
+      "fever",
+      "chills",
+      "muscle aches and joint pains",
+      "aching and fatigued"
+    ]
+  },
+  {
+    "id": 19,
+    "symptomName": "Multiple Sclerosis",
+    "symptom": "I've started dropping stuff like 4 pints of milk cups ect and my feet and hips have become very weak I couldn’t wear heels any more due to the aching becoming to painful my walks become shorter also as my legs just can’t take it I got also a lot of dots in front of my eye which send me of balance and eye pain. I've been sent between docs and opticians",
+    "terms": [
+      "very weak",
+      "aching",
+      "painful",
+      "balance",
+      "eye pain"
+    ]
+  },
+  {
+    "id": 20,
+    "symptomName": "Multiple Sclerosis",
+    "symptom": "I have a host of lingering symptoms and problems with my body that sometimes disable me in some ways like super heavy leg or severe pain in both my legs, spasticity and overall body not behaving correctly.",
+    "terms": [
+      "heavy leg",
+      "severe pain in both my legs",
+      "spasticity"
+    ]
+  },
+  {
+    "id": 21,
+    "symptomName": "Chronic Fatigue",
+    "symptom": "I am literally always tired. I feel as though my fatigue is holding me back in so many ways. I feel dreadfully tired when I attempt to try anything new and end up wasting my day napping. I have not had consistent energy levels in years where I could focus on tasks for long periods of time. I always had joint pains when I used to work out, not because of any injury but a heightened, pulsing pain in my knees and joints. I cannot stand for more than 8 mins without feeling uncomfortable. I lost interest in things that I like and enjoy, feel very depressed and helpless.",
+    "terms": [
+      "tired",
+      "fatigue",
+      "focus on tasks",
+      "joint pains",
+      "pulsing pain in my knees and joints",
+      "depressed"
+    ]
+  }
+]

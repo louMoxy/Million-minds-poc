@@ -1,12 +1,27 @@
 import { css } from 'styled-components';
+import styled from 'styled-components'
 
 export const colours = {
   black: '#465669',
   peach: '#EBA098',
   offWhite: '#F0F3F7',
   purple: '#C2A2EF',
-  blue: '#81B1EB'
+  blue: '#81B1EB',
+  offPurple:'#F4F1FE'
 }
+
+export const Container = styled.div`
+  display: flex;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+  & > div:first-child {
+    flex: 5;
+  }
+  & > div:nth-child(2) {
+    flex: 2;
+  }
+`;
 
 
 export const GlobalStyles = css`

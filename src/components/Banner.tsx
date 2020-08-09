@@ -5,6 +5,7 @@ import StepLabel from '@material-ui/core/StepLabel/StepLabel'
 import Step from '@material-ui/core/Step/Step'
 import { colours } from '../components/GlobalStyles'
 import styled from 'styled-components'
+import { StepperContext } from '../context/stepperContext'
 
 const steps = [
   'Symptom capture',
@@ -13,12 +14,8 @@ const steps = [
   'Document Search Results​',
 ];
 
-interface Props {
-  activeStep: number[];
-  setActiveStep: (step: number) => void;
-}
-
-export const BannerStepper = ({activeStep, setActiveStep}: Props) => {
+export const BannerStepper = () => {
+  const { activeStep, setActiveStep } = React.useContext(StepperContext);
   return (
     <Banner>
       <Container component='div'>
