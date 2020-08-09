@@ -30,8 +30,8 @@ export class dataSource {
   }
 
   static getReports(id: number): ReportData[] {
-    const reportIds = data.find((d: Data) => d.id === id).reportIds
-    return reports.filter(report => reportIds.includes(report.id))
+    const {symptomName} = data.find((d: Data) => d.id === id);
+    return reports.filter(({focus}) => focus === symptomName)
   }
 }
 
@@ -40,18 +40,15 @@ interface Data {
   symptom: string
   symptomName: string
   terms: string[]
-  reportIds: number[]
 }
 
 interface ReportData {
-  id: number
   sourceType: string
   focus: string
-  description: string
   date: string
   authors: string
-  network: string
-  text: string[]
+  network?: string
+  text: string
   url: string
   score: number
 }
