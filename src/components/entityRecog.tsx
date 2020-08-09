@@ -5,6 +5,7 @@ import { Container, colours } from './GlobalStyles'
 import styled from 'styled-components'
 import { Card, CardContent, Typography } from '@material-ui/core'
 import { InfoCard } from './infoCard'
+import { Phone } from './phone'
 
 export const EntityRecog = () => {
   const { selectedId } = React.useContext(SelectedIdContext)
@@ -24,7 +25,7 @@ export const EntityRecog = () => {
           </Card>
         </div>
       </Columns>
-      <div>Phone</div>
+      <Phone appMessage='Describe in your own words how you feel today…' responseMessage={highlightedText}/>
     </Container>
   )
 }

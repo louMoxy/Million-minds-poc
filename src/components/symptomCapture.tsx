@@ -11,6 +11,7 @@ import {
 import ExpandMoreIcon from '@material-ui/icons/ExpandMore'
 import { Container } from './GlobalStyles'
 import { SelectedIdContext } from '../context/selectedIdContext'
+import { Phone } from './phone'
 
 const maxStringLength = 200
 const symptomsData = dataSource.getAllSymptom()
@@ -26,24 +27,25 @@ export const SymptomCapture = () => {
       }))
       .sort(sortedData)
   )
-  const { setSelectedId } = React.useContext(SelectedIdContext)
+  const { selectedId, setSelectedId } = React.useContext(SelectedIdContext)
 
   React.useEffect(() => {
     setSelectedId(symptoms[0].id)
   }, [])
 
-  const expandText = (selectedId: number) => {
-    const selectedData = symptoms.find(({ id }) => id === selectedId)
+  const expandText = (clickedId: number) => {
+    const selectedData = symptoms.find(({ id }) => id === clickedId)
     selectedData.text = selectedData.clipped
       ? selectedData.symptom
       : selectedData.symptom.substring(0, maxStringLength)
     selectedData.clipped = !selectedData.clipped
     const newData = [
-      ...symptoms.filter(({ id }) => id !== selectedId),
+      ...symptoms.filter(({ id }) => id !== clickedId),
       selectedData,
     ]
     setSymptoms(newData.sort(sortedData))
   }
+  const currentSymptom = symptoms.find(({ id }) => id === selectedId)
 
   return (
     <Container>
@@ -83,7 +85,7 @@ export const SymptomCapture = () => {
         </Columns>
       </div>
       <div>
-        <p>Mobile app</p>
+        <Phone appMessage='Describe in your own words how you feel today…' responseMessage={currentSymptom ? currentSymptom.symptom : ''}/>
       </div>
     </Container>
   )

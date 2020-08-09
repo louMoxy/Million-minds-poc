@@ -7,6 +7,7 @@ export const colours = {
   offWhite: '#F0F3F7',
   purple: '#C2A2EF',
   blue: '#81B1EB',
+  offPurple:'#F4F1FE'
 }
 
 export const Container = styled.div`

@@ -22,7 +22,9 @@ const colourArray = [
 
 export const SearchResults = () => {
   const { selectedId } = React.useContext(SelectedIdContext)
-  const [reports, setReports] = React.useState(dataSource.getReports(selectedId))
+  const [reports] = React.useState(
+    dataSource.getReports(selectedId)
+  )
   let sourceTypes = []
   reports.forEach(({ sourceType }) => {
     if (!sourceTypes.includes(sourceType)) {
@@ -40,8 +42,8 @@ export const SearchResults = () => {
       </Typography>
       <List>
         <p>Source Type:</p>
-        {sourceTypes.map(sourceType => (
-          <div>
+        {sourceTypes.map((sourceType) => (
+          <div key={sourceType}>
             <div className="dot" />
             <p>{sourceType}</p>
           </div>
