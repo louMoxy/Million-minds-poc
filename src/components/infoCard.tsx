@@ -2,7 +2,7 @@ import * as React from 'react'
 import styled from 'styled-components'
 import { Card, Typography, CardContent } from '@material-ui/core'
 import { colours } from '../components/GlobalStyles'
-import Info from '@material-ui/icons/info'
+import Info from '@material-ui/icons/Info'
 
 export const InfoCard = ({ text }: { text: string }) => {
   return (
