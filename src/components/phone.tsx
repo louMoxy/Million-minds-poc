@@ -129,8 +129,9 @@ const Container = styled.div`
   padding: 20px;
   overflow: hidden;
   font-size: 14px;
-  position: relative;
   max-width: 320px;
+  position: sticky;
+  top: 30px;
   p {
     margin-bottom: 0;
   }
