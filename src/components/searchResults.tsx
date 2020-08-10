@@ -22,9 +22,7 @@ const colourArray = [
 
 export const SearchResults = () => {
   const { selectedId } = React.useContext(SelectedIdContext)
-  const [reports] = React.useState(
-    dataSource.getReports(selectedId)
-  )
+  const [reports] = React.useState(dataSource.getReports(selectedId))
   let sourceTypes = []
   reports.forEach(({ sourceType }) => {
     if (!sourceTypes.includes(sourceType)) {
@@ -42,7 +40,7 @@ export const SearchResults = () => {
       </Typography>
       <List>
         <p>Source Type:</p>
-        {sourceTypes.map((sourceType) => (
+        {sourceTypes.map(sourceType => (
           <div key={sourceType}>
             <div className="dot" />
             <p>{sourceType}</p>
@@ -64,14 +62,26 @@ export const SearchResults = () => {
           </TableHead>
           <TableBody>
             {reports.map(
-              ({ sourceType, focus, date, authors, network, text }, i) => (
+              ({ sourceType, focus, date, authors, network, text, url }, i) => (
                 <TableRow key={i}>
-                  <TableCell style={{borderLeft: `solid 2px ${colourArray[sourceTypes.indexOf(sourceType)]}` }}>{sourceType}</TableCell>
+                  <TableCell
+                    style={{
+                      borderLeft: `solid 2px ${
+                        colourArray[sourceTypes.indexOf(sourceType)]
+                      }`,
+                    }}
+                  >
+                    {sourceType}
+                  </TableCell>
                   <TableCell>{focus}</TableCell>
                   <TableCell>{date}</TableCell>
                   <TableCell>{authors}</TableCell>
                   <TableCell>{network}</TableCell>
-                  <TableCell>{text}</TableCell>
+                  <TableCell>
+                    <a href={url} target="_blank">
+                      {text}
+                    </a>
+                  </TableCell>
                   <TableCell align={'center'}>0.8</TableCell>
                 </TableRow>
               )
