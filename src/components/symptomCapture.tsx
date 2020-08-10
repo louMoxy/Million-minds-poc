@@ -99,6 +99,7 @@ const Columns = styled.div`
 const SymptomCard = styled(Card)`
   width: 44%;
   margin: 20px;
+  cursor: pointer;
   .MuiCardContent-root {
     border-radius: 30px;
   }

@@ -2,14 +2,14 @@ import * as React from 'react'
 import styled from 'styled-components'
 import { colours } from './GlobalStyles'
 import { StepperContext } from '../context/stepperContext'
-import {useInterval} from './intervalHook'
+
 interface Props {
   appMessage: string
   responseMessage?: string
 }
 
 export const Phone = ({ appMessage, responseMessage }: Props) => {
-  const { setActiveStep } = React.useContext(StepperContext);
+  const { setActiveStep } = React.useContext(StepperContext)
   return (
     <Container>
       <AppMessage>
@@ -68,7 +68,7 @@ const AppMessage = styled.div`
 const Container = styled.div`
   height: 600px;
   width: 320px;
-  margin: 40px auto;
+  margin: 40px 20px;
   background: ${colours.offPurple};
   border: solid 9px black;
   border-radius: 30px;
@@ -78,8 +78,9 @@ const Container = styled.div`
   padding: 20px;
   overflow: hidden;
   font-size: 14px;
-  position: relative;
   max-width: 320px;
+  position: sticky;
+  top: 30px;
   p {
     margin-bottom: 0;
   }
