@@ -16,11 +16,12 @@ export const InfoCard = ({ text }: { text: string }) => {
 }
 
 const StyledCard = styled(Card)`
-  margin-right: 30px;
+  margin-right: 20px;
   height: fit-content;
   svg {
     margin-right: 5px;
     fill: ${colours.blue};
+    width: 20px;
   }
   .MuiCardContent-root {
     display: flex;

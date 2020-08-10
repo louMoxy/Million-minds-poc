@@ -31,7 +31,7 @@ export const QueryCreated = () => {
 }
 
 const infoText =
-  'Info panel explaining what the tech is doing in the back end. E.g. using John Snow Labs entity recognition model, topic expansion, referencing synonyms'
+  'These expanded search terms then form the basis of the patient search profile. As the AI develops and we work towards a knowledge graph, additional factors will be included in this search logic to improve the accuracy of results. At this stage a simple AND/OR logic is being used to search the database of medical literature.  '
 
 const Columns = styled.div`
   display: flex;

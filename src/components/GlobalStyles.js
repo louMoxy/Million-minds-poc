@@ -57,6 +57,9 @@ html {
   summary {
     display: block;
   }
+  main {
+    min-height: 90vh;
+  }
   audio,
   canvas,
   progress,

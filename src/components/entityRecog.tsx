@@ -31,7 +31,7 @@ export const EntityRecog = () => {
 }
 
 const infoText =
-  'Info panel explaining what the tech is doing in the back end. E.g. using John Snow Labs entity recognition model, topic expansion, referencing synonyms'
+  'The free form text is analysed using an entity recognition model (we are currently evaluating those from John Snow Labs, Stamford University and AWS Comprehend) and terms for symptoms, body parts, drugs and conditions are identified. The synonyms for these terms are also included in order to conduct a more comprehensive search.'
 
 const Columns = styled.div`
   display: flex;
