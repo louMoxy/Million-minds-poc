@@ -25,7 +25,7 @@ export const QueryCreated = () => {
           </Card>
         </div>
       </Columns>
-      <Phone/>
+      <Phone />
     </Container>
   )
 }

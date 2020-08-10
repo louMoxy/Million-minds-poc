@@ -15,7 +15,12 @@ import { Phone } from './phone'
 
 const maxStringLength = 200
 const symptomsData = dataSource.getAllSymptom()
-const sortedData = (a, b) => a.symptomName.localeCompare(b.symptomName)
+const sortData = (a, b) => {
+  if(b.symptomName === a.symptomName) {
+    return a.id - b.id;
+  }
+  return a.symptomName.localeCompare(b.symptomName)
+}
 
 export const SymptomCapture = () => {
   const [symptoms, setSymptoms] = React.useState(
@@ -25,7 +30,7 @@ export const SymptomCapture = () => {
         text: data.symptom.substring(0, maxStringLength),
         clipped: data.symptom.length > maxStringLength,
       }))
-      .sort(sortedData)
+      .sort(sortData)
   )
   const { selectedId, setSelectedId } = React.useContext(SelectedIdContext)
 
@@ -42,8 +47,8 @@ export const SymptomCapture = () => {
     const newData = [
       ...symptoms.filter(({ id }) => id !== clickedId),
       selectedData,
-    ]
-    setSymptoms(newData.sort(sortedData))
+    ].sort(sortData);
+    setSymptoms(newData)
   }
   const currentSymptom = symptoms.find(({ id }) => id === selectedId)
 
