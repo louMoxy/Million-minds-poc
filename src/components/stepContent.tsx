@@ -5,8 +5,9 @@ import * as React from 'react'
 import { SymptomCapture } from './symptomCapture'
 import { EntityRecog } from './entityRecog'
 import { StepperContext } from '../context/stepperContext'
+import { QueryCreated } from './queryCreated'
 
-export const stepContent = [<SymptomCapture />, <EntityRecog />, <SymptomCapture />]
+export const stepContent = [<SymptomCapture />, <EntityRecog />, <QueryCreated />]
 
 export const StepContent = () => {
   const { activeStep } = React.useContext(StepperContext);
