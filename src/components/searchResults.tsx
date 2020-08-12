@@ -77,7 +77,7 @@ export const SearchResults = () => {
                   <TableCell>{date}</TableCell>
                   <TableCell>{authors}</TableCell>
                   <TableCell>{network}</TableCell>
-                  <TableCell>
+                  <TableCell style={{textDecoration: 'underline'}}>
                     <a href={url} target="_blank">
                       {text}
                     </a>
