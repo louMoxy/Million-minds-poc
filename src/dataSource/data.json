@@ -5,7 +5,9 @@
     "symptom": "For a few days I've had sharp stomach pain and sickness alongside no appetite at all. Then last night the pain grew even more intense, I vomited for at least three hours and felt sick all through the night.",
     "terms": [
       "stomach pain",
-      "sickness"
+      "sickness",
+      "vomited",
+      "felt sick"
     ]
   },
   {
@@ -92,7 +94,7 @@
   },
   {
     "id": 9,
-    "symptomName": "Endometriosis ",
+    "symptomName": "Endometriosis",
     "symptom": "Excessively heavy period, extreme period pain for a week each month which leads most months to having to take time off work.",
     "terms": [
       "heavy period",

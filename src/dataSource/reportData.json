@@ -9,6 +9,15 @@
     "text": "In an observational study of 230 children with appendicitis, a delay of more than 48 hours from symptom onset to diagnosis and surgery was associated with an increase in the perforation rate compared with those in whom diagnosis and surgery occurred within 24 hours (adjusted odds ratio = 4.9 [95% CI, 1.9 to 12] vs. 3.6 [95% CI, 1.4 to 9.2]), as well as a 56% mean increase in the length of hospital stay.6 Based on a study of 375 children (26% of whom had perforation), risk factors for perforation included fever, vomiting, longer duration of symptoms, elevated CRP level or WBC count, and ultrasound findings of free abdominal fluid, visualized perforation, or a mean appendix diameter of 11 mm or more.34 Surgical consultation is recommended in these patients to determine whether they are candidates for nonsurgical treatment with intravenous antibiotics."
   },
   {
+    "focus": "Appendicitis",
+    "sourceType": "Academic Publication",
+    "network": "",
+    "authors": "MATTHEW J. SNYDER, DO, MARJORIE GUTHRIE, MD, and STEPHEN CAGLE, MD",
+    "date": "Jul-18",
+    "url": "https://www.aafp.org/afp/2018/0701/p25.html",
+    "text": "In a study of 375 children, risk factors for appendiceal perforation included fever, vomiting, longer duration of symptoms, elevated C-reactive protein level or white blood cell count, and ultrasound findings of free abdominal fluid, visualized perforation, or a mean appendix diameter of 11 mm or more."
+  },
+  {
     "focus": "Osteoarthritis",
     "sourceType": "Journal",
     "network": "Viral Arthritis",
@@ -282,37 +291,37 @@
     "focus": "Lyme Disease",
     "sourceType": "Journal",
     "network": "Chronic Lyme Disease",
-    "authors": "",
-    "date": "",
+    "authors": "Paul M. Lantos, MD",
+    "date": "Jun-16",
     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4477530/",
     "text": "For the purpose of the ILADS guidelines, ‘chronic Lyme disease’ is inclusive of persistent symptomatologies including fatigue, cognitive dysfunction, headaches, sleep disturbance and other neurologic features, such as demyelinating disease, peripheral neuropathy and sometimes motor neuron disease, neuropsychiatric presentations, cardiac presentations (including electrical conduction delays and dilated cardiomyopathy), and musculoskeletal problems."
   },
   {
     "focus": "Lyme Disease",
     "sourceType": "Journal",
+    "network": "Chronic Lyme Disease",
+    "authors": "Paul M. Lantos, MD",
+    "date": "Jun-16",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4477530/",
+    "text": " It is well-recognized that some patients experience prolonged symptoms during convalescence from Lyme disease, and a subset suffer significant functional impairment. The most common complaints among such patients are arthralgias, myalgias, headache, neck and backache, fatigue, irritability, and cognitive dysfunction (particularly perceived difficulty with memory and concentration)."
+  },
+  {
+    "focus": "Lyme Disease",
+    "sourceType": "Journal",
     "network": "The General Symptom Questionnaire-30 (GSQ-30): A Brief Measure of Multi-System Symptom Burden in Lyme Disease",
-    "authors": "",
-    "date": "",
+    "authors": "Brian A. Fallon, Nevena Zubcevik, Clair Bennett1, Shreya Doshi1, Alison W. Rebman, Ronit Kishon1, James R. Moeller1, Nadlyne R. Octavien and John N. Aucott",
+    "date": "Dec-19",
     "url": "https://www.frontiersin.org/articles/10.3389/fmed.2019.00283/full",
-    "text": "Table 2. Summary of factor loadings for all clinical cases (N = 305)."
+    "text": "Welch's one-way tests indicated significant differences between clinical groups across three of four subscales; pain and fatigue [F(3, 114.86) = 17.04, p < 0.001], neuropsychiatric symptoms [F(3, 110.45) = 36.19, p < 0.001], and neurological symptoms [F(3, 108.29) = 11.96, p < 0.001]. Pairwise post-hoc comparisons (Figure 2) revealed significant differences between PTLDS and both EM and TBI on the pain and fatigue subscale; and between PTLDS and EM on both the neurologic and the neuropsychiatric subscales. All other comparisons were not significant."
   },
   {
     "focus": "Lyme Disease",
     "sourceType": "Journal",
     "network": "Lyme disease",
-    "authors": "",
-    "date": "",
+    "authors": "Thomas S. Murray, and Eugene D. Shapiro",
+    "date": "May-13",
     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3652387/",
     "text": "Lyme disease, caused by the spirochete Borrelia burgdorferi, is the most common vector-borne disease in the United States. The clinical presentation varies depending on the stage of the illness: early disease includes erthyma migrans, early disseminated disease includes multiple erythema migrans, meningitis, cranial nerve palsies, and carditis; late disease is primarily arthritis. The symptoms and signs of infection resolve in most patients after treatment with appropriate antimicrobials for 2 to 4 weeks. Serologic testing should be used judiciously as it often results in misdiagnosis when performed on blood from patients with a low prior probability of disease and those with only nonspecific symptoms such as fatigue or arthralgia without objective signs of infection."
-  },
-  {
-    "focus": "Lyme Disease",
-    "sourceType": "Journal",
-    "network": "Characteristics and patient pathways of Lyme disease patients: a retrospective analysis of hospital episode data in England and Wales (1998–2015)",
-    "authors": "",
-    "date": "",
-    "url": "https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-019-7245-8",
-    "text": ""
   },
   {
     "focus": "Lyme Disease",
@@ -336,8 +345,8 @@
     "focus": "Lyme Disease",
     "sourceType": "Journal",
     "network": "Chronic Lyme Disease",
-    "authors": "",
-    "date": "",
+    "authors": "Paul M. Lantos",
+    "date": "Jun-16",
     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4477530/",
     "text": "Some CLD advocates emphasize that CLD is a polymicrobial infection in which patients suffer from multiple tick-borne coinfections.71,72 In practice, patients with a diagnosis of CLD are often diagnosed with and treated for numerous superimposed infections, including Babesia spp and Anaplasma phagocytophilum (well-described tick-borne pathogens), Bartonella henselae (which is not known to be transmitted by ticks), pathogens of unclear clinical relevance such as the xenotropic murine leukemia virus-related virus, and even completely fictitious pathogens such as “Protomyxozoa rheumatica.” There is no evidence to support chronic anaplasmosis; chronic symptomatic babesiosis when present invariably is associated with fever and molecular or microscopic evidence of parasitemia. Bartonella species are readily identified in ticks, but there is virtually no quality evidence of tick-borne transmission to humans or of simultaneous Lyme disease and bartonellosis.73 It is important to recognize that, in the context of CLD, a diagnosis of coinfection may be just as spurious."
   },
