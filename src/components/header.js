@@ -49,11 +49,11 @@ const Header = () => {
                   Proof of Concept
                 </span>
               </Link>
-              {/*<Link to="/about" component="button" activeClassName="active">*/}
-              {/*  <span color="inherit" className={classes.navButton}>*/}
-              {/*    About*/}
-              {/*  </span>*/}
-              {/*</Link>*/}
+              <Link to="/about" component="button" activeClassName="active">
+                <span color="inherit" className={classes.navButton}>
+                  About
+                </span>
+              </Link>
             </NavWrapper>
           </Toolbar>
         </AppBar>
