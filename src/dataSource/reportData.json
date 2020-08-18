@@ -289,12 +289,33 @@
   },
   {
     "focus": "Lyme Disease",
+    "sourceType": "Reddit",
+    "network": "Lyme Disease, Babesia, Bartonella",
+    "authors": "Snoo93542",
+    "date": "7th July 2020",
+    "url": "https://www.reddit.com/r/lymedisease/comments/hmn8nm/lyme_disease_babesia_bartonella/",
+    "text": "Hey everyone I got Lyme disease in 2016, although I believe it was dormant in my body many years prior. I was experiencing some adverse symptoms that were ongoing for many months such as extreme fatigue, dizzness/lightheadness spells, fainting, chest pains, heart palpations, shortness of breath, and many more unusual and scary symptoms. After visiting many doctors and a few months of uncertainty I was diagnosed with lyme disease along with co-infections babesia and bartonella from positive blood test along with clinical diagnostic from lyme specialist. ",
+    "index":"1.0"
+  },
+  {
+    "focus": "Lyme Disease",
+    "sourceType": "NHS111",
+    "network": "Lyme disease",
+    "authors": "NHS",
+    "date": "27th April 2018",
+    "url": "https://www.nhs.uk/conditions/lyme-disease/",
+    "text": "Not everyone with Lyme disease gets the rash. Some people also have flu-like symptoms in the early stages, such as:\n\na high temperature, or feeling hot and shivery\nheadaches\nmuscle and joint pain\ntiredness and loss of energy\nOther symptoms of Lyme disease\nSome people with Lyme disease develop more severe symptoms months or years later.\n\nThis is more likely if treatment is delayed.\n\nThese more severe symptoms may include:\n\npain and swelling in joints\nnerve problems – such as pain or numbness\nheart problems\ntrouble with memory or concentration",
+    "index": "0.9"
+  },  
+  {
+    "focus": "Lyme Disease",
     "sourceType": "Journal",
     "network": "Chronic Lyme Disease",
     "authors": "Paul M. Lantos, MD",
     "date": "Jun-16",
     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4477530/",
-    "text": "For the purpose of the ILADS guidelines, ‘chronic Lyme disease’ is inclusive of persistent symptomatologies including fatigue, cognitive dysfunction, headaches, sleep disturbance and other neurologic features, such as demyelinating disease, peripheral neuropathy and sometimes motor neuron disease, neuropsychiatric presentations, cardiac presentations (including electrical conduction delays and dilated cardiomyopathy), and musculoskeletal problems."
+    "text": "For the purpose of the ILADS guidelines, ‘chronic Lyme disease’ is inclusive of persistent symptomatologies including fatigue, cognitive dysfunction, headaches, sleep disturbance and other neurologic features, such as demyelinating disease, peripheral neuropathy and sometimes motor neuron disease, neuropsychiatric presentations, cardiac presentations (including electrical conduction delays and dilated cardiomyopathy), and musculoskeletal problems.",
+    "index": "0.8"
   },
   {
     "focus": "Lyme Disease",
@@ -303,8 +324,9 @@
     "authors": "Paul M. Lantos, MD",
     "date": "Jun-16",
     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4477530/",
-    "text": " It is well-recognized that some patients experience prolonged symptoms during convalescence from Lyme disease, and a subset suffer significant functional impairment. The most common complaints among such patients are arthralgias, myalgias, headache, neck and backache, fatigue, irritability, and cognitive dysfunction (particularly perceived difficulty with memory and concentration)."
-  },
+    "text": " It is well-recognized that some patients experience prolonged symptoms during convalescence from Lyme disease, and a subset suffer significant functional impairment. The most common complaints among such patients are arthralgias, myalgias, headache, neck and backache, fatigue, irritability, and cognitive dysfunction (particularly perceived difficulty with memory and concentration).",
+    "index": "0.8"
+ },
   {
     "focus": "Lyme Disease",
     "sourceType": "Journal",
@@ -312,7 +334,8 @@
     "authors": "Brian A. Fallon, Nevena Zubcevik, Clair Bennett1, Shreya Doshi1, Alison W. Rebman, Ronit Kishon1, James R. Moeller1, Nadlyne R. Octavien and John N. Aucott",
     "date": "Dec-19",
     "url": "https://www.frontiersin.org/articles/10.3389/fmed.2019.00283/full",
-    "text": "Welch's one-way tests indicated significant differences between clinical groups across three of four subscales; pain and fatigue [F(3, 114.86) = 17.04, p < 0.001], neuropsychiatric symptoms [F(3, 110.45) = 36.19, p < 0.001], and neurological symptoms [F(3, 108.29) = 11.96, p < 0.001]. Pairwise post-hoc comparisons (Figure 2) revealed significant differences between PTLDS and both EM and TBI on the pain and fatigue subscale; and between PTLDS and EM on both the neurologic and the neuropsychiatric subscales. All other comparisons were not significant."
+    "text": "Welch's one-way tests indicated significant differences between clinical groups across three of four subscales; pain and fatigue [F(3, 114.86) = 17.04, p < 0.001], neuropsychiatric symptoms [F(3, 110.45) = 36.19, p < 0.001], and neurological symptoms [F(3, 108.29) = 11.96, p < 0.001]. Pairwise post-hoc comparisons (Figure 2) revealed significant differences between PTLDS and both EM and TBI on the pain and fatigue subscale; and between PTLDS and EM on both the neurologic and the neuropsychiatric subscales. All other comparisons were not significant.",
+    "index": "0.7"
   },
   {
     "focus": "Lyme Disease",
@@ -321,25 +344,8 @@
     "authors": "Thomas S. Murray, and Eugene D. Shapiro",
     "date": "May-13",
     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3652387/",
-    "text": "Lyme disease, caused by the spirochete Borrelia burgdorferi, is the most common vector-borne disease in the United States. The clinical presentation varies depending on the stage of the illness: early disease includes erthyma migrans, early disseminated disease includes multiple erythema migrans, meningitis, cranial nerve palsies, and carditis; late disease is primarily arthritis. The symptoms and signs of infection resolve in most patients after treatment with appropriate antimicrobials for 2 to 4 weeks. Serologic testing should be used judiciously as it often results in misdiagnosis when performed on blood from patients with a low prior probability of disease and those with only nonspecific symptoms such as fatigue or arthralgia without objective signs of infection."
-  },
-  {
-    "focus": "Lyme Disease",
-    "sourceType": "Reddit",
-    "network": "Lyme Disease, Babesia, Bartonella",
-    "authors": "Snoo93542",
-    "date": "7th July 2020",
-    "url": "https://www.reddit.com/r/lymedisease/comments/hmn8nm/lyme_disease_babesia_bartonella/",
-    "text": "Hey everyone I got Lyme disease in 2016, although I believe it was dormant in my body many years prior. I was experiencing some adverse symptoms that were ongoing for many months such as extreme fatigue, dizzness/lightheadness spells, fainting, chest pains, heart palpations, shortness of breath, and many more unusual and scary symptoms. After visiting many doctors and a few months of uncertainty I was diagnosed with lyme disease along with co-infections babesia and bartonella from positive blood test along with clinical diagnostic from lyme specialist. "
-  },
-  {
-    "focus": "Lyme Disease",
-    "sourceType": "NHS111",
-    "network": "",
-    "authors": "NHS",
-    "date": "27th April 2018",
-    "url": "https://www.nhs.uk/conditions/lyme-disease/",
-    "text": "Not everyone with Lyme disease gets the rash. Some people also have flu-like symptoms in the early stages, such as:\n\na high temperature, or feeling hot and shivery\nheadaches\nmuscle and joint pain\ntiredness and loss of energy\nOther symptoms of Lyme disease\nSome people with Lyme disease develop more severe symptoms months or years later.\n\nThis is more likely if treatment is delayed.\n\nThese more severe symptoms may include:\n\npain and swelling in joints\nnerve problems – such as pain or numbness\nheart problems\ntrouble with memory or concentration"
+    "text": "Lyme disease, caused by the spirochete Borrelia burgdorferi, is the most common vector-borne disease in the United States. The clinical presentation varies depending on the stage of the illness: early disease includes erthyma migrans, early disseminated disease includes multiple erythema migrans, meningitis, cranial nerve palsies, and carditis; late disease is primarily arthritis. The symptoms and signs of infection resolve in most patients after treatment with appropriate antimicrobials for 2 to 4 weeks. Serologic testing should be used judiciously as it often results in misdiagnosis when performed on blood from patients with a low prior probability of disease and those with only nonspecific symptoms such as fatigue or arthralgia without objective signs of infection.",
+    "index": "0.7"
   },
   {
     "focus": "Lyme Disease",
@@ -348,7 +354,8 @@
     "authors": "Paul M. Lantos",
     "date": "Jun-16",
     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4477530/",
-    "text": "Some CLD advocates emphasize that CLD is a polymicrobial infection in which patients suffer from multiple tick-borne coinfections.71,72 In practice, patients with a diagnosis of CLD are often diagnosed with and treated for numerous superimposed infections, including Babesia spp and Anaplasma phagocytophilum (well-described tick-borne pathogens), Bartonella henselae (which is not known to be transmitted by ticks), pathogens of unclear clinical relevance such as the xenotropic murine leukemia virus-related virus, and even completely fictitious pathogens such as “Protomyxozoa rheumatica.” There is no evidence to support chronic anaplasmosis; chronic symptomatic babesiosis when present invariably is associated with fever and molecular or microscopic evidence of parasitemia. Bartonella species are readily identified in ticks, but there is virtually no quality evidence of tick-borne transmission to humans or of simultaneous Lyme disease and bartonellosis.73 It is important to recognize that, in the context of CLD, a diagnosis of coinfection may be just as spurious."
+    "text": "Some CLD advocates emphasize that CLD is a polymicrobial infection in which patients suffer from multiple tick-borne coinfections.71,72 In practice, patients with a diagnosis of CLD are often diagnosed with and treated for numerous superimposed infections, including Babesia spp and Anaplasma phagocytophilum (well-described tick-borne pathogens), Bartonella henselae (which is not known to be transmitted by ticks), pathogens of unclear clinical relevance such as the xenotropic murine leukemia virus-related virus, and even completely fictitious pathogens such as “Protomyxozoa rheumatica.” There is no evidence to support chronic anaplasmosis; chronic symptomatic babesiosis when present invariably is associated with fever and molecular or microscopic evidence of parasitemia. Bartonella species are readily identified in ticks, but there is virtually no quality evidence of tick-borne transmission to humans or of simultaneous Lyme disease and bartonellosis.73 It is important to recognize that, in the context of CLD, a diagnosis of coinfection may be just as spurious.",
+    "index": "0.7"
   },
   {
     "focus": "Multiple Sclerosis ",
