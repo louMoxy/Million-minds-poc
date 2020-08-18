@@ -55,7 +55,7 @@ export const SearchResults = () => {
               <TableCell width={'120px'}>Focus of Content </TableCell>
               <TableCell>Date</TableCell>
               <TableCell>Authors</TableCell>
-              <TableCell>Network​</TableCell>
+              <TableCell>Title</TableCell>
               <TableCell>Relevant passage text</TableCell>
               <TableCell width={'100px'}>Index Score</TableCell>
             </TableRow>
