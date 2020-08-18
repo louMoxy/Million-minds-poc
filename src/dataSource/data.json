@@ -94,7 +94,7 @@
   },
   {
     "id": 9,
-    "symptomName": "Endometriosis",
+    "symptomName": "Endometriosis ",
     "symptom": "Excessively heavy period, extreme period pain for a week each month which leads most months to having to take time off work.",
     "terms": [
       "heavy period",
@@ -208,9 +208,12 @@
       "hot and shivery",
       "headaches",
       "muscle and joint pain",
-      "tired and exhausted",
+      "tired",
+      "exhausted",
+      "fatigue",
       "loss of energy",
-      "heart palpitations"
+      "heart palpitations",
+      "heart palpatations"
     ]
   },
   {
