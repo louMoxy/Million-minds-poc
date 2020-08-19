@@ -13,12 +13,12 @@
   {
     "id": 2,
     "symptomName": "Appendicitis",
-    "symptom": "I woke up with severe stomach pain this morning, I have been having some abdominal pain with constipation since last Thursday. It’s been a couple of hours since I woke up, the pain still persists, pain at the lower abdominal right feels constant.",
+    "symptom": "I woke up with severe stomach pain this morning, I have been having some abdominal pain with constipation since last Thursday. It’s been a couple of hours since I woke up, the pain still persists, pain at the right side of lower abdomen feels constant.",
     "terms": [
       "severe stomach pain",
       "abdominal pain",
       "constipation",
-      "pain at the lower abdominal"
+      "right side of lower abdomen"
     ]
   },
   {
@@ -202,7 +202,7 @@
   {
     "id": 17,
     "symptomName": "Lyme Disease",
-    "symptom": "I've been getting a high temperature and feeling hot and shivery. I also get headaches and muscle and joint pain and feel tired and exhausted with a complete loss of energy. I've had some standard tests done by the doctor but nothing major has come back. I sometimes also get heart palpitations",
+    "symptom": "I've been getting a high temperature and feeling hot and shivery. I also get headaches and muscle and joint pain and feel tired and exhausted with a complete loss of energy. I've had some standard tests done by the doctor but nothing major has come back. I sometimes also get heart palpitations and have spells of dizziness",
     "terms": [
       "high temperature",
       "hot and shivery",
@@ -213,7 +213,8 @@
       "fatigue",
       "loss of energy",
       "heart palpitations",
-      "heart palpatations"
+      "heart palpatations",
+      "dizziness"	
     ]
   },
   {
