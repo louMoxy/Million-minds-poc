@@ -31,7 +31,7 @@ export class dataSource {
 
   static getReports(id: number): ReportData[] {
     const {symptomName} = data.find((d: Data) => d.id === id);
-    return reports.filter(({focus}) => focus === symptomName)
+    return reports.filter(({focus}) => focus === symptomName).sort((a: ReportData, b: ReportData) => (b.index || 0.8) - (a.index || 0.8))
   }
 }
 
@@ -51,4 +51,5 @@ interface ReportData {
   text: string
   url: string
   score: number
+  index?: number
 }
