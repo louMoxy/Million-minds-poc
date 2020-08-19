@@ -1,454 +1,453 @@
-[
-  {
-    "focus": "Appendicitis",
-    "sourceType": "Academic Publication",
-    "network": "",
-    "authors": "MATTHEW J. SNYDER, DO, MARJORIE GUTHRIE, MD, and STEPHEN CAGLE, MD",
-    "date": "Jul-18",
-    "url": "https://www.aafp.org/afp/2018/0701/p25.html",
-    "text": "In an observational study of 230 children with appendicitis, a delay of more than 48 hours from symptom onset to diagnosis and surgery was associated with an increase in the perforation rate compared with those in whom diagnosis and surgery occurred within 24 hours (adjusted odds ratio = 4.9 [95% CI, 1.9 to 12] vs. 3.6 [95% CI, 1.4 to 9.2]), as well as a 56% mean increase in the length of hospital stay.6 Based on a study of 375 children (26% of whom had perforation), risk factors for perforation included fever, vomiting, longer duration of symptoms, elevated CRP level or WBC count, and ultrasound findings of free abdominal fluid, visualized perforation, or a mean appendix diameter of 11 mm or more.34 Surgical consultation is recommended in these patients to determine whether they are candidates for nonsurgical treatment with intravenous antibiotics."
-  },
-  {
-    "focus": "Appendicitis",
-    "sourceType": "Academic Publication",
-    "network": "",
-    "authors": "MATTHEW J. SNYDER, DO, MARJORIE GUTHRIE, MD, and STEPHEN CAGLE, MD",
-    "date": "Jul-18",
-    "url": "https://www.aafp.org/afp/2018/0701/p25.html",
-    "text": "In a study of 375 children, risk factors for appendiceal perforation included fever, vomiting, longer duration of symptoms, elevated C-reactive protein level or white blood cell count, and ultrasound findings of free abdominal fluid, visualized perforation, or a mean appendix diameter of 11 mm or more."
-  },
-  {
-    "focus": "Osteoarthritis",
-    "sourceType": "Journal",
-    "network": "Viral Arthritis",
-    "authors": "Michael Marks, clinical research fellowA and Jonathan L Marks, consultant rheumatologistB",
-    "date": "Apr-16",
-    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4868140/",
-    "text": "Table 1. Key features of major viral arthritides.\nVirus Epidemiology Common clinical features Diagnostic test\nParvovirus B19 Exposure to young children Large joint oligoarticular in children, RA-like pattern\n\nmore common in adults.\n\nB19 IgM\n\nHepatitis B Congenital transmission in high-risk\n\ncountries MSM, IDU\n\nRA-like pattern of arthritis lasting days to months\nwith rash, malaise or myalgia. Joint symptoms often\nresolve with onset of jaundice.\n\nHBsAg, anti-HBc,\nHBV DNA\n\nHCV Worldwide MSM, IDU, blood\n\ntransfusions\n\nMild RA-like pattern of arthritis/ arthralgia. Anti-HCV, HCV-RNA\n\nHCV-associated\ncryoglobulinaemia\n\nAs above Large joint oligoarticular non-erosive arthritis (often\n\ninvolving ankles).\n\nAnti-HCV, HCV-RNA,\ncryoglobulins, low C4\n\nHIV Worldwide – especially sub-Saharan\nAfrica, multiple sexual partners,\nMSM, IDU, blood transfusions\n\nVariety of presentations reported. Joint symptoms\nas part of an immune-reconstitution syndrome also\ndescribed with initiation of retroviral therapy.\n\nAnti-HIV1/2, HIV-\nRNA\n\nAlphaviruses Specific geographical range for\neach virus – See Fig 1\n\nChronic arthritis/arthralgia associated with\nchikungunya infection, as well as tenosynovitis,\ncarpal tunnel syndrome and new-onset Raynaud\nphenomenon. Associated thrombocytopenia common.\n\nSpecific-viral IgM,\nspecific-viral RNA\n\nHTLV-1 Japan, Caribbean Chronic large and medium joint oligoarthritis. Fever\nmyalgia and skin lesions common at onset of joint\nsymptoms. Associated inflammatory eye, skin and\nmuscle disorders reported.\n\nAnti-HTLV-1, HTLV-\n1-DNA\n\nCHIKV = chikungunya; HBV = hepatitis B virus; HCV = hepatitis C virus; HTLV-1 = human T-lymphotrophic virus type-1; IDU = injecting drug user; MSM = men who\nhave sex with men; RA = rheumatoid artritis."
-  },
-  {
-    "focus": "Osteoarthritis",
-    "sourceType": "Journal",
-    "network": "Genetics and the classification of arthritis in adults and children",
-    "authors": "Peter A. Nigrovic, M.D. Soumya Raychaudhuri, M.D., Ph.D. and Susan D. Thompson, Ph.D",
-    "date": "Dec-17",
-    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5805142/",
-    "text": "Historically, arthritis has been classified by clinical phenotype, as adjudicated by experts. Reliance on expert opinion is sometimes termed eminence-based medicine, a tongue-in-cheek contrast with evidence-based medicine. Sometimes clinical observation works well. For example, RA, gout and rheumatic fever were distinguished from one another on the basis of patient demographics, joint distribution, chronicity, and blood uric acid levels (2, 3). Yet pattern recognition has its limits, and RA itself is an excellent example. The identification of rheumatoid factor (RF) and then anti-citrullinated peptide antibodies (ACPAs) uncovered a fault line that would have been difficult to identify clinically, since seropositive and seronegative RA exhibit extensive phenotypic overlap. Yet these conditions differ in genetic associations, in immune complexes and complement fixation within the joint, and in synovial T cell populations (4–8). RA thus exemplifies how shared phenotype is an imperfect guide to shared pathophysiology."
-  },
-  {
-    "focus": "Osteoarthritis",
-    "sourceType": "Journal",
-    "network": "Autoimmune Arthritides, Rheumatoid Arthritis, Psoriatic Arthritis, or Peripheral Spondyloarthropathy, Following Lyme Disease",
-    "authors": "Sheila L. Arvikar, MD Jameson T. Crowley, PhD, Katherine B. Sulka, BS, and Allen C. Steere, MD",
-    "date": "Jan-17",
-    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5195856/",
-    "text": "Lyme arthritis (LA) was identified as a clinical entity in the late 1970’s after an outbreak of monoarticular and oligoarticular arthritis in children in Lyme, Connecticut (1). LA is now known to be a late manifestation of Lyme disease (2) caused by the tick-transmitted spirochete Borrelia burgdorferi (3). Before the cause of the disease was known, about 60% of non-antibiotic-treated patients developed LA within a median duration of 6 months (range, 4 days to 2 years) after the initial erythema migrans (EM) skin lesion (4). These patients experienced intermittent or persistent attacks of swelling and pain primarily in one or a few large joints, especially the knee, over a period of several years (4,5). Small joints, tendons or bursae were occasionally affected, usually in one location at a time. However, while some patients may report a history of a tick bite or EM, arthritis may be the presenting manifestation of the illness, without earlier signs or symptoms of Lyme disease (6)."
-  },
-  {
-    "focus": "Osteoarthritis",
-    "sourceType": "Published Content",
-    "network": "Biomarkers of (osteo)arthritis",
-    "authors": "Ali Mobasheri & Yves Henrotin",
-    "date": "Mar-16",
-    "url": "http://epubs.surrey.ac.uk/810635/1/Biomarkers%20of%20osteo%20arthritis.pdf",
-    "text": "Arthritic diseases are a major cause of disability and morbidity, and cause an enormous burden\nfor health and social care systems globally. Osteoarthritis (OA) is the most common form of\narthritis. The key risk factors for the development of OA are age, obesity, joint trauma or\ninstability. Metabolic and endocrine diseases can also contribute to the pathogenesis of OA.\nThere is accumulating evidence to suggest that OA is a whole-organ disease that is influenced\nby systemic mediators, inflammaging, innate immunity and the low-grade inflammation\ninduced by metabolic syndrome. Although all joint tissues are implicated in disease progression\nin OA, articular cartilage has received the most attention in the context of aging, injury and\ndisease. There is increasing emphasis on the early detection of OA as it has the capacity to\ntarget and treat the disease more effectively. Indeed it has been suggested that this is the era of\n‘‘personalized prevention’’ for OA. However, the development of strategies for the prevention\nof OA require new and sensitive biomarker tools that can detect the disease in its molecular\nand pre-radiographic stage, before structural and functional alterations in cartilage integrity\nhave occurred. There is also evidence to support a role for biomarkers in OA drug discovery,\nspecifically the development of disease modifying osteoarthritis drugs. This Special Issue of\nBiomarkers is dedicated to recent progress in the field of OA biomarkers. The papers in this\nSpecial Issue review the current state-of-the-art and discuss the utility of OA biomarkers as\ndiagnostic and prognostic tools."
-  },
-  {
-    "focus": "Osteoarthritis",
-    "sourceType": "Journal",
-    "network": "Treatment strategies in early rheumatoid arthritis and prevention of rheumatoid arthritis",
-    "authors": "M Kristen Demoruelle 1, Kevin D Deane",
-    "date": "Oct-12",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/22773387/",
-    "text": "Data now suggest that current strategies in the treatment of rheumatoid arthritis (RA) should focus on early identification and diagnosis, followed by early initiation of DMARD therapy. Initiation of treatment in early RA-ideally, less than 3-6 months after symptom onset-improves the success of achieving disease remission and reduces joint damage and disability. While the optimal treatment regimen in early RA is unclear, use of initial DMARD mono- or combination therapy with prompt escalation to achieve low disease activity or remission is an appropriate approach. Ultimately, the goal of RA management should be the prevention of inflammatory joint disease and, thereby, prevention of disability. To date, studies have shown that pharmacologic interventions can delay progression from undifferentiated inflammatory arthritis to classifiable RA. However, further investigation is needed to identify asymptomatic individuals at high risk for future RA and to intervene early enough in the pathogenesis of RA to prevent progression to clinical disease."
-  },
-  {
-    "focus": "Osteoarthritis and Rheumatoid Arthritis",
-    "sourceType": "Journal",
-    "network": "Rheumatoid Arthritis: Early diagnosis and treatment outcomes",
-    "authors": "Behzad Heidari, MD",
-    "date": "Dec-11",
-    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3766928/",
-    "text": "It seems that a considerable proportion of UA, progress to RA, on the other hand about 10% of early RA experience natural remission (8). While earlier treatment of inflammatory arthritis is expected to prevent development of RA and even exert a curative effect for a proportion of patients, on the other hand, inappropriate treatment of patients who do not develop RA is harmful and should be avoided .In this condition, the most important challenge is to predict RA development in those patients who have persistent arthritis. The proportion of UA patients who progress to RA varies considerably across various studies. This may be explained by the differences in inclusion criteria, or in definitions used for diagnosis of UA or RA, characteristics of UA patients, and duration of follow-up period. In a number of published studies, after one year of inclusion proportion UA patients developed RA ranged from 6% to 55%.Studies in which, presence of arthritis at disease onset was mandatory for inclusion ,proportion of patients who fulfilled ACR criteria ranged 17-32% (15). Several variables have been regarded as predictors of future RA in patients with early arthritis (table 1). Variables such as duration of morning stiffness in minutes, percentage change in HAQ score after 3 months disease duration and anti-CCP positivity are predictors of persistent arthritis (2, 16). Presence of these findings at baseline can also be used in differentiating persistent arthritis from self-limited arthritis. Among patients with iUA, recognizing patients with progressive course particularly those who develop erosive disease is very important. There is a great need to accurately predict the development of a well-defined diagnosis such as RA or other rheumatic diseases for initiation of treatment. Autoantibodies such as rheumatoid factor (RF) and anticylic citrullinated peptide antibodies (anti-CCP) have demonstrated high diagnostic specificity and can allow accurate prediction of RA in patients with UA. (10, 17-23). In addition, some clinical or radiological features at baseline may also predict subsequent development of RA. In a study of recent onset arthritis, patients with mean disease duration of 3 months, over a median follow up period of 5 years, the presence of polyarticular disease predicted persistent arthritis and presence of hand arthritis t was the most predictor of a poor outcome (24)."
-  },
-  {
-    "focus": "Rheumatoid Arthritis",
-    "sourceType": "Journal",
-    "network": "Autoimmune Arthritides, Rheumatoid Arthritis, Psoriatic Arthritis, or Peripheral Spondyloarthropathy, Following Lyme Disease",
-    "authors": "Sheila L. Arvikar, MD,* Jameson T. Crowley, PhD, Katherine B. Sulka, BS, and Allen C. Steere, MD",
-    "date": "Jan-18",
-    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5195856/",
-    "text": "These patients experienced intermittent or persistent attacks of swelling and pain primarily in one or a few large joints, especially the knee, over a period of several years (4,5). Small joints, tendons or bursae were occasionally affected, usually in one location at a time. However, while some patients may report a history of a tick bite or EM, arthritis may be the presenting manifestation of the illness, without earlier signs or symptoms of Lyme disease (6)"
-  },
-  {
-    "focus": "Rheumatoid Arthritis",
-    "sourceType": "Journal",
-    "network": "Treatment Strategies in Early Rheumatoid Arthritis and Prevention of Rheumatoid Arthritis",
-    "authors": "M. Kristen Demoruelle and Kevin D. Deane",
-    "date": "Oct-13",
-    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3616381/",
-    "text": "However, it is now generally accepted that early RA is the onset of symptoms of joint (typically polyarticular) pain, stiffness, or swelling within the past 3 months [2, 3•], although in practical terms it may be difficult for rheumatologists to evaluate patients within that 3-month time frame, due to a variety of factors, including delay in referral of patients with early symptoms of inflammatory arthritis (IA) or delays in patients seeking medical attention for their symptoms [4]."
-  },
-  {
-    "focus": "Lung Cancer",
-    "sourceType": "Academic Publication",
-    "network": "",
-    "authors": "Stephen H. Bradley, Martyn P. T. Kennedy & Richard D. Neal ",
-    "date": "Nov-18",
-    "url": "https://link.springer.com/article/10.1007/s12325-018-0843-5",
-    "text": "Most patients with lung cancer first present to their general practitioner (GP) [13,14,15,16]. Lung cancer often presents with symptoms that are very commonly encountered in primary care, making early diagnosis challenging. A large UK-based population study demonstrated that although cough is one of the most frequent symptoms of lung cancer, only 0.2% of patients who had a cough for 3 weeks were ultimately diagnosed with lung cancer [17]. The UK’s National Cancer Diagnosis Audit reported that the median primary care interval (time from first presentation to referral) for lung cancer was 14 days, the second highest of 15 cancers reported. Prolonged primary care intervals of 60 and 90 days were experienced by 17.9% and 10.8% of patients respectively [18]. A third of patients diagnosed with lung cancer have attended their GP with symptoms attributable to their cancer three or more times before diagnosis [19]. Unfortunately, most lung cancers are still diagnosed at an advanced stage [20] and a third of lung cancers are diagnosed during emergency presentations [21]. The priority for most of these patients will be for prompt referral and investigation. Some patients with a high probability of malignant disease presenting with significant symptom burdens, rapid clinical deterioration or a high risk of acute hospital admission may benefit from synchronous referral to community palliative care services."
-  },
-  {
-    "focus": "Lung Cancer",
-    "sourceType": "Journal",
-    "network": "",
-    "authors": "Shemana Cassim, Lynne Chepulis, Rawiri Keenan, Jacquie Kidd,2 Melissa Firth, and Ross Lawrenson",
-    "date": "Jan-19",
-    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6323678/",
-    "text": "Disease factors included site, size and tumour growth rate as well as symptom presentation. Five articles reported disease factors. All of these studies indicated that symptom presentation, specifically, the wide variation in lung cancer symptoms and therefore a lack of a clear symptom profile or a lack of symptom presentation overall, made both GP diagnosis and patient awareness difficult [11, 12, 30, 36]. For example, Birth et al. (in 2014) [10] reported that the existence of co-morbidities masked many of the symptoms indicative of lung cancer (e.g. pain symptomatic of lung cancer was attributed to a kidney infection based on patient’s history of gallstone related pain, cough attributed to patient’s existing chronic respiratory symptoms or allergy)."
-  },
-  {
-    "focus": "Lung Cancer",
-    "sourceType": "Academic Publication",
-    "network": "Lung Cancer: Diagnosis and Management",
-    "authors": "LAUREN G. COLLINS, M.D., CHRISTOPHER HAINES, M.D., ROBERT PERKEL, M.D., and ROBERT E. ENCK, M.D., Thomas Jefferson University Hospital, Philadelphia, Pennsylvania",
-    "date": "Jan-07",
-    "url": "https://www.aafp.org/afp/2007/0101/p56.html",
-    "text": "Although approximately 10 percent of lung cancers in asymptomatic patients are detected on chest radiographs, most patients are symptomatic when diagnosed.19  Patients may present with the nonspecific systemic symptoms of fatigue, anorexia, and weight loss, or with direct signs and symptoms caused by the primary tumor or intrathoracic or extrathoracic spread "
-  },
-  {
-    "focus": "Pancreatic Cancer",
-    "sourceType": "Journal",
-    "network": "Screening for Pancreatic Cancer: Why, How, and Who?",
-    "authors": "Katherine E. Poruk, BS, BA, Matthew A. Firpo, PhD, Douglas G. Adler, MD, and Sean J. Mulvihill, MD",
-    "date": "Jul-14",
-    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4113008/",
-    "text": "When symptoms do develop, a characteristic pattern of painless jaundice is often recognized, but commonly atypical patterns of symptoms including weight loss, abdominal pain, and malaise lead to delays in diagnosis."
-  },
-  {
-    "focus": "Pancreatic Cancer",
-    "sourceType": "Journal",
-    "network": "Diagnosis and Management of Pancreatic Cancer",
-    "authors": "MARIA SYL D. DE LA CRUZ, MD, Thomas Jefferson University, Philadelphia, Pennsylvania\n\nALISA P. YOUNG, MD, and MACK T. RUFFIN, IV, MD, MPH, University of Michigan School of Medicine, Ann Arbor, Michigan",
-    "date": "Apr-14",
-    "url": "https://www.aafp.org/afp/2014/0415/p626.html",
-    "text": "Because more than two-thirds of adenocarcinomas occur in the head of the pancreas, abdominal pain, jaundice, pruritus, dark urine, and acholic stools may be presenting symptoms. In symptomatic patients, the serum tumor marker cancer antigen 19-9 can be used to confirm the diagnosis and to predict prognosis and recurrence after resection."
-  },
-  {
-    "focus": "Endometriosis",
-    "sourceType": "Journal",
-    "network": "Endometriosis",
-    "authors": "Linda C. Giudice, M.D., Ph.D.",
-    "date": "Jun-11",
-    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3108065/",
-    "text": "Endometriosis, a major contributor to pelvic pain and subfertility,1 is characterized by endometrial-like tissue outside the uterus (Fig. 1), primarily on the pelvic peritoneum, ovaries, and rectovaginal septum, and in rare cases on the diaphragm, pleura, and pericardium. Endometriosis affects 6 to 10% of women of reproductive age, 50 to 60% of women and teenage girls with pelvic pain, and up to 50% of women with infertility."
-  },
-  {
-    "focus": "Endometriosis",
-    "sourceType": "Academic Publication",
-    "network": "Endometriosis still a challenge",
-    "authors": "Mehedintu C, Plotogea MN, Ionescu S, Antonovici M",
-    "date": "Mar-14",
-    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4233437/pdf/JMedLife-07-349.pdf",
-    "text": "The notion of deep endometriosis implies endometriosis infiltrating deeper than 5 mm under the peritoneum [5]. This classification however is unsuccessful in predicting the clinical outcomes, including the symptomatology, respectively the pain [6]. This being said, medical professionals dealing with endometriosis face a lot of problems in diagnosis, treatment and follow up of patients."
-  },
-  {
-    "focus": "Fibromyalgia",
-    "sourceType": "Published Content",
-    "network": "",
-    "authors": "Biljana Radovanovic-Dinica, Snezana Tesic-Rajkovica, Sasa Grgovc, Gordana Petrovica, Valentina Zivkovic",
-    "date": "Mar-18",
-    "url": "https://biomed.papers.upol.cz/artkey/bio-201801-0001_irritable_bowel_syndrome_-_from_etiopathogenesis_to_therapy.php",
-    "text": "Irritable bowel syndrome (IBS) is a chronic and relapsing functional gastrointestinal disorder that affects 9-23% of the\npopulation across the world. Patients with IBS are often referred to gastroenterology, undergo various investigations,\ntake various medicines, take time off work and have a poor quality of life. The pathophysiology of IBS is not yet completely understood and seems to be multifactorial. Many pathogenetic factors, in various combinations, and not all\nnecessarily present in each patient, can play an important role. Discomfort or abdominal pain relieived by defacation,\nasociated with a change in stool form, is a typical clinical manifestation of IBS. Many factors, such as emotional stress\nand eating, may exacerbate the symptoms. A timely diagnosis of IBS is important so that treatment which will provide\nadequate symptomatic relief (diarrhoea, constipation, pain and boaring) can be introduced. The diagnosis of IBS is\nnot confirmed by a specific test or structural abnormality. It is made using criteria based on clinical symptoms such as\nRome criteria, unless the symptoms are thought to be atypical. Today the Rome Criteria IV is the current gold-standard\nfor the diagnoses of IBS. Treatment of patients with IBS requires a multidisciplinary approach. Some patients respond\nwell to non-pharmacological treatment, while others also require pharmacological treatment. This review will provide\na summary of pathophysiology, diagnostic criteria and therapies for IBS."
-  },
-  {
-    "focus": "Fibromyalgia",
-    "sourceType": "Journal",
-    "network": "",
-    "authors": "Kristen Ronn Weaver, MS, Gail D’Eramo Melkus, EdD, and Wendy A Henderson, PhD, MSN, FAAN",
-    "date": "Jun-18",
-    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5453305/",
-    "text": "IBS is the gastrointestinal disorder that is most commonly diagnosed; the diagnosis is made from the presence of certain symptoms in the absence of organic disease (Chey, Kurlander & Eswaran, 2015). IBS has been categorized as a functional bowel disorder, defined by symptom onset greater than six months and recurrence at least three days per month during the last three months (Longstreth et al., 2006). Diagnostic criteria require abdominal discomfort or pain to be associated with two or more of the following: improvement with defecation, onset associated with change in the form of stool, or onset associated with a change in the frequency of stool (Longstreth et al., 2006). This diagnostic criteria, known as Rome III classification, also subtypes IBS patients based on their predominant stool pattern: constipation (IBS-C), diarrhea (IBS-D), mixed (IBS-M) or unsubtyped (IBS-U) (Longstreth et al., 2006). Rome III has served as the symptom-based, diagnostic criteria for IBS since its release in 2006; in early 2016 the Rome Foundation released Rome IV, an updated classification system for conceptualizing and diagnosing functional gastrointestinal disorders (Drossman, 2016) (see Table 1)."
-  },
-  {
-    "focus": "Fibromyalgia",
-    "sourceType": "Journal",
-    "network": "",
-    "authors": "Bhupinder Kaur Sandhu and Siba Prosad Paul",
-    "date": "May-14",
-    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4033441/",
-    "text": "One of the first references to the concept of an “irritable bowel” causing symptoms of diarrhea, abdominal pain, constipation, without any well-recognized infective cause appeared in the Rocky Mountain Medical Journal in 1950[3]. This article suggested that IBS is caused by a psychosomatic or mental disorder[3]."
-  },
-  {
-    "focus": "Fibromyalgia",
-    "sourceType": "Journal",
-    "network": "",
-    "authors": "Lekha Saha",
-    "date": "Jun-14",
-    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4051916/",
-    "text": "Irritable bowel syndrome (IBS) is a chronic and debilitating functional gastrointestinal disorder that affects 9%-23% of the population across the world. The percentage of patients seeking health care related to IBS approaches 12% in primary care practices and is by far the largest subgroup seen in gastroenterology clinics. It has been well documented that these patients exhibit a poorer quality of life and utilize the health care system to a greater degree than patients without this diagnosis. The pathophysiology of IBS is not clear. Many theories have been put forward, but the exact cause of IBS is still uncertain. According to the updated ROME III criteria, IBS is a clinical diagnosis and presents as one of the three predominant subtypes: (1) IBS with constipation (IBS-C); (2) IBS with diarrhea (IBS-D); and (3) mixed IBS (IBS-M); former ROME definitions refer to IBS-M as alternating IBS (IBS-A). Across the IBS subtypes, the presentation of symptoms may vary among patients and change over time. Patients report the most distressing symptoms to be abdominal pain, straining, myalgias, urgency, bloating and feelings of serious illness. The complexity and diversity of IBS presentation makes treatment difficult. Although there are reviews and guidelines for treating IBS, they focus on the efficacy of medications for IBS symptoms using high-priority endpoints, leaving those of lower priority largely unreported. Therefore, the aim of this review is to provide a comprehensive evidence-based review of the diagnosis, pathogenesis and treatment to guide clinicians diagnosing and treating their patients."
-  },
-  {
-    "focus": "Fibromyalgia",
-    "sourceType": "Journal",
-    "network": "",
-    "authors": "Rosa LS Soares",
-    "date": "Sep-14",
-    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4161800/",
-    "text": "IBS is a complex disorder that is associated with altered GI motility, secretion and sensation[55,56]. In some patients with IBS motor abnormalities of the GI are detectable, e.g., increased frequency and irregularity of luminal contractions, prolonged transit time in constipation-predominant IBS and an exaggerated motor response to cholecystokinin and meal ingestion in diarrhea-predominant IBS. Despite this no predominant pattern of motor activity has emerged as a marker for IBS[57-60] and the relevance of these motor function alterations to symptoms has yet to be established. However, pharmacological stimulation of gut motility in IBS patients appears to reduce gas retention and improve symptoms. These data suggest that a motility disorder could be associated with this complaint in some patients[61,62].Role of serotonin in the pathophysiology of IBS. Serotonin (5-HT) plays a critical role in the regulation of GI motility, secretion and sensation. It is an important signaling molecule in the gut targeting enterocytes, smooth muscles and enteric neurons. Most of the body serotonin is present in enterochromaffin cells. Serotonin activates both intrinsic and extrinsic primary afferent neurons to, respectively initiate peristaltic and secretory reflexes and to transmit information to the central nervous system. Serotonin activates both intrinsic and extrinsic primary afferent neurons to, respectively initiate peristaltic and secretory reflexes and to transmit information to the central nervous system. It is inactivated by the serotonin reuptake transporter (SERT) in the enterocytes or neurons[22,24,30,32]. There are lines of evidence that FGIDs, as IBS, are associated with defective enteric serotonergic signaling. Altered serotonin signaling could lead to intestinal and extra intestinal symptoms in IBS. These results support the concept that diarrhea-predominant (IBS-D) IBS is characterized by reduced 5-HT reuptake, whereas impaired release may be a feature of constipation predominant IBS (IBS-C). However, exogenous serotonin application evokes so many responses that it is difficult to determine which is physiologically relevant. Therapeutic agents targeting altered serotonin signaling may provide new effective treatment for patients with IBS[62-65]."
-  },
-  {
-    "focus": "Inflammatory Bowel Syndrome",
-    "sourceType": "Journal",
-    "network": "",
-    "authors": "R. B. M. Aggio  P. White  H. Jayasena  B. de Lacy Costello  N. M. Ratcliffe  C. S. J. Probert",
-    "date": "Nov-16",
-    "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/apt.13822",
-    "text": "Traditionally, volatile chemicals are characterised by gas chromatography – mass spectrometry. Several publications based on gas chromatography – mass spectrometry have shown changes in volatile chemicals found in faeces,11 urine12 and breath13 during relapse of inflammatory bowel disease and in faeces of patients with diarrhoea predominant irritable bowel syndrome.14 These studies give an indication of the potential use of volatile chemicals as biomarkers for inflammatory bowel disease and irritable bowel syndrome, however, the gas chromatography – mass spectrometry technology is not yet suitable for high‐throughput applications in clinical practice, which has limited the utility of these observations."
-  },
-  {
-    "focus": "Inflammatory Bowel Syndrome",
-    "sourceType": "Journal",
-    "network": "",
-    "authors": "R. B. M. Aggio  P. White  H. Jayasena  B. de Lacy Costello  N. M. Ratcliffe  C. S. J. Probert",
-    "date": "Nov-16",
-    "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/apt.13822",
-    "text": "Irritable bowel syndrome samples include samples from patients with diarrhoea or constipation and patients alternating between diarrhoea and constipation. Most patients had diarrhoea predominant irritable bowel syndrome, however, two patients reported constipation as the predominant symptom. The diagnosis was based on the Rome II criteria.19"
-  },
-  {
-    "focus": "Inflammatory Bowel Syndrome",
-    "sourceType": "Journal",
-    "network": "",
-    "authors": "Rogerio Saad-Hossne, Carina De Fatima De Sibia, Julio Pnheiro Baima, and Ligia Yukie Sassaki",
-    "date": "Jun-18",
-    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5987516/",
-    "text": "The gastrointestinal tract (GIT) is the most common extranodal location of non-Hodgkin's lymphoma, but it represents only 0.4% of primary colonic malignancies.[1] Symptoms are nonspecific and may include diarrhea, constipation, abdominal pain, weight loss, and gastrointestinal bleeding. In colon, the most common types are conventional large cell lymphoma, mucosa-associated lymphoid tissue lymphoma, and T-cell lymphoma.[1,2,3]"
-  },
-  {
-    "focus": "Inflammatory Bowel Syndrome",
-    "sourceType": "Journal",
-    "network": "",
-    "authors": "",
-    "date": "",
-    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6685307/",
-    "text": "Inflammatory bowel disease (IBD) results from the interaction between genetic and environmental factors which influence the immune responses. Inflammatory bowel diseases are mainly divided into ulcerative colitis (UC) and Crohn’s disease (CD). Crohn’s disease is similar to UC, both of which have been classified as chronic IBD and which cause digestive disorders and inflammation in the gastrointestinal tract. Some of the symptoms of CD and UC include diarrhea, abdominal pain, rectal bleeding, and weight loss. They are mainly characterized by inflammation. Both the diseases may occur in adolescents and adults and affect men and women equally [1]. Despite the similarity between the symptoms of these two diseases, there are some differences between the symptoms of CD and UC."
-  },
-  {
-    "focus": "Inflammatory Bowel Syndrome",
-    "sourceType": "Journal",
-    "network": "",
-    "authors": "",
-    "date": "",
-    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3072591/",
-    "text": "leven men and sixteen women with median age at onset of IBDU 40.22 years (range 13–75 years) were identified. Abdominal pain (21), diarrhea (11), fever (7), bloody stool (4), vomiting (4), abdominal distention (3), and constipation (1) were the main symptoms. During the course, three subjects also had extra-gastrointestinal manifestations (EIM), including arthralgia (3), erythema nodosun (3), mucocutaneous abscess (3), ulcer (2), and rectum-vagina fistula (1). Two subjects had a colonectomy performed and one underwent an appendectomy before diagnosis."
-  },
-  {
-    "focus": "Inflammatory Bowel Syndrome",
-    "sourceType": "Journal",
-    "network": "",
-    "authors": "",
-    "date": "",
-    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6888256/",
-    "text": "PIBD presents with wide variety of symptoms, both gastrointestinal and extra-intestinal. The initial presentation of ulcerative colitis is commonly abdominal pain and bloody diarrhea. This usually comes to medical attention sooner than the more varied and sometimes subtle presentation of Crohn’s disease. A child with Crohn’s disease may present with bloody diarrhea and abdominal pain when colitis is present or with vaguer symptoms such as non-bloody diarrhea, weight loss/growth failure, malaise, fatigue, anemia, or fever. Table 2​2 outlines characteristics of ulcerative colitis and Crohn’s disease in PIBD.3"
-  },
-  {
-    "focus": "Lupus",
-    "sourceType": "Journal",
-    "network": "",
-    "authors": "",
-    "date": "",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/31376267/",
-    "text": "Consistent with these results, 80 SLE\npatients with atypical cardiac symptoms/signs (fatigue, mild shortness of\nbreath, early repolarisation and sinus\ntachycardia) with normal echocardiography, were evaluated using MR (35).\nAbnormal CVMR findings were identified in 22/80 (27.5%) of SLE patients,\nincluding 4/22 with recent silent myocarditis, 5/22 with past myocarditis,\n9/22 with past myocardial infarction\nand 4/22 with diffuse subendocardial\nfibrosis due to vasculitis; again, it was\ndemonstrated that MR in SLE patients\nwith atypical cardiac symptoms/signs\nand normal echocardiography can assess occult cardiac lesions"
-  },
-  {
-    "focus": "Lupus",
-    "sourceType": "Journal",
-    "network": "",
-    "authors": "",
-    "date": "",
-    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4558874/",
-    "text": "Systemic lupus erythematosus (SLE) is a heterogeneous autoimmune disease that may involve many different organs and display a variable clinical course. The diagnosis of SLE is based on characteristic clinical findings of the skin, joints, kidneys, and the central nervous system, as well as on serological parameters such as antinuclear antibodies (ANA), in particular antibodies to dsDNA (e1). The various clinical symptoms do not always occur simultaneously and may develop at any stage of the disease. In the early stages, physicians from various disciplines often propose several differential diagnoses, or identify only one aspect of the disease without recognizing the symptoms as part of SLE (1, e2). Fever, fatigue, and arthralgia are the most frequently occurring non-specific symptoms at disease onset; additional joint swelling or a \"butterfly rash\"”particularly in women of childbearing age”should prompt consideration of SLE (2). The aim of this article is to provide an updated review on the diagnosis and treatment of SLE, based on a selective survey of the literature in PubMed and the Cochrane Library, including current guidelines and the recommendations of experts with extensive experience in the management of this disease."
-  },
-  {
-    "focus": "Lupus",
-    "sourceType": "Journal",
-    "network": "",
-    "authors": "",
-    "date": "",
-    "url": "https://www.hkmj.org/abstracts/v24n5/501.htm",
-    "text": "In Hong Kong, the prevalence and annual incidence of SLE are estimated to be 0.1% and 6.7 per 100 000 population, respectively.6 The 15-year cumulative survival of local Chinese patients with SLE managed in non-academic hospitals is 86%.7 Infections, cardiovascular events, and malignancies are their most common causes of death. Renal and musculoskeletal complications (eg, avascular bone necrosis and osteoporotic fracture) are the most important contributors to disease and treatment-related organ damage, respectively. One-third of such patients lose their ability to work within 5 years after disease onset; this is mainly attributed to musculoskeletal pain, fatigue, anxiety/depression symptoms, and memory deterioration.8"
-  },
-  {
-    "focus": "Lupus",
-    "sourceType": "Journal",
-    "network": "",
-    "authors": "",
-    "date": "",
-    "url": "https://www.aafp.org/afp/2003/1201/p2179.html",
-    "text": "TABLE 2\nClinical Features of Systemic Lupus Erythematosus\nAffected Percentage\norgan system of patients20 Signs and symptoms\nConstitutional 50 to 100 Fatigue, fever (in the absence of infection), weight loss\nSkin 73 Butterfly rash, photosensitivity rash, mucous membrane lesion,\nalopecia, Raynaud’s phenomenon, purpura, urticaria, vasculitis\nMusculoskeletal 62 to 67 Arthritis, arthralgia, myositis\nRenal 16 to 38 Hematuria, proteinuria, cellular casts, nephrotic syndrome\nHematologic 3621 Anemia, thrombocytopenia, leukopenia\nReticuloendothelial 7 to 23 Lymphadenopathy, splenomegaly, hepatomegaly\nNeuropsychiatric 12 to 21 Psychosis, seizures, organic brain syndrome, transverse myelitis,\ncranial neuropathies, peripheral neuropathies\nGastrointestinal 18 Nausea, vomiting, abdominal pain\nCardiac 15 Pericarditis, endocarditis, myocarditis\nPulmonary 2 to 12 Pleurisy, pulmonary hypertension, pulmonary parenchymal disease\nAdapted with permission from Guidelines for referral and management of systemic lupus erythematosus in\nadults. American College of Rheumatology Ad Hoc Committee on Systemic Lupus Erythematosus Guidelines.\nArthritis Rheum 1999;42:1785-96, with additional information from references 20 and 21."
-  },
-  {
-    "focus": "Lyme Disease",
-    "sourceType": "Reddit",
-    "network": "Lyme Disease, Babesia, Bartonella",
-    "authors": "Snoo93542",
-    "date": "7th July 2020",
-    "url": "https://www.reddit.com/r/lymedisease/comments/hmn8nm/lyme_disease_babesia_bartonella/",
-    "text": "Hey everyone I got Lyme disease in 2016, although I believe it was dormant in my body many years prior. I was experiencing some adverse symptoms that were ongoing for many months such as extreme fatigue, dizzness/lightheadness spells, fainting, chest pains, heart palpations, shortness of breath, and many more unusual and scary symptoms. After visiting many doctors and a few months of uncertainty I was diagnosed with lyme disease along with co-infections babesia and bartonella from positive blood test along with clinical diagnostic from lyme specialist. ",
-    "index":"1.0"
-  },
-  {
-    "focus": "Lyme Disease",
-    "sourceType": "NHS111",
-    "network": "Lyme disease",
-    "authors": "NHS",
-    "date": "27th April 2018",
-    "url": "https://www.nhs.uk/conditions/lyme-disease/",
-    "text": "Not everyone with Lyme disease gets the rash. Some people also have flu-like symptoms in the early stages, such as:\n\na high temperature, or feeling hot and shivery\nheadaches\nmuscle and joint pain\ntiredness and loss of energy\nOther symptoms of Lyme disease\nSome people with Lyme disease develop more severe symptoms months or years later.\n\nThis is more likely if treatment is delayed.\n\nThese more severe symptoms may include:\n\npain and swelling in joints\nnerve problems – such as pain or numbness\nheart problems\ntrouble with memory or concentration",
-    "index": "0.9"
-  },  
-  {
-    "focus": "Lyme Disease",
-    "sourceType": "Journal",
-    "network": "Chronic Lyme Disease",
-    "authors": "Paul M. Lantos, MD",
-    "date": "Jun-16",
-    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4477530/",
-    "text": "For the purpose of the ILADS guidelines, ‘chronic Lyme disease’ is inclusive of persistent symptomatologies including fatigue, cognitive dysfunction, headaches, sleep disturbance and other neurologic features, such as demyelinating disease, peripheral neuropathy and sometimes motor neuron disease, neuropsychiatric presentations, cardiac presentations (including electrical conduction delays and dilated cardiomyopathy), and musculoskeletal problems.",
-    "index": "0.8"
-  },
-  {
-    "focus": "Lyme Disease",
-    "sourceType": "Journal",
-    "network": "Chronic Lyme Disease",
-    "authors": "Paul M. Lantos, MD",
-    "date": "Jun-16",
-    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4477530/",
-    "text": " It is well-recognized that some patients experience prolonged symptoms during convalescence from Lyme disease, and a subset suffer significant functional impairment. The most common complaints among such patients are arthralgias, myalgias, headache, neck and backache, fatigue, irritability, and cognitive dysfunction (particularly perceived difficulty with memory and concentration).",
-    "index": "0.8"
- },
-  {
-    "focus": "Lyme Disease",
-    "sourceType": "Journal",
-    "network": "The General Symptom Questionnaire-30 (GSQ-30): A Brief Measure of Multi-System Symptom Burden in Lyme Disease",
-    "authors": "Brian A. Fallon, Nevena Zubcevik, Clair Bennett1, Shreya Doshi1, Alison W. Rebman, Ronit Kishon1, James R. Moeller1, Nadlyne R. Octavien and John N. Aucott",
-    "date": "Dec-19",
-    "url": "https://www.frontiersin.org/articles/10.3389/fmed.2019.00283/full",
-    "text": "Welch's one-way tests indicated significant differences between clinical groups across three of four subscales; pain and fatigue [F(3, 114.86) = 17.04, p < 0.001], neuropsychiatric symptoms [F(3, 110.45) = 36.19, p < 0.001], and neurological symptoms [F(3, 108.29) = 11.96, p < 0.001]. Pairwise post-hoc comparisons (Figure 2) revealed significant differences between PTLDS and both EM and TBI on the pain and fatigue subscale; and between PTLDS and EM on both the neurologic and the neuropsychiatric subscales. All other comparisons were not significant.",
-    "index": "0.7"
-  },
-  {
-    "focus": "Lyme Disease",
-    "sourceType": "Journal",
-    "network": "Lyme disease",
-    "authors": "Thomas S. Murray, and Eugene D. Shapiro",
-    "date": "May-13",
-    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3652387/",
-    "text": "Lyme disease, caused by the spirochete Borrelia burgdorferi, is the most common vector-borne disease in the United States. The clinical presentation varies depending on the stage of the illness: early disease includes erthyma migrans, early disseminated disease includes multiple erythema migrans, meningitis, cranial nerve palsies, and carditis; late disease is primarily arthritis. The symptoms and signs of infection resolve in most patients after treatment with appropriate antimicrobials for 2 to 4 weeks. Serologic testing should be used judiciously as it often results in misdiagnosis when performed on blood from patients with a low prior probability of disease and those with only nonspecific symptoms such as fatigue or arthralgia without objective signs of infection.",
-    "index": "0.7"
-  },
-  {
-    "focus": "Lyme Disease",
-    "sourceType": "Journal",
-    "network": "Chronic Lyme Disease",
-    "authors": "Paul M. Lantos",
-    "date": "Jun-16",
-    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4477530/",
-    "text": "Some CLD advocates emphasize that CLD is a polymicrobial infection in which patients suffer from multiple tick-borne coinfections.71,72 In practice, patients with a diagnosis of CLD are often diagnosed with and treated for numerous superimposed infections, including Babesia spp and Anaplasma phagocytophilum (well-described tick-borne pathogens), Bartonella henselae (which is not known to be transmitted by ticks), pathogens of unclear clinical relevance such as the xenotropic murine leukemia virus-related virus, and even completely fictitious pathogens such as “Protomyxozoa rheumatica.” There is no evidence to support chronic anaplasmosis; chronic symptomatic babesiosis when present invariably is associated with fever and molecular or microscopic evidence of parasitemia. Bartonella species are readily identified in ticks, but there is virtually no quality evidence of tick-borne transmission to humans or of simultaneous Lyme disease and bartonellosis.73 It is important to recognize that, in the context of CLD, a diagnosis of coinfection may be just as spurious.",
-    "index": "0.7"
-  },
-  {
-    "focus": "Multiple Sclerosis ",
-    "sourceType": "Journal",
-    "network": "",
-    "authors": "",
-    "date": "",
-    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2850590/",
-    "text": "Table 3\nCIS clinical features and likelihood of signaling an MS diagnosis\n\nCIS features typically seen in MS\tLess common CIS features which may be seen in MS\tAtypical CIS features not expected in MS\nOptic nerve\t\t\n  Unilateral optic neuritis\tBilateral simultaneous optic neuritis\tProgressive optic neuropathy\n  Pain on eye movement\tNo pain\tSevere, continuous orbital pain\n  Partial and mainly central visual blurring\tNo light perception\tPersistent complete loss of vision\n  Normal disc or mild disc swelling\tModerate to severe disc swelling with no hemorrhages\tNeuroretinitis (optic disc swelling with macular star)\nUveitis (mild, posterior)\tUveitis (severe, anterior)\nBrain stem/cerebellum\t\t\n  Bilateral internuclear ophthalmoplegia\tUnilateral internuclear ophthalmoplegia, facial palsy, facial myokymia\tComplete external ophthalmoplegia; vertical gaze palsies\n  Ataxia and multidirectional nystagmus\tDeafness\tVascular territory syndrome, e.g., lateral medullary\n  Sixth nerve palsy\tOne-and-a-half syndrome\tThird nerve palsy\n  Facial numbness\tTrigeminal neuralgia\tProgressive trigeminal sensory neuropathy\nParoxysmal tonic spasms\tFocal dystonia, torticollis\nSpinal cord\t\t\n  Partial myelopathy\tComplete transverse myelitis\tAnterior spinal artery territory lesion (sparing posterior columns only)\n  Lhermitte's symptom\tRadiculopathy, areflexia\tCauda equina syndrome\n  Deafferented hand\tSegmental loss of pain and temperature sensation\tSharp sensory level to all modalities and localized spinal pain\n  Numbness\tPartial Brown-Sequard syndrome (sparing posterior columns)\tComplete Brown-Sequard syndrome\n  Urinary urgency, incontinence, erectile dysfunction\tFaecal incontinence\tAcute urinary retention\n  Progressive spastic paraplegia (asymmetrical)\tProgressive spastic paraplegia (symmetrical)\tProgressive sensory ataxia (posterior columns)\nCerebral hemispheres\t\t\n  Mild subcortical cognitive impairment\tEpilepsy\tEncephalopathy (obtundation, confusion, drowsiness)a\n  Hemiparesis\tHemianopia\tCortical blindness\nOpen in a separate window\naAlthough encephalopathy is required for ADEM, it may also be seen at presentation and/or during the course of MS."
-  },
-  {
-    "focus": "Multiple Sclerosis",
-    "sourceType": "Journal",
-    "network": "",
-    "authors": "",
-    "date": "",
-    "url": "https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-017-0418-4",
-    "text": "We used the classification model, described above, to identify patients of the random sample who might have unrecognized MS. These patients would be amongst those classified as having MS but lacking an ICD9[MS] code. Classification identified 295 such patients, out of a total cohort of 2289. We manually reviewed the notes of a random sample of 45 of these patients and identified four who could have unrecognized MS. For example, one 74-year-old woman complained of migraines, occipital neuralgia, had an abnormal EMG, hand numbness and bowel incontinence, all of which are important symptoms of MS. A second patient, a 75-year old woman complained of peripheral neuropathy, urinary incontinence and visual changes. The remainder of the reviewed patients had one or more medical conditions characterized by the signs and symptoms listed in Table 2, such as cerebrovascular accident, diabetic neuropathy, chronic migraine headaches, seizure disorders, brain cancer, metastatic cancer to the brain and traumatic brain injury. None of the four patients identified above as potentially having MS had any of these neurological conditions. However, inasmuch as none of the four patients suspected to have MS had been seen by a neurologist and were lacking additional follow-up, it was not possible to ascertain whether or not these patients actually had MS."
-  },
-  {
-    "focus": "Multiple Sclerosis",
-    "sourceType": "Journal",
-    "network": "",
-    "authors": "",
-    "date": "",
-    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4589809/",
-    "text": "Discussion\nThe etiology of MS is probably multifactorial, related to genetic, environmental, and several other factors. The pathogenesis is not fully understood but is believed to involve T-cell-mediated inflammation directed against myelin and other related proteins with a possible role for B cells. The McDonald criteria have been proposed and revised over the years to guide the diagnosis of MS and are based on clinical presentation and magnetic resonance imaging (MRI) of the brain and spinal cord to establish dissemination in time and space. The treatment of MS includes disease modification with immunomodulator drugs and symptom management to address the specific symptoms such as fatigue, spasticity, and pain."
-  },
-  {
-    "focus": "Multiple Sclerosis",
-    "sourceType": "Journal",
-    "network": "",
-    "authors": "",
-    "date": "",
-    "url": "https://www.ajmc.com/view/cost-effectiveness-multiple-sclerosis-overview-diagnosis",
-    "text": "Clinical Manifestations\n\nThe broad range of signs and symptoms of MS reflect multifocal lesions in the central nervous system (CNS), including the afferent visual pathways, cerebrum, brainstem, cerebellum, and spinal cord (Table 212,13).12,13 In general, the range and severity of manifestations in an individual at a particular time reflects the extent of lesions, their location, the severity of tissue damage, and the rate of accumulation. However, the correlation between lesions (as seen on standard magnetic resonance imaging [MRI]) and clinical manifestations is only approximate. This may be because repair and neural plasticity\n\ncompensate for damage, and residual function may not parallel changes in MRI. In addition, recent work has demonstrated that there are pathological features in both white and gray matter not visible on standard MRI.12 MS symptoms result from interruption of myelinated tracts in the CNS.3 The initial symptoms often include 1 or more of the following: weakness or diminished dexterity in 1 or more limbs, a sensory disturbance, monocular visual loss (optic neuritis), double vision (diplopia), gait instability, and ataxia. As MS ensues, bladder dysfunction, fatigue, and heat sensitivity occur in many patients."
-  },
-  {
-    "focus": "Multiple Sclerosis",
-    "sourceType": "Journal",
-    "network": "",
-    "authors": "",
-    "date": "",
-    "url": "https://pmj.bmj.com/content/81/955/302",
-    "text": "OVERVIEW OF MULTIPLE SCLEROSIS\nMultiple sclerosis is characterised by inflammatory, demyelinating lesions scattered throughout the central nervous system (CNS) that occur at different sites and at different times. The exact pathophysiology of multiple sclerosis is not clear but it seems to be autoimmune in nature. The wide distribution of lesions results in a variety of clinical features such as loss of sensation, muscle weakness, visual loss, incoordination, cognitive impairment, fatigue, pain, and bladder and bowel disturbance. The course of multiple sclerosis is unpredictable resulting in a changing pattern of need over time. It has comparatively little effect on life expectancy and therefore usually has to be managed for many decades.3"
-  },
-  {
-    "focus": "Chronic Fatigue",
-    "sourceType": "Journal",
-    "network": "A Systematic Review of Biological Mechanisms of Fatigue in Chronic Illness",
-    "authors": "Lea Ann Matura, PhD, Susan Malone, PhD, Rosario Jaime-Lara, MSN, and Barbara Riegel, PhD",
-    "date": "Mar-18",
-    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6346311/",
-    "text": "HF\nFatigue and dyspnea are the hallmark symptoms of chronic HF, but there is surprisingly little research on fatigue in HF. In a qualitative study, the authors characterized HF fatigue as having both bodily and mental aspects (Falk, Granger, Swedberg, & Ekman, 2007). Patients described the bodily experience of fatigue as a feeling of sleepiness and lacking strength and energy. They described the mental aspects of fatigue as demoralization and intellectual deficiency. Restorative activites (e.g., social interaction) alleviated fatigue in this small sample of patients with chronic HF.",
-    "index": "0.4",
-    "terms": ["fatigue", "energy"],
-  },
-  {
-    "focus": "Chronic Fagtigue",
-    "sourceType": "Journal",
-    "network": "BIOMARKERS for CHRONIC FATIGUE",
-    "authors": "Nancy G. Klimas, Gordon Broderick and Mary Ann Fletcher",
-    "date": "Jun-12",
-    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5373648/",
-    "text": "In a recent review, Graff, el al, (2011) noted reports of moderate to severe fatigue in 50 to 70% of the cases in immune-mediated inflammatory diseases. As reported by the New York Times (Crouse, 2011) following her withdrawal August 31, 2011 from the US Open tennis tournament, Venus Williams, winner of seven Grand Slam singles titles, said, “The fatigue is hard to explain unless you have it. Some mornings I feel really sick, like when you don’t get enough sleep or you have flu or a cold. I always have some level of tiredness. And the more I tried to push through it, the tougher it got.” Williams received the diagnosis of the autoimmune disorder, Sjögren's syndrome, a condition correlated with CF, earlier in the month. This CF is similar to “sickness behavior” in animals which is mediated by pro-inflammatory cytokines, in particular interleukin (IL)-1, acting on neuronal brain cells (Dantzer, 2001). Increased levels of IL-1 receptor antagonist (IL-1Ra) in the cerebrospinal fluid were associated with increasing fatigue in primary Sjögren's syndrome patients, supporting the suggestion that the IL-1 system is a possible biomarker of fatigue (Harboe et al., 2009).",
-    "index": "0.3"
-    "terms": ["fatigue", "tiredness"],
-  },
-  {
-    "focus": "Chronic Fatigue",
-    "sourceType": "Journal",
-    "network": "",
-    "authors": "",
-    "date": "",
-    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4585442/",
-    "text": "Outcomes\nSeverity of symptoms (including fatigue and overall improvement) and their effects on functional status (includes physical function, physical health, and functional impairment); quality of life; and adverse effects. There are several different instruments used to measure these outcomes, including: the medical outcomes survey short-form general health survey (SF-36, a rating scale measuring quality of life, including limitation of physical functioning caused by ill health [score range 0–100, where 0 = limited in all activities and 100 = able to carry out vigorous activities], pain, energy levels, and mood); the Karnofsky scale, a modified questionnaire originally developed for the rating of quality of life in people having chemotherapy for malignancy (where 0 = death and 100 = no evidence of disease); the Beck Depression Inventory, a self-rated checklist for quantifying depressive symptoms (score range 0–63, where a score of 20 or more is usually considered clinically significant depression); the Hospital Anxiety and Depression scale (HADS, which consists of 2 self-rated subscales, each with score range 0–21, where a score of 11 or more is considered clinically significant); the Sickness Impact Profile, a measure of the influence of symptoms on social and physical functioning; the Chalder Fatigue Scale, a rating scale measuring subjective fatigue (score range 0–11, where scores 4 or more = excessive fatigue); the Abbreviated Fatigue Questionnaire, a rating scale of subjective bodily fatigue (score range 4–28, where a lower score indicates a higher degree of fatigue); the Clinical Global Impression scale, a validated clinician-rated measure of overall change compared with baseline at study onset (7 possible scores from 'very much worse' [score 7] to 'very much better' [score 1]); the Checklist Individual Strength fatigue subscale (score range 8 [no fatigue at all] to 56 [maximally fatigued]); the Nottingham Health Profile, with questions in 6 self-report categories: energy, pain perception, sleep patterns, sense of social isolation, emotional reactions, and physical mobility (maximum weighted score 100 [all listed complaints present], and minimum 0 [none of listed complaints present]); the Multidimensional Fatigue Inventory (MFI), with 5 subscales: general fatigue, physical fatigue, mental fatigue, reduced activity, and reduced motivation (each with a score range of 4–20, higher scores indicate higher degree of fatigue); and self-reported severity of symptoms and levels of activity; and the Fatigue Severity Scale, with nine self-rated 7-point subscales assessing behavioural consequences of fatigue."
-  },
-  {
-    "focus": "Chronic Fatigue",
-    "sourceType": "Journal",
-    "network": "",
-    "authors": "",
-    "date": "",
-    "url": "https://www.aafp.org/afp/2012/1015/p741.html",
-    "text": "Chronic fatigue syndrome is characterized by debilitating fatigue that is not relieved with rest and is associated with physical symptoms. The Centers for Disease Control and Prevention criteria for chronic fatigue syndrome include severe fatigue lasting longer than six months, as well as presence of at least four of the following physical symptoms: postexertional malaise; unrefreshing sleep; impaired memory or concentration; muscle pain; polyarthralgia; sore throat; tender lymph nodes; or new headaches. It is a clinical diagnosis that can be made only when other disease processes are excluded. The etiology of chronic fatigue syndrome is unclear, is likely complex, and may involve dysfunction of the immune or adrenal systems, an association with certain genetic markers, or a history of childhood trauma. Persons with chronic fatigue syndrome should be evaluated for concurrent depression, pain, and sleep disturbances. Treatment options include cognitive behavior therapy and graded exercise therapy, both of which have been shown to moderately improve fatigue levels, work and social adjustment, anxiety, and postexertional malaise. No pharmacologic or alternative medicine therapies have been proven effective."
-  },
-  {
-    "focus": "Chronic Fatigue",
-    "sourceType": "Journal",
-    "network": "",
-    "authors": "",
-    "date": "",
-    "url": "https://www.reumatologiaclinica.org/en-gender-differences-in-chronic-fatigue-articulo-S2173574316000289",
-    "text": "Patients and methods\nA prospective, cross-sectional cohort study was conducted including CFS patients at the time of diagnosis. Sociodemographic data, clinical variables, comorbid phenomena, fatigue, pain, anxiety/depression, and health quality of life, were assessed in the CFS population. A comparative study was also conducted between genders."
-  }
+[{
+		"focus": "Appendicitis",
+		"sourceType": "Academic Publication",
+		"network": "",
+		"authors": "MATTHEW J. SNYDER, DO, MARJORIE GUTHRIE, MD, and STEPHEN CAGLE, MD",
+		"date": "Jul-18",
+		"url": "https://www.aafp.org/afp/2018/0701/p25.html",
+		"text": "In an observational study of 230 children with appendicitis, a delay of more than 48 hours from symptom onset to diagnosis and surgery was associated with an increase in the perforation rate compared with those in whom diagnosis and surgery occurred within 24 hours (adjusted odds ratio = 4.9 [95% CI, 1.9 to 12] vs. 3.6 [95% CI, 1.4 to 9.2]), as well as a 56% mean increase in the length of hospital stay.6 Based on a study of 375 children (26% of whom had perforation), risk factors for perforation included fever, vomiting, longer duration of symptoms, elevated CRP level or WBC count, and ultrasound findings of free abdominal fluid, visualized perforation, or a mean appendix diameter of 11 mm or more.34 Surgical consultation is recommended in these patients to determine whether they are candidates for nonsurgical treatment with intravenous antibiotics."
+	},
+	{
+		"focus": "Appendicitis",
+		"sourceType": "Academic Publication",
+		"network": "",
+		"authors": "MATTHEW J. SNYDER, DO, MARJORIE GUTHRIE, MD, and STEPHEN CAGLE, MD",
+		"date": "Jul-18",
+		"url": "https://www.aafp.org/afp/2018/0701/p25.html",
+		"text": "In a study of 375 children, risk factors for appendiceal perforation included fever, vomiting, longer duration of symptoms, elevated C-reactive protein level or white blood cell count, and ultrasound findings of free abdominal fluid, visualized perforation, or a mean appendix diameter of 11 mm or more."
+	},
+	{
+		"focus": "Osteoarthritis",
+		"sourceType": "Journal",
+		"network": "Viral Arthritis",
+		"authors": "Michael Marks, clinical research fellowA and Jonathan L Marks, consultant rheumatologistB",
+		"date": "Apr-16",
+		"url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4868140/",
+		"text": "Table 1. Key features of major viral arthritides.\nVirus Epidemiology Common clinical features Diagnostic test\nParvovirus B19 Exposure to young children Large joint oligoarticular in children, RA-like pattern\n\nmore common in adults.\n\nB19 IgM\n\nHepatitis B Congenital transmission in high-risk\n\ncountries MSM, IDU\n\nRA-like pattern of arthritis lasting days to months\nwith rash, malaise or myalgia. Joint symptoms often\nresolve with onset of jaundice.\n\nHBsAg, anti-HBc,\nHBV DNA\n\nHCV Worldwide MSM, IDU, blood\n\ntransfusions\n\nMild RA-like pattern of arthritis/ arthralgia. Anti-HCV, HCV-RNA\n\nHCV-associated\ncryoglobulinaemia\n\nAs above Large joint oligoarticular non-erosive arthritis (often\n\ninvolving ankles).\n\nAnti-HCV, HCV-RNA,\ncryoglobulins, low C4\n\nHIV Worldwide – especially sub-Saharan\nAfrica, multiple sexual partners,\nMSM, IDU, blood transfusions\n\nVariety of presentations reported. Joint symptoms\nas part of an immune-reconstitution syndrome also\ndescribed with initiation of retroviral therapy.\n\nAnti-HIV1/2, HIV-\nRNA\n\nAlphaviruses Specific geographical range for\neach virus – See Fig 1\n\nChronic arthritis/arthralgia associated with\nchikungunya infection, as well as tenosynovitis,\ncarpal tunnel syndrome and new-onset Raynaud\nphenomenon. Associated thrombocytopenia common.\n\nSpecific-viral IgM,\nspecific-viral RNA\n\nHTLV-1 Japan, Caribbean Chronic large and medium joint oligoarthritis. Fever\nmyalgia and skin lesions common at onset of joint\nsymptoms. Associated inflammatory eye, skin and\nmuscle disorders reported.\n\nAnti-HTLV-1, HTLV-\n1-DNA\n\nCHIKV = chikungunya; HBV = hepatitis B virus; HCV = hepatitis C virus; HTLV-1 = human T-lymphotrophic virus type-1; IDU = injecting drug user; MSM = men who\nhave sex with men; RA = rheumatoid artritis."
+	},
+	{
+		"focus": "Osteoarthritis",
+		"sourceType": "Journal",
+		"network": "Genetics and the classification of arthritis in adults and children",
+		"authors": "Peter A. Nigrovic, M.D. Soumya Raychaudhuri, M.D., Ph.D. and Susan D. Thompson, Ph.D",
+		"date": "Dec-17",
+		"url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5805142/",
+		"text": "Historically, arthritis has been classified by clinical phenotype, as adjudicated by experts. Reliance on expert opinion is sometimes termed eminence-based medicine, a tongue-in-cheek contrast with evidence-based medicine. Sometimes clinical observation works well. For example, RA, gout and rheumatic fever were distinguished from one another on the basis of patient demographics, joint distribution, chronicity, and blood uric acid levels (2, 3). Yet pattern recognition has its limits, and RA itself is an excellent example. The identification of rheumatoid factor (RF) and then anti-citrullinated peptide antibodies (ACPAs) uncovered a fault line that would have been difficult to identify clinically, since seropositive and seronegative RA exhibit extensive phenotypic overlap. Yet these conditions differ in genetic associations, in immune complexes and complement fixation within the joint, and in synovial T cell populations (4–8). RA thus exemplifies how shared phenotype is an imperfect guide to shared pathophysiology."
+	},
+	{
+		"focus": "Osteoarthritis",
+		"sourceType": "Journal",
+		"network": "Autoimmune Arthritides, Rheumatoid Arthritis, Psoriatic Arthritis, or Peripheral Spondyloarthropathy, Following Lyme Disease",
+		"authors": "Sheila L. Arvikar, MD Jameson T. Crowley, PhD, Katherine B. Sulka, BS, and Allen C. Steere, MD",
+		"date": "Jan-17",
+		"url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5195856/",
+		"text": "Lyme arthritis (LA) was identified as a clinical entity in the late 1970’s after an outbreak of monoarticular and oligoarticular arthritis in children in Lyme, Connecticut (1). LA is now known to be a late manifestation of Lyme disease (2) caused by the tick-transmitted spirochete Borrelia burgdorferi (3). Before the cause of the disease was known, about 60% of non-antibiotic-treated patients developed LA within a median duration of 6 months (range, 4 days to 2 years) after the initial erythema migrans (EM) skin lesion (4). These patients experienced intermittent or persistent attacks of swelling and pain primarily in one or a few large joints, especially the knee, over a period of several years (4,5). Small joints, tendons or bursae were occasionally affected, usually in one location at a time. However, while some patients may report a history of a tick bite or EM, arthritis may be the presenting manifestation of the illness, without earlier signs or symptoms of Lyme disease (6)."
+	},
+	{
+		"focus": "Osteoarthritis",
+		"sourceType": "Published Content",
+		"network": "Biomarkers of (osteo)arthritis",
+		"authors": "Ali Mobasheri & Yves Henrotin",
+		"date": "Mar-16",
+		"url": "http://epubs.surrey.ac.uk/810635/1/Biomarkers%20of%20osteo%20arthritis.pdf",
+		"text": "Arthritic diseases are a major cause of disability and morbidity, and cause an enormous burden\nfor health and social care systems globally. Osteoarthritis (OA) is the most common form of\narthritis. The key risk factors for the development of OA are age, obesity, joint trauma or\ninstability. Metabolic and endocrine diseases can also contribute to the pathogenesis of OA.\nThere is accumulating evidence to suggest that OA is a whole-organ disease that is influenced\nby systemic mediators, inflammaging, innate immunity and the low-grade inflammation\ninduced by metabolic syndrome. Although all joint tissues are implicated in disease progression\nin OA, articular cartilage has received the most attention in the context of aging, injury and\ndisease. There is increasing emphasis on the early detection of OA as it has the capacity to\ntarget and treat the disease more effectively. Indeed it has been suggested that this is the era of\n‘‘personalized prevention’’ for OA. However, the development of strategies for the prevention\nof OA require new and sensitive biomarker tools that can detect the disease in its molecular\nand pre-radiographic stage, before structural and functional alterations in cartilage integrity\nhave occurred. There is also evidence to support a role for biomarkers in OA drug discovery,\nspecifically the development of disease modifying osteoarthritis drugs. This Special Issue of\nBiomarkers is dedicated to recent progress in the field of OA biomarkers. The papers in this\nSpecial Issue review the current state-of-the-art and discuss the utility of OA biomarkers as\ndiagnostic and prognostic tools."
+	},
+	{
+		"focus": "Osteoarthritis",
+		"sourceType": "Journal",
+		"network": "Treatment strategies in early rheumatoid arthritis and prevention of rheumatoid arthritis",
+		"authors": "M Kristen Demoruelle 1, Kevin D Deane",
+		"date": "Oct-12",
+		"url": "https://pubmed.ncbi.nlm.nih.gov/22773387/",
+		"text": "Data now suggest that current strategies in the treatment of rheumatoid arthritis (RA) should focus on early identification and diagnosis, followed by early initiation of DMARD therapy. Initiation of treatment in early RA-ideally, less than 3-6 months after symptom onset-improves the success of achieving disease remission and reduces joint damage and disability. While the optimal treatment regimen in early RA is unclear, use of initial DMARD mono- or combination therapy with prompt escalation to achieve low disease activity or remission is an appropriate approach. Ultimately, the goal of RA management should be the prevention of inflammatory joint disease and, thereby, prevention of disability. To date, studies have shown that pharmacologic interventions can delay progression from undifferentiated inflammatory arthritis to classifiable RA. However, further investigation is needed to identify asymptomatic individuals at high risk for future RA and to intervene early enough in the pathogenesis of RA to prevent progression to clinical disease."
+	},
+	{
+		"focus": "Osteoarthritis and Rheumatoid Arthritis",
+		"sourceType": "Journal",
+		"network": "Rheumatoid Arthritis: Early diagnosis and treatment outcomes",
+		"authors": "Behzad Heidari, MD",
+		"date": "Dec-11",
+		"url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3766928/",
+		"text": "It seems that a considerable proportion of UA, progress to RA, on the other hand about 10% of early RA experience natural remission (8). While earlier treatment of inflammatory arthritis is expected to prevent development of RA and even exert a curative effect for a proportion of patients, on the other hand, inappropriate treatment of patients who do not develop RA is harmful and should be avoided .In this condition, the most important challenge is to predict RA development in those patients who have persistent arthritis. The proportion of UA patients who progress to RA varies considerably across various studies. This may be explained by the differences in inclusion criteria, or in definitions used for diagnosis of UA or RA, characteristics of UA patients, and duration of follow-up period. In a number of published studies, after one year of inclusion proportion UA patients developed RA ranged from 6% to 55%.Studies in which, presence of arthritis at disease onset was mandatory for inclusion ,proportion of patients who fulfilled ACR criteria ranged 17-32% (15). Several variables have been regarded as predictors of future RA in patients with early arthritis (table 1). Variables such as duration of morning stiffness in minutes, percentage change in HAQ score after 3 months disease duration and anti-CCP positivity are predictors of persistent arthritis (2, 16). Presence of these findings at baseline can also be used in differentiating persistent arthritis from self-limited arthritis. Among patients with iUA, recognizing patients with progressive course particularly those who develop erosive disease is very important. There is a great need to accurately predict the development of a well-defined diagnosis such as RA or other rheumatic diseases for initiation of treatment. Autoantibodies such as rheumatoid factor (RF) and anticylic citrullinated peptide antibodies (anti-CCP) have demonstrated high diagnostic specificity and can allow accurate prediction of RA in patients with UA. (10, 17-23). In addition, some clinical or radiological features at baseline may also predict subsequent development of RA. In a study of recent onset arthritis, patients with mean disease duration of 3 months, over a median follow up period of 5 years, the presence of polyarticular disease predicted persistent arthritis and presence of hand arthritis t was the most predictor of a poor outcome (24)."
+	},
+	{
+		"focus": "Rheumatoid Arthritis",
+		"sourceType": "Journal",
+		"network": "Autoimmune Arthritides, Rheumatoid Arthritis, Psoriatic Arthritis, or Peripheral Spondyloarthropathy, Following Lyme Disease",
+		"authors": "Sheila L. Arvikar, MD,* Jameson T. Crowley, PhD, Katherine B. Sulka, BS, and Allen C. Steere, MD",
+		"date": "Jan-18",
+		"url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5195856/",
+		"text": "These patients experienced intermittent or persistent attacks of swelling and pain primarily in one or a few large joints, especially the knee, over a period of several years (4,5). Small joints, tendons or bursae were occasionally affected, usually in one location at a time. However, while some patients may report a history of a tick bite or EM, arthritis may be the presenting manifestation of the illness, without earlier signs or symptoms of Lyme disease (6)"
+	},
+	{
+		"focus": "Rheumatoid Arthritis",
+		"sourceType": "Journal",
+		"network": "Treatment Strategies in Early Rheumatoid Arthritis and Prevention of Rheumatoid Arthritis",
+		"authors": "M. Kristen Demoruelle and Kevin D. Deane",
+		"date": "Oct-13",
+		"url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3616381/",
+		"text": "However, it is now generally accepted that early RA is the onset of symptoms of joint (typically polyarticular) pain, stiffness, or swelling within the past 3 months [2, 3•], although in practical terms it may be difficult for rheumatologists to evaluate patients within that 3-month time frame, due to a variety of factors, including delay in referral of patients with early symptoms of inflammatory arthritis (IA) or delays in patients seeking medical attention for their symptoms [4]."
+	},
+	{
+		"focus": "Lung Cancer",
+		"sourceType": "Academic Publication",
+		"network": "",
+		"authors": "Stephen H. Bradley, Martyn P. T. Kennedy & Richard D. Neal ",
+		"date": "Nov-18",
+		"url": "https://link.springer.com/article/10.1007/s12325-018-0843-5",
+		"text": "Most patients with lung cancer first present to their general practitioner (GP) [13,14,15,16]. Lung cancer often presents with symptoms that are very commonly encountered in primary care, making early diagnosis challenging. A large UK-based population study demonstrated that although cough is one of the most frequent symptoms of lung cancer, only 0.2% of patients who had a cough for 3 weeks were ultimately diagnosed with lung cancer [17]. The UK’s National Cancer Diagnosis Audit reported that the median primary care interval (time from first presentation to referral) for lung cancer was 14 days, the second highest of 15 cancers reported. Prolonged primary care intervals of 60 and 90 days were experienced by 17.9% and 10.8% of patients respectively [18]. A third of patients diagnosed with lung cancer have attended their GP with symptoms attributable to their cancer three or more times before diagnosis [19]. Unfortunately, most lung cancers are still diagnosed at an advanced stage [20] and a third of lung cancers are diagnosed during emergency presentations [21]. The priority for most of these patients will be for prompt referral and investigation. Some patients with a high probability of malignant disease presenting with significant symptom burdens, rapid clinical deterioration or a high risk of acute hospital admission may benefit from synchronous referral to community palliative care services."
+	},
+	{
+		"focus": "Lung Cancer",
+		"sourceType": "Journal",
+		"network": "",
+		"authors": "Shemana Cassim, Lynne Chepulis, Rawiri Keenan, Jacquie Kidd,2 Melissa Firth, and Ross Lawrenson",
+		"date": "Jan-19",
+		"url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6323678/",
+		"text": "Disease factors included site, size and tumour growth rate as well as symptom presentation. Five articles reported disease factors. All of these studies indicated that symptom presentation, specifically, the wide variation in lung cancer symptoms and therefore a lack of a clear symptom profile or a lack of symptom presentation overall, made both GP diagnosis and patient awareness difficult [11, 12, 30, 36]. For example, Birth et al. (in 2014) [10] reported that the existence of co-morbidities masked many of the symptoms indicative of lung cancer (e.g. pain symptomatic of lung cancer was attributed to a kidney infection based on patient’s history of gallstone related pain, cough attributed to patient’s existing chronic respiratory symptoms or allergy)."
+	},
+	{
+		"focus": "Lung Cancer",
+		"sourceType": "Academic Publication",
+		"network": "Lung Cancer: Diagnosis and Management",
+		"authors": "LAUREN G. COLLINS, M.D., CHRISTOPHER HAINES, M.D., ROBERT PERKEL, M.D., and ROBERT E. ENCK, M.D., Thomas Jefferson University Hospital, Philadelphia, Pennsylvania",
+		"date": "Jan-07",
+		"url": "https://www.aafp.org/afp/2007/0101/p56.html",
+		"text": "Although approximately 10 percent of lung cancers in asymptomatic patients are detected on chest radiographs, most patients are symptomatic when diagnosed.19  Patients may present with the nonspecific systemic symptoms of fatigue, anorexia, and weight loss, or with direct signs and symptoms caused by the primary tumor or intrathoracic or extrathoracic spread "
+	},
+	{
+		"focus": "Pancreatic Cancer",
+		"sourceType": "Journal",
+		"network": "Screening for Pancreatic Cancer: Why, How, and Who?",
+		"authors": "Katherine E. Poruk, BS, BA, Matthew A. Firpo, PhD, Douglas G. Adler, MD, and Sean J. Mulvihill, MD",
+		"date": "Jul-14",
+		"url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4113008/",
+		"text": "When symptoms do develop, a characteristic pattern of painless jaundice is often recognized, but commonly atypical patterns of symptoms including weight loss, abdominal pain, and malaise lead to delays in diagnosis."
+	},
+	{
+		"focus": "Pancreatic Cancer",
+		"sourceType": "Journal",
+		"network": "Diagnosis and Management of Pancreatic Cancer",
+		"authors": "MARIA SYL D. DE LA CRUZ, MD, Thomas Jefferson University, Philadelphia, Pennsylvania\n\nALISA P. YOUNG, MD, and MACK T. RUFFIN, IV, MD, MPH, University of Michigan School of Medicine, Ann Arbor, Michigan",
+		"date": "Apr-14",
+		"url": "https://www.aafp.org/afp/2014/0415/p626.html",
+		"text": "Because more than two-thirds of adenocarcinomas occur in the head of the pancreas, abdominal pain, jaundice, pruritus, dark urine, and acholic stools may be presenting symptoms. In symptomatic patients, the serum tumor marker cancer antigen 19-9 can be used to confirm the diagnosis and to predict prognosis and recurrence after resection."
+	},
+	{
+		"focus": "Endometriosis",
+		"sourceType": "Journal",
+		"network": "Endometriosis",
+		"authors": "Linda C. Giudice, M.D., Ph.D.",
+		"date": "Jun-11",
+		"url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3108065/",
+		"text": "Endometriosis, a major contributor to pelvic pain and subfertility,1 is characterized by endometrial-like tissue outside the uterus (Fig. 1), primarily on the pelvic peritoneum, ovaries, and rectovaginal septum, and in rare cases on the diaphragm, pleura, and pericardium. Endometriosis affects 6 to 10% of women of reproductive age, 50 to 60% of women and teenage girls with pelvic pain, and up to 50% of women with infertility."
+	},
+	{
+		"focus": "Endometriosis",
+		"sourceType": "Academic Publication",
+		"network": "Endometriosis still a challenge",
+		"authors": "Mehedintu C, Plotogea MN, Ionescu S, Antonovici M",
+		"date": "Mar-14",
+		"url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4233437/pdf/JMedLife-07-349.pdf",
+		"text": "The notion of deep endometriosis implies endometriosis infiltrating deeper than 5 mm under the peritoneum [5]. This classification however is unsuccessful in predicting the clinical outcomes, including the symptomatology, respectively the pain [6]. This being said, medical professionals dealing with endometriosis face a lot of problems in diagnosis, treatment and follow up of patients."
+	},
+	{
+		"focus": "Fibromyalgia",
+		"sourceType": "Published Content",
+		"network": "",
+		"authors": "Biljana Radovanovic-Dinica, Snezana Tesic-Rajkovica, Sasa Grgovc, Gordana Petrovica, Valentina Zivkovic",
+		"date": "Mar-18",
+		"url": "https://biomed.papers.upol.cz/artkey/bio-201801-0001_irritable_bowel_syndrome_-_from_etiopathogenesis_to_therapy.php",
+		"text": "Irritable bowel syndrome (IBS) is a chronic and relapsing functional gastrointestinal disorder that affects 9-23% of the\npopulation across the world. Patients with IBS are often referred to gastroenterology, undergo various investigations,\ntake various medicines, take time off work and have a poor quality of life. The pathophysiology of IBS is not yet completely understood and seems to be multifactorial. Many pathogenetic factors, in various combinations, and not all\nnecessarily present in each patient, can play an important role. Discomfort or abdominal pain relieived by defacation,\nasociated with a change in stool form, is a typical clinical manifestation of IBS. Many factors, such as emotional stress\nand eating, may exacerbate the symptoms. A timely diagnosis of IBS is important so that treatment which will provide\nadequate symptomatic relief (diarrhoea, constipation, pain and boaring) can be introduced. The diagnosis of IBS is\nnot confirmed by a specific test or structural abnormality. It is made using criteria based on clinical symptoms such as\nRome criteria, unless the symptoms are thought to be atypical. Today the Rome Criteria IV is the current gold-standard\nfor the diagnoses of IBS. Treatment of patients with IBS requires a multidisciplinary approach. Some patients respond\nwell to non-pharmacological treatment, while others also require pharmacological treatment. This review will provide\na summary of pathophysiology, diagnostic criteria and therapies for IBS."
+	},
+	{
+		"focus": "Fibromyalgia",
+		"sourceType": "Journal",
+		"network": "",
+		"authors": "Kristen Ronn Weaver, MS, Gail D’Eramo Melkus, EdD, and Wendy A Henderson, PhD, MSN, FAAN",
+		"date": "Jun-18",
+		"url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5453305/",
+		"text": "IBS is the gastrointestinal disorder that is most commonly diagnosed; the diagnosis is made from the presence of certain symptoms in the absence of organic disease (Chey, Kurlander & Eswaran, 2015). IBS has been categorized as a functional bowel disorder, defined by symptom onset greater than six months and recurrence at least three days per month during the last three months (Longstreth et al., 2006). Diagnostic criteria require abdominal discomfort or pain to be associated with two or more of the following: improvement with defecation, onset associated with change in the form of stool, or onset associated with a change in the frequency of stool (Longstreth et al., 2006). This diagnostic criteria, known as Rome III classification, also subtypes IBS patients based on their predominant stool pattern: constipation (IBS-C), diarrhea (IBS-D), mixed (IBS-M) or unsubtyped (IBS-U) (Longstreth et al., 2006). Rome III has served as the symptom-based, diagnostic criteria for IBS since its release in 2006; in early 2016 the Rome Foundation released Rome IV, an updated classification system for conceptualizing and diagnosing functional gastrointestinal disorders (Drossman, 2016) (see Table 1)."
+	},
+	{
+		"focus": "Fibromyalgia",
+		"sourceType": "Journal",
+		"network": "",
+		"authors": "Bhupinder Kaur Sandhu and Siba Prosad Paul",
+		"date": "May-14",
+		"url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4033441/",
+		"text": "One of the first references to the concept of an “irritable bowel” causing symptoms of diarrhea, abdominal pain, constipation, without any well-recognized infective cause appeared in the Rocky Mountain Medical Journal in 1950[3]. This article suggested that IBS is caused by a psychosomatic or mental disorder[3]."
+	},
+	{
+		"focus": "Fibromyalgia",
+		"sourceType": "Journal",
+		"network": "",
+		"authors": "Lekha Saha",
+		"date": "Jun-14",
+		"url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4051916/",
+		"text": "Irritable bowel syndrome (IBS) is a chronic and debilitating functional gastrointestinal disorder that affects 9%-23% of the population across the world. The percentage of patients seeking health care related to IBS approaches 12% in primary care practices and is by far the largest subgroup seen in gastroenterology clinics. It has been well documented that these patients exhibit a poorer quality of life and utilize the health care system to a greater degree than patients without this diagnosis. The pathophysiology of IBS is not clear. Many theories have been put forward, but the exact cause of IBS is still uncertain. According to the updated ROME III criteria, IBS is a clinical diagnosis and presents as one of the three predominant subtypes: (1) IBS with constipation (IBS-C); (2) IBS with diarrhea (IBS-D); and (3) mixed IBS (IBS-M); former ROME definitions refer to IBS-M as alternating IBS (IBS-A). Across the IBS subtypes, the presentation of symptoms may vary among patients and change over time. Patients report the most distressing symptoms to be abdominal pain, straining, myalgias, urgency, bloating and feelings of serious illness. The complexity and diversity of IBS presentation makes treatment difficult. Although there are reviews and guidelines for treating IBS, they focus on the efficacy of medications for IBS symptoms using high-priority endpoints, leaving those of lower priority largely unreported. Therefore, the aim of this review is to provide a comprehensive evidence-based review of the diagnosis, pathogenesis and treatment to guide clinicians diagnosing and treating their patients."
+	},
+	{
+		"focus": "Fibromyalgia",
+		"sourceType": "Journal",
+		"network": "",
+		"authors": "Rosa LS Soares",
+		"date": "Sep-14",
+		"url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4161800/",
+		"text": "IBS is a complex disorder that is associated with altered GI motility, secretion and sensation[55,56]. In some patients with IBS motor abnormalities of the GI are detectable, e.g., increased frequency and irregularity of luminal contractions, prolonged transit time in constipation-predominant IBS and an exaggerated motor response to cholecystokinin and meal ingestion in diarrhea-predominant IBS. Despite this no predominant pattern of motor activity has emerged as a marker for IBS[57-60] and the relevance of these motor function alterations to symptoms has yet to be established. However, pharmacological stimulation of gut motility in IBS patients appears to reduce gas retention and improve symptoms. These data suggest that a motility disorder could be associated with this complaint in some patients[61,62].Role of serotonin in the pathophysiology of IBS. Serotonin (5-HT) plays a critical role in the regulation of GI motility, secretion and sensation. It is an important signaling molecule in the gut targeting enterocytes, smooth muscles and enteric neurons. Most of the body serotonin is present in enterochromaffin cells. Serotonin activates both intrinsic and extrinsic primary afferent neurons to, respectively initiate peristaltic and secretory reflexes and to transmit information to the central nervous system. Serotonin activates both intrinsic and extrinsic primary afferent neurons to, respectively initiate peristaltic and secretory reflexes and to transmit information to the central nervous system. It is inactivated by the serotonin reuptake transporter (SERT) in the enterocytes or neurons[22,24,30,32]. There are lines of evidence that FGIDs, as IBS, are associated with defective enteric serotonergic signaling. Altered serotonin signaling could lead to intestinal and extra intestinal symptoms in IBS. These results support the concept that diarrhea-predominant (IBS-D) IBS is characterized by reduced 5-HT reuptake, whereas impaired release may be a feature of constipation predominant IBS (IBS-C). However, exogenous serotonin application evokes so many responses that it is difficult to determine which is physiologically relevant. Therapeutic agents targeting altered serotonin signaling may provide new effective treatment for patients with IBS[62-65]."
+	},
+	{
+		"focus": "Inflammatory Bowel Syndrome",
+		"sourceType": "Journal",
+		"network": "",
+		"authors": "R. B. M. Aggio  P. White  H. Jayasena  B. de Lacy Costello  N. M. Ratcliffe  C. S. J. Probert",
+		"date": "Nov-16",
+		"url": "https://onlinelibrary.wiley.com/doi/full/10.1111/apt.13822",
+		"text": "Traditionally, volatile chemicals are characterised by gas chromatography – mass spectrometry. Several publications based on gas chromatography – mass spectrometry have shown changes in volatile chemicals found in faeces,11 urine12 and breath13 during relapse of inflammatory bowel disease and in faeces of patients with diarrhoea predominant irritable bowel syndrome.14 These studies give an indication of the potential use of volatile chemicals as biomarkers for inflammatory bowel disease and irritable bowel syndrome, however, the gas chromatography – mass spectrometry technology is not yet suitable for high‐throughput applications in clinical practice, which has limited the utility of these observations."
+	},
+	{
+		"focus": "Inflammatory Bowel Syndrome",
+		"sourceType": "Journal",
+		"network": "",
+		"authors": "R. B. M. Aggio  P. White  H. Jayasena  B. de Lacy Costello  N. M. Ratcliffe  C. S. J. Probert",
+		"date": "Nov-16",
+		"url": "https://onlinelibrary.wiley.com/doi/full/10.1111/apt.13822",
+		"text": "Irritable bowel syndrome samples include samples from patients with diarrhoea or constipation and patients alternating between diarrhoea and constipation. Most patients had diarrhoea predominant irritable bowel syndrome, however, two patients reported constipation as the predominant symptom. The diagnosis was based on the Rome II criteria.19"
+	},
+	{
+		"focus": "Inflammatory Bowel Syndrome",
+		"sourceType": "Journal",
+		"network": "",
+		"authors": "Rogerio Saad-Hossne, Carina De Fatima De Sibia, Julio Pnheiro Baima, and Ligia Yukie Sassaki",
+		"date": "Jun-18",
+		"url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5987516/",
+		"text": "The gastrointestinal tract (GIT) is the most common extranodal location of non-Hodgkin's lymphoma, but it represents only 0.4% of primary colonic malignancies.[1] Symptoms are nonspecific and may include diarrhea, constipation, abdominal pain, weight loss, and gastrointestinal bleeding. In colon, the most common types are conventional large cell lymphoma, mucosa-associated lymphoid tissue lymphoma, and T-cell lymphoma.[1,2,3]"
+	},
+	{
+		"focus": "Inflammatory Bowel Syndrome",
+		"sourceType": "Journal",
+		"network": "",
+		"authors": "",
+		"date": "",
+		"url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6685307/",
+		"text": "Inflammatory bowel disease (IBD) results from the interaction between genetic and environmental factors which influence the immune responses. Inflammatory bowel diseases are mainly divided into ulcerative colitis (UC) and Crohn’s disease (CD). Crohn’s disease is similar to UC, both of which have been classified as chronic IBD and which cause digestive disorders and inflammation in the gastrointestinal tract. Some of the symptoms of CD and UC include diarrhea, abdominal pain, rectal bleeding, and weight loss. They are mainly characterized by inflammation. Both the diseases may occur in adolescents and adults and affect men and women equally [1]. Despite the similarity between the symptoms of these two diseases, there are some differences between the symptoms of CD and UC."
+	},
+	{
+		"focus": "Inflammatory Bowel Syndrome",
+		"sourceType": "Journal",
+		"network": "",
+		"authors": "",
+		"date": "",
+		"url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3072591/",
+		"text": "leven men and sixteen women with median age at onset of IBDU 40.22 years (range 13–75 years) were identified. Abdominal pain (21), diarrhea (11), fever (7), bloody stool (4), vomiting (4), abdominal distention (3), and constipation (1) were the main symptoms. During the course, three subjects also had extra-gastrointestinal manifestations (EIM), including arthralgia (3), erythema nodosun (3), mucocutaneous abscess (3), ulcer (2), and rectum-vagina fistula (1). Two subjects had a colonectomy performed and one underwent an appendectomy before diagnosis."
+	},
+	{
+		"focus": "Inflammatory Bowel Syndrome",
+		"sourceType": "Journal",
+		"network": "",
+		"authors": "",
+		"date": "",
+		"url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6888256/",
+		"text": "PIBD presents with wide variety of symptoms, both gastrointestinal and extra-intestinal. The initial presentation of ulcerative colitis is commonly abdominal pain and bloody diarrhea. This usually comes to medical attention sooner than the more varied and sometimes subtle presentation of Crohn’s disease. A child with Crohn’s disease may present with bloody diarrhea and abdominal pain when colitis is present or with vaguer symptoms such as non-bloody diarrhea, weight loss/growth failure, malaise, fatigue, anemia, or fever. Table 2​2 outlines characteristics of ulcerative colitis and Crohn’s disease in PIBD.3"
+	},
+	{
+		"focus": "Lupus",
+		"sourceType": "Journal",
+		"network": "",
+		"authors": "",
+		"date": "",
+		"url": "https://pubmed.ncbi.nlm.nih.gov/31376267/",
+		"text": "Consistent with these results, 80 SLE\npatients with atypical cardiac symptoms/signs (fatigue, mild shortness of\nbreath, early repolarisation and sinus\ntachycardia) with normal echocardiography, were evaluated using MR (35).\nAbnormal CVMR findings were identified in 22/80 (27.5%) of SLE patients,\nincluding 4/22 with recent silent myocarditis, 5/22 with past myocarditis,\n9/22 with past myocardial infarction\nand 4/22 with diffuse subendocardial\nfibrosis due to vasculitis; again, it was\ndemonstrated that MR in SLE patients\nwith atypical cardiac symptoms/signs\nand normal echocardiography can assess occult cardiac lesions"
+	},
+	{
+		"focus": "Lupus",
+		"sourceType": "Journal",
+		"network": "",
+		"authors": "",
+		"date": "",
+		"url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4558874/",
+		"text": "Systemic lupus erythematosus (SLE) is a heterogeneous autoimmune disease that may involve many different organs and display a variable clinical course. The diagnosis of SLE is based on characteristic clinical findings of the skin, joints, kidneys, and the central nervous system, as well as on serological parameters such as antinuclear antibodies (ANA), in particular antibodies to dsDNA (e1). The various clinical symptoms do not always occur simultaneously and may develop at any stage of the disease. In the early stages, physicians from various disciplines often propose several differential diagnoses, or identify only one aspect of the disease without recognizing the symptoms as part of SLE (1, e2). Fever, fatigue, and arthralgia are the most frequently occurring non-specific symptoms at disease onset; additional joint swelling or a \"butterfly rash\"”particularly in women of childbearing age”should prompt consideration of SLE (2). The aim of this article is to provide an updated review on the diagnosis and treatment of SLE, based on a selective survey of the literature in PubMed and the Cochrane Library, including current guidelines and the recommendations of experts with extensive experience in the management of this disease."
+	},
+	{
+		"focus": "Lupus",
+		"sourceType": "Journal",
+		"network": "",
+		"authors": "",
+		"date": "",
+		"url": "https://www.hkmj.org/abstracts/v24n5/501.htm",
+		"text": "In Hong Kong, the prevalence and annual incidence of SLE are estimated to be 0.1% and 6.7 per 100 000 population, respectively.6 The 15-year cumulative survival of local Chinese patients with SLE managed in non-academic hospitals is 86%.7 Infections, cardiovascular events, and malignancies are their most common causes of death. Renal and musculoskeletal complications (eg, avascular bone necrosis and osteoporotic fracture) are the most important contributors to disease and treatment-related organ damage, respectively. One-third of such patients lose their ability to work within 5 years after disease onset; this is mainly attributed to musculoskeletal pain, fatigue, anxiety/depression symptoms, and memory deterioration.8"
+	},
+	{
+		"focus": "Lupus",
+		"sourceType": "Journal",
+		"network": "",
+		"authors": "",
+		"date": "",
+		"url": "https://www.aafp.org/afp/2003/1201/p2179.html",
+		"text": "TABLE 2\nClinical Features of Systemic Lupus Erythematosus\nAffected Percentage\norgan system of patients20 Signs and symptoms\nConstitutional 50 to 100 Fatigue, fever (in the absence of infection), weight loss\nSkin 73 Butterfly rash, photosensitivity rash, mucous membrane lesion,\nalopecia, Raynaud’s phenomenon, purpura, urticaria, vasculitis\nMusculoskeletal 62 to 67 Arthritis, arthralgia, myositis\nRenal 16 to 38 Hematuria, proteinuria, cellular casts, nephrotic syndrome\nHematologic 3621 Anemia, thrombocytopenia, leukopenia\nReticuloendothelial 7 to 23 Lymphadenopathy, splenomegaly, hepatomegaly\nNeuropsychiatric 12 to 21 Psychosis, seizures, organic brain syndrome, transverse myelitis,\ncranial neuropathies, peripheral neuropathies\nGastrointestinal 18 Nausea, vomiting, abdominal pain\nCardiac 15 Pericarditis, endocarditis, myocarditis\nPulmonary 2 to 12 Pleurisy, pulmonary hypertension, pulmonary parenchymal disease\nAdapted with permission from Guidelines for referral and management of systemic lupus erythematosus in\nadults. American College of Rheumatology Ad Hoc Committee on Systemic Lupus Erythematosus Guidelines.\nArthritis Rheum 1999;42:1785-96, with additional information from references 20 and 21."
+	},
+	{
+		"focus": "Lyme Disease",
+		"sourceType": "Reddit",
+		"network": "Lyme Disease, Babesia, Bartonella",
+		"authors": "Snoo93542",
+		"date": "7th July 2020",
+		"url": "https://www.reddit.com/r/lymedisease/comments/hmn8nm/lyme_disease_babesia_bartonella/",
+		"text": "Hey everyone I got Lyme disease in 2016, although I believe it was dormant in my body many years prior. I was experiencing some adverse symptoms that were ongoing for many months such as extreme fatigue, dizzness/lightheadness spells, fainting, chest pains, heart palpations, shortness of breath, and many more unusual and scary symptoms. After visiting many doctors and a few months of uncertainty I was diagnosed with lyme disease along with co-infections babesia and bartonella from positive blood test along with clinical diagnostic from lyme specialist. ",
+		"index": "1.0"
+	},
+	{
+		"focus": "Lyme Disease",
+		"sourceType": "NHS111",
+		"network": "Lyme disease",
+		"authors": "NHS",
+		"date": "27th April 2018",
+		"url": "https://www.nhs.uk/conditions/lyme-disease/",
+		"text": "Not everyone with Lyme disease gets the rash. Some people also have flu-like symptoms in the early stages, such as:\n\na high temperature, or feeling hot and shivery\nheadaches\nmuscle and joint pain\ntiredness and loss of energy\nOther symptoms of Lyme disease\nSome people with Lyme disease develop more severe symptoms months or years later.\n\nThis is more likely if treatment is delayed.\n\nThese more severe symptoms may include:\n\npain and swelling in joints\nnerve problems – such as pain or numbness\nheart problems\ntrouble with memory or concentration",
+		"index": "0.9"
+	},
+	{
+		"focus": "Lyme Disease",
+		"sourceType": "Journal",
+		"network": "Chronic Lyme Disease",
+		"authors": "Paul M. Lantos, MD",
+		"date": "Jun-16",
+		"url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4477530/",
+		"text": "For the purpose of the ILADS guidelines, ‘chronic Lyme disease’ is inclusive of persistent symptomatologies including fatigue, cognitive dysfunction, headaches, sleep disturbance and other neurologic features, such as demyelinating disease, peripheral neuropathy and sometimes motor neuron disease, neuropsychiatric presentations, cardiac presentations (including electrical conduction delays and dilated cardiomyopathy), and musculoskeletal problems.",
+		"index": "0.8"
+	},
+	{
+		"focus": "Lyme Disease",
+		"sourceType": "Journal",
+		"network": "Chronic Lyme Disease",
+		"authors": "Paul M. Lantos, MD",
+		"date": "Jun-16",
+		"url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4477530/",
+		"text": " It is well-recognized that some patients experience prolonged symptoms during convalescence from Lyme disease, and a subset suffer significant functional impairment. The most common complaints among such patients are arthralgias, myalgias, headache, neck and backache, fatigue, irritability, and cognitive dysfunction (particularly perceived difficulty with memory and concentration).",
+		"index": "0.8"
+	},
+	{
+		"focus": "Lyme Disease",
+		"sourceType": "Journal",
+		"network": "The General Symptom Questionnaire-30 (GSQ-30): A Brief Measure of Multi-System Symptom Burden in Lyme Disease",
+		"authors": "Brian A. Fallon, Nevena Zubcevik, Clair Bennett1, Shreya Doshi1, Alison W. Rebman, Ronit Kishon1, James R. Moeller1, Nadlyne R. Octavien and John N. Aucott",
+		"date": "Dec-19",
+		"url": "https://www.frontiersin.org/articles/10.3389/fmed.2019.00283/full",
+		"text": "Welch's one-way tests indicated significant differences between clinical groups across three of four subscales; pain and fatigue [F(3, 114.86) = 17.04, p < 0.001], neuropsychiatric symptoms [F(3, 110.45) = 36.19, p < 0.001], and neurological symptoms [F(3, 108.29) = 11.96, p < 0.001]. Pairwise post-hoc comparisons (Figure 2) revealed significant differences between PTLDS and both EM and TBI on the pain and fatigue subscale; and between PTLDS and EM on both the neurologic and the neuropsychiatric subscales. All other comparisons were not significant.",
+		"index": "0.7"
+	},
+	{
+		"focus": "Lyme Disease",
+		"sourceType": "Journal",
+		"network": "Lyme disease",
+		"authors": "Thomas S. Murray, and Eugene D. Shapiro",
+		"date": "May-13",
+		"url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3652387/",
+		"text": "Lyme disease, caused by the spirochete Borrelia burgdorferi, is the most common vector-borne disease in the United States. The clinical presentation varies depending on the stage of the illness: early disease includes erthyma migrans, early disseminated disease includes multiple erythema migrans, meningitis, cranial nerve palsies, and carditis; late disease is primarily arthritis. The symptoms and signs of infection resolve in most patients after treatment with appropriate antimicrobials for 2 to 4 weeks. Serologic testing should be used judiciously as it often results in misdiagnosis when performed on blood from patients with a low prior probability of disease and those with only nonspecific symptoms such as fatigue or arthralgia without objective signs of infection.",
+		"index": "0.7"
+	},
+	{
+		"focus": "Lyme Disease",
+		"sourceType": "Journal",
+		"network": "Chronic Lyme Disease",
+		"authors": "Paul M. Lantos",
+		"date": "Jun-16",
+		"url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4477530/",
+		"text": "Some CLD advocates emphasize that CLD is a polymicrobial infection in which patients suffer from multiple tick-borne coinfections.71,72 In practice, patients with a diagnosis of CLD are often diagnosed with and treated for numerous superimposed infections, including Babesia spp and Anaplasma phagocytophilum (well-described tick-borne pathogens), Bartonella henselae (which is not known to be transmitted by ticks), pathogens of unclear clinical relevance such as the xenotropic murine leukemia virus-related virus, and even completely fictitious pathogens such as “Protomyxozoa rheumatica.” There is no evidence to support chronic anaplasmosis; chronic symptomatic babesiosis when present invariably is associated with fever and molecular or microscopic evidence of parasitemia. Bartonella species are readily identified in ticks, but there is virtually no quality evidence of tick-borne transmission to humans or of simultaneous Lyme disease and bartonellosis.73 It is important to recognize that, in the context of CLD, a diagnosis of coinfection may be just as spurious.",
+		"index": "0.7"
+	},
+	{
+		"focus": "Multiple Sclerosis ",
+		"sourceType": "Journal",
+		"network": "",
+		"authors": "",
+		"date": "",
+		"url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2850590/",
+		"text": "Table 3\nCIS clinical features and likelihood of signaling an MS diagnosis\n\nCIS features typically seen in MS\tLess common CIS features which may be seen in MS\tAtypical CIS features not expected in MS\nOptic nerve\t\t\n  Unilateral optic neuritis\tBilateral simultaneous optic neuritis\tProgressive optic neuropathy\n  Pain on eye movement\tNo pain\tSevere, continuous orbital pain\n  Partial and mainly central visual blurring\tNo light perception\tPersistent complete loss of vision\n  Normal disc or mild disc swelling\tModerate to severe disc swelling with no hemorrhages\tNeuroretinitis (optic disc swelling with macular star)\nUveitis (mild, posterior)\tUveitis (severe, anterior)\nBrain stem/cerebellum\t\t\n  Bilateral internuclear ophthalmoplegia\tUnilateral internuclear ophthalmoplegia, facial palsy, facial myokymia\tComplete external ophthalmoplegia; vertical gaze palsies\n  Ataxia and multidirectional nystagmus\tDeafness\tVascular territory syndrome, e.g., lateral medullary\n  Sixth nerve palsy\tOne-and-a-half syndrome\tThird nerve palsy\n  Facial numbness\tTrigeminal neuralgia\tProgressive trigeminal sensory neuropathy\nParoxysmal tonic spasms\tFocal dystonia, torticollis\nSpinal cord\t\t\n  Partial myelopathy\tComplete transverse myelitis\tAnterior spinal artery territory lesion (sparing posterior columns only)\n  Lhermitte's symptom\tRadiculopathy, areflexia\tCauda equina syndrome\n  Deafferented hand\tSegmental loss of pain and temperature sensation\tSharp sensory level to all modalities and localized spinal pain\n  Numbness\tPartial Brown-Sequard syndrome (sparing posterior columns)\tComplete Brown-Sequard syndrome\n  Urinary urgency, incontinence, erectile dysfunction\tFaecal incontinence\tAcute urinary retention\n  Progressive spastic paraplegia (asymmetrical)\tProgressive spastic paraplegia (symmetrical)\tProgressive sensory ataxia (posterior columns)\nCerebral hemispheres\t\t\n  Mild subcortical cognitive impairment\tEpilepsy\tEncephalopathy (obtundation, confusion, drowsiness)a\n  Hemiparesis\tHemianopia\tCortical blindness\nOpen in a separate window\naAlthough encephalopathy is required for ADEM, it may also be seen at presentation and/or during the course of MS."
+	},
+	{
+		"focus": "Multiple Sclerosis",
+		"sourceType": "Journal",
+		"network": "",
+		"authors": "",
+		"date": "",
+		"url": "https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-017-0418-4",
+		"text": "We used the classification model, described above, to identify patients of the random sample who might have unrecognized MS. These patients would be amongst those classified as having MS but lacking an ICD9[MS] code. Classification identified 295 such patients, out of a total cohort of 2289. We manually reviewed the notes of a random sample of 45 of these patients and identified four who could have unrecognized MS. For example, one 74-year-old woman complained of migraines, occipital neuralgia, had an abnormal EMG, hand numbness and bowel incontinence, all of which are important symptoms of MS. A second patient, a 75-year old woman complained of peripheral neuropathy, urinary incontinence and visual changes. The remainder of the reviewed patients had one or more medical conditions characterized by the signs and symptoms listed in Table 2, such as cerebrovascular accident, diabetic neuropathy, chronic migraine headaches, seizure disorders, brain cancer, metastatic cancer to the brain and traumatic brain injury. None of the four patients identified above as potentially having MS had any of these neurological conditions. However, inasmuch as none of the four patients suspected to have MS had been seen by a neurologist and were lacking additional follow-up, it was not possible to ascertain whether or not these patients actually had MS."
+	},
+	{
+		"focus": "Multiple Sclerosis",
+		"sourceType": "Journal",
+		"network": "",
+		"authors": "",
+		"date": "",
+		"url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4589809/",
+		"text": "Discussion\nThe etiology of MS is probably multifactorial, related to genetic, environmental, and several other factors. The pathogenesis is not fully understood but is believed to involve T-cell-mediated inflammation directed against myelin and other related proteins with a possible role for B cells. The McDonald criteria have been proposed and revised over the years to guide the diagnosis of MS and are based on clinical presentation and magnetic resonance imaging (MRI) of the brain and spinal cord to establish dissemination in time and space. The treatment of MS includes disease modification with immunomodulator drugs and symptom management to address the specific symptoms such as fatigue, spasticity, and pain."
+	},
+	{
+		"focus": "Multiple Sclerosis",
+		"sourceType": "Journal",
+		"network": "",
+		"authors": "",
+		"date": "",
+		"url": "https://www.ajmc.com/view/cost-effectiveness-multiple-sclerosis-overview-diagnosis",
+		"text": "Clinical Manifestations\n\nThe broad range of signs and symptoms of MS reflect multifocal lesions in the central nervous system (CNS), including the afferent visual pathways, cerebrum, brainstem, cerebellum, and spinal cord (Table 212,13).12,13 In general, the range and severity of manifestations in an individual at a particular time reflects the extent of lesions, their location, the severity of tissue damage, and the rate of accumulation. However, the correlation between lesions (as seen on standard magnetic resonance imaging [MRI]) and clinical manifestations is only approximate. This may be because repair and neural plasticity\n\ncompensate for damage, and residual function may not parallel changes in MRI. In addition, recent work has demonstrated that there are pathological features in both white and gray matter not visible on standard MRI.12 MS symptoms result from interruption of myelinated tracts in the CNS.3 The initial symptoms often include 1 or more of the following: weakness or diminished dexterity in 1 or more limbs, a sensory disturbance, monocular visual loss (optic neuritis), double vision (diplopia), gait instability, and ataxia. As MS ensues, bladder dysfunction, fatigue, and heat sensitivity occur in many patients."
+	},
+	{
+		"focus": "Multiple Sclerosis",
+		"sourceType": "Journal",
+		"network": "",
+		"authors": "",
+		"date": "",
+		"url": "https://pmj.bmj.com/content/81/955/302",
+		"text": "OVERVIEW OF MULTIPLE SCLEROSIS\nMultiple sclerosis is characterised by inflammatory, demyelinating lesions scattered throughout the central nervous system (CNS) that occur at different sites and at different times. The exact pathophysiology of multiple sclerosis is not clear but it seems to be autoimmune in nature. The wide distribution of lesions results in a variety of clinical features such as loss of sensation, muscle weakness, visual loss, incoordination, cognitive impairment, fatigue, pain, and bladder and bowel disturbance. The course of multiple sclerosis is unpredictable resulting in a changing pattern of need over time. It has comparatively little effect on life expectancy and therefore usually has to be managed for many decades.3"
+	},
+	{
+		"focus": "Chronic Fatigue",
+		"sourceType": "Journal",
+		"network": "A Systematic Review of Biological Mechanisms of Fatigue in Chronic Illness",
+		"authors": "Lea Ann Matura, PhD, Susan Malone, PhD, Rosario Jaime-Lara, MSN, and Barbara Riegel, PhD",
+		"date": "Mar-18",
+		"url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6346311/",
+		"text": "HF\nFatigue and dyspnea are the hallmark symptoms of chronic HF, but there is surprisingly little research on fatigue in HF. In a qualitative study, the authors characterized HF fatigue as having both bodily and mental aspects (Falk, Granger, Swedberg, & Ekman, 2007). Patients described the bodily experience of fatigue as a feeling of sleepiness and lacking strength and energy. They described the mental aspects of fatigue as demoralization and intellectual deficiency. Restorative activites (e.g., social interaction) alleviated fatigue in this small sample of patients with chronic HF.",
+		"index": "0.4",
+		"terms": ["fatigue", "energy"]
+	},
+	{
+		"focus": "Chronic Fagtigue",
+		"sourceType": "Journal",
+		"network": "BIOMARKERS for CHRONIC FATIGUE",
+		"authors": "Nancy G. Klimas, Gordon Broderick and Mary Ann Fletcher",
+		"date": "Jun-12",
+		"url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5373648/",
+		"text": "In a recent review, Graff, el al, (2011) noted reports of moderate to severe fatigue in 50 to 70% of the cases in immune-mediated inflammatory diseases. As reported by the New York Times (Crouse, 2011) following her withdrawal August 31, 2011 from the US Open tennis tournament, Venus Williams, winner of seven Grand Slam singles titles, said, “The fatigue is hard to explain unless you have it. Some mornings I feel really sick, like when you don’t get enough sleep or you have flu or a cold. I always have some level of tiredness. And the more I tried to push through it, the tougher it got.” Williams received the diagnosis of the autoimmune disorder, Sjögren's syndrome, a condition correlated with CF, earlier in the month. This CF is similar to “sickness behavior” in animals which is mediated by pro-inflammatory cytokines, in particular interleukin (IL)-1, acting on neuronal brain cells (Dantzer, 2001). Increased levels of IL-1 receptor antagonist (IL-1Ra) in the cerebrospinal fluid were associated with increasing fatigue in primary Sjögren's syndrome patients, supporting the suggestion that the IL-1 system is a possible biomarker of fatigue (Harboe et al., 2009).",
+		"index": "0.3",
+		"terms": ["fatigue", "tiredness"]
+	},
+	{
+		"focus": "Chronic Fatigue",
+		"sourceType": "Journal",
+		"network": "",
+		"authors": "",
+		"date": "",
+		"url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4585442/",
+		"text": "Outcomes\nSeverity of symptoms (including fatigue and overall improvement) and their effects on functional status (includes physical function, physical health, and functional impairment); quality of life; and adverse effects. There are several different instruments used to measure these outcomes, including: the medical outcomes survey short-form general health survey (SF-36, a rating scale measuring quality of life, including limitation of physical functioning caused by ill health [score range 0–100, where 0 = limited in all activities and 100 = able to carry out vigorous activities], pain, energy levels, and mood); the Karnofsky scale, a modified questionnaire originally developed for the rating of quality of life in people having chemotherapy for malignancy (where 0 = death and 100 = no evidence of disease); the Beck Depression Inventory, a self-rated checklist for quantifying depressive symptoms (score range 0–63, where a score of 20 or more is usually considered clinically significant depression); the Hospital Anxiety and Depression scale (HADS, which consists of 2 self-rated subscales, each with score range 0–21, where a score of 11 or more is considered clinically significant); the Sickness Impact Profile, a measure of the influence of symptoms on social and physical functioning; the Chalder Fatigue Scale, a rating scale measuring subjective fatigue (score range 0–11, where scores 4 or more = excessive fatigue); the Abbreviated Fatigue Questionnaire, a rating scale of subjective bodily fatigue (score range 4–28, where a lower score indicates a higher degree of fatigue); the Clinical Global Impression scale, a validated clinician-rated measure of overall change compared with baseline at study onset (7 possible scores from 'very much worse' [score 7] to 'very much better' [score 1]); the Checklist Individual Strength fatigue subscale (score range 8 [no fatigue at all] to 56 [maximally fatigued]); the Nottingham Health Profile, with questions in 6 self-report categories: energy, pain perception, sleep patterns, sense of social isolation, emotional reactions, and physical mobility (maximum weighted score 100 [all listed complaints present], and minimum 0 [none of listed complaints present]); the Multidimensional Fatigue Inventory (MFI), with 5 subscales: general fatigue, physical fatigue, mental fatigue, reduced activity, and reduced motivation (each with a score range of 4–20, higher scores indicate higher degree of fatigue); and self-reported severity of symptoms and levels of activity; and the Fatigue Severity Scale, with nine self-rated 7-point subscales assessing behavioural consequences of fatigue."
+	},
+	{
+		"focus": "Chronic Fatigue",
+		"sourceType": "Journal",
+		"network": "",
+		"authors": "",
+		"date": "",
+		"url": "https://www.aafp.org/afp/2012/1015/p741.html",
+		"text": "Chronic fatigue syndrome is characterized by debilitating fatigue that is not relieved with rest and is associated with physical symptoms. The Centers for Disease Control and Prevention criteria for chronic fatigue syndrome include severe fatigue lasting longer than six months, as well as presence of at least four of the following physical symptoms: postexertional malaise; unrefreshing sleep; impaired memory or concentration; muscle pain; polyarthralgia; sore throat; tender lymph nodes; or new headaches. It is a clinical diagnosis that can be made only when other disease processes are excluded. The etiology of chronic fatigue syndrome is unclear, is likely complex, and may involve dysfunction of the immune or adrenal systems, an association with certain genetic markers, or a history of childhood trauma. Persons with chronic fatigue syndrome should be evaluated for concurrent depression, pain, and sleep disturbances. Treatment options include cognitive behavior therapy and graded exercise therapy, both of which have been shown to moderately improve fatigue levels, work and social adjustment, anxiety, and postexertional malaise. No pharmacologic or alternative medicine therapies have been proven effective."
+	},
+	{
+		"focus": "Chronic Fatigue",
+		"sourceType": "Journal",
+		"network": "",
+		"authors": "",
+		"date": "",
+		"url": "https://www.reumatologiaclinica.org/en-gender-differences-in-chronic-fatigue-articulo-S2173574316000289",
+		"text": "Patients and methods\nA prospective, cross-sectional cohort study was conducted including CFS patients at the time of diagnosis. Sociodemographic data, clinical variables, comorbid phenomena, fatigue, pain, anxiety/depression, and health quality of life, were assessed in the CFS population. A comparative study was also conducted between genders."
+	}
 ]
