@@ -71,7 +71,7 @@ export const SearchResults = () => {
           </TableHead>
           <TableBody>
             {reports.map(
-              ({ sourceType, focus, date, authors, network, text, url , terms}, i) => (
+              ({ sourceType, focus, date, authors, network, text, url, index }, i) => (
                 <TableRow key={i}>
                   <TableCell
                     style={{
@@ -88,7 +88,7 @@ export const SearchResults = () => {
                   <TableCell>{network}</TableCell>
                   <TableCell className="description" dangerouslySetInnerHTML={{ __html: getHighlightedText(text, url, terms) }}>
                   </TableCell>
-                  <TableCell align={'center'}>0.8</TableCell>
+                  <TableCell align={'center'}>{index || 0.8}</TableCell>
                 </TableRow>
               )
             )}
