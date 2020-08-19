@@ -34,19 +34,28 @@ export const SearchResults = () => {
       <Typography variant="body1">
         Below are relevant results (based on the symptoms described).​
       </Typography>
-      <Typography variant="caption" style={{ opacity: 0.6 }}>
-        These are indexed, showing those with the strongest association at the
-        top of the list. ​
-      </Typography>
-      <List>
-        <p>Source Type:</p>
-        {sourceTypes.map(sourceType => (
-          <div key={sourceType}>
-            <div className="dot" />
-            <p>{sourceType}</p>
-          </div>
-        ))}
-      </List>
+      <Top>
+        <TopLeft>
+          <Typography variant="caption" style={{ opacity: 0.6 }}>
+            These are indexed, showing those with the strongest association at the
+            top of the list. ​
+          </Typography>
+          <DownloadButton>
+            <p>Export to CSV</p>
+          </DownloadButton>
+        </TopLeft>
+        <TopRight>
+          <List>
+            <p>Source Type:</p>
+            {sourceTypes.map(sourceType => (
+              <div key={sourceType}>
+                <div className="dot" />
+                <p>{sourceType}</p>
+              </div>
+            ))}
+          </List>
+        </TopRight>
+      </Top>
       <TableContainer>
         <Table aria-label="simple table">
           <TableHead>
@@ -136,3 +145,30 @@ const List = styled.div`
     }
   }
 `
+
+const DownloadButton = styled.div`
+  background: ${colours.peach};
+  color: white;
+  padding: 0 10px;
+  width: fit-content;
+  align-self: flex-end;
+  border-radius: 5px;
+  font-size: 12px;
+  cursor: pointer;
+  p {
+    margin: 0;
+    padding: 0;
+  }
+`
+
+const Top = styled.div`
+  display: flex;
+`;
+
+const TopLeft = styled.div`
+  flex: 1;
+`;
+
+const TopRight = styled.div`
+  flex: 1;
+`;
