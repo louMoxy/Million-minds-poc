@@ -1,7 +1,7 @@
 [{
 		"focus": "Appendicitis",
 		"sourceType": "Academic Publication",
-		"network": "",
+		"network": "Acute Appendicitis: Efficient Diagnosis and Management",
 		"authors": "MATTHEW J. SNYDER, DO, MARJORIE GUTHRIE, MD, and STEPHEN CAGLE, MD",
 		"date": "Jul-18",
 		"url": "https://www.aafp.org/afp/2018/0701/p25.html",
@@ -9,18 +9,42 @@
 	},
 	{
 		"focus": "Appendicitis",
+		"sourceType": "Self.com",
+		"network": "What Appendicitis Really Feels Like, From 13 People Who Have Been There",
+		"authors": "Jacqueline Andriakos",
+		"date": "Oct-18",
+		"url": "https://www.self.com/story/what-appendicitis-feels-like-real-people-stories",
+		"text": "The telltale symptoms of appendicitis include pain on the right side of the lower abdomen (that typically feels worse if you move around), nausea, bloating, and possibly a fever and/or vomiting, according to the Mayo Clinic.",
+		"index": "1.0",
+		"terms": ["right side lower abdomen", "vomiting", "abdomen"],
+	},
+	{
+		"focus": "Appendicitis",
 		"sourceType": "Academic Publication",
-		"network": "",
+		"network": "Acute Appendicitis: Efficient Diagnosis and Management",
 		"authors": "MATTHEW J. SNYDER, DO, MARJORIE GUTHRIE, MD, and STEPHEN CAGLE, MD",
 		"date": "Jul-18",
 		"url": "https://www.aafp.org/afp/2018/0701/p25.html",
 		"text": "In a study of 375 children, risk factors for appendiceal perforation included fever, vomiting, longer duration of symptoms, elevated C-reactive protein level or white blood cell count, and ultrasound findings of free abdominal fluid, visualized perforation, or a mean appendix diameter of 11 mm or more."
+		"index": "0.7",
+		"terms": ["vomiting"],
+	},
+		{
+		"focus": "Appendicitis",
+		"sourceType": "Academic Publication",
+		"network": "Diagnosing Appendicitis: Evidence-Based Review of the Diagnostic Approach in 2014",
+		"authors": "Daniel J. Shogilev, MD, Nicolaj Duus, MD, Stephen R. Odom, MD, and Nathan I. Shapiro, MD",
+		"date": "Oct-14",
+		"url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4251237/",
+		"text": "The Alvarado score is a clinical scoring system used to stratify the risk of appendicitis in patients presenting with abdominal pain. Alvarado’s original work was published in 1988 and is based on his retrospective data analysis of 305 patients presenting with abdominal pain suggestive of acute appendicitis. This study found eight predictive factors of diagnostic value in acute appendicitis and assigned each factor a value of 1 or 2 based on their diagnostic weight. A score of 1 was given for each of the following: elevated temperature >37.3°C, rebound tenderness, migration of pain to right lower quadrant (RLQ), anorexia, nausea or vomiting, and leukocyte left shift. A score of 2 was given for RLQ tenderness and leukocytosis >10 000. The likelihood of appendicitis and specific management recommendations are given based on the total score. A score of 5 or 6 is “compatible” with the diagnosis of acute appendicitis and recommends the clinician observe or serially examine the patient. A score of 7 or 8 is “probable” appendicitis and a score of 9 or 10 is “very probable” appendicitis and recommends surgical intervention."
+		"index": "0.8",
+		"terms": ["vomiting", "lower right quadrant"],
 	},
 	{
 		"focus": "Osteoarthritis",
 		"sourceType": "Journal",
 		"network": "Viral Arthritis",
-		"authors": "Michael Marks, clinical research fellowA and Jonathan L Marks, consultant rheumatologistB",
+		"authors": "Michael Marks, clinical research fellowA and Jonathan L Marks, consultant rheumatologistB",
 		"date": "Apr-16",
 		"url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4868140/",
 		"text": "Table 1. Key features of major viral arthritides.\nVirus Epidemiology Common clinical features Diagnostic test\nParvovirus B19 Exposure to young children Large joint oligoarticular in children, RA-like pattern\n\nmore common in adults.\n\nB19 IgM\n\nHepatitis B Congenital transmission in high-risk\n\ncountries MSM, IDU\n\nRA-like pattern of arthritis lasting days to months\nwith rash, malaise or myalgia. Joint symptoms often\nresolve with onset of jaundice.\n\nHBsAg, anti-HBc,\nHBV DNA\n\nHCV Worldwide MSM, IDU, blood\n\ntransfusions\n\nMild RA-like pattern of arthritis/ arthralgia. Anti-HCV, HCV-RNA\n\nHCV-associated\ncryoglobulinaemia\n\nAs above Large joint oligoarticular non-erosive arthritis (often\n\ninvolving ankles).\n\nAnti-HCV, HCV-RNA,\ncryoglobulins, low C4\n\nHIV Worldwide – especially sub-Saharan\nAfrica, multiple sexual partners,\nMSM, IDU, blood transfusions\n\nVariety of presentations reported. Joint symptoms\nas part of an immune-reconstitution syndrome also\ndescribed with initiation of retroviral therapy.\n\nAnti-HIV1/2, HIV-\nRNA\n\nAlphaviruses Specific geographical range for\neach virus – See Fig 1\n\nChronic arthritis/arthralgia associated with\nchikungunya infection, as well as tenosynovitis,\ncarpal tunnel syndrome and new-onset Raynaud\nphenomenon. Associated thrombocytopenia common.\n\nSpecific-viral IgM,\nspecific-viral RNA\n\nHTLV-1 Japan, Caribbean Chronic large and medium joint oligoarthritis. Fever\nmyalgia and skin lesions common at onset of joint\nsymptoms. Associated inflammatory eye, skin and\nmuscle disorders reported.\n\nAnti-HTLV-1, HTLV-\n1-DNA\n\nCHIKV = chikungunya; HBV = hepatitis B virus; HCV = hepatitis C virus; HTLV-1 = human T-lymphotrophic virus type-1; IDU = injecting drug user; MSM = men who\nhave sex with men; RA = rheumatoid artritis."
@@ -29,7 +53,7 @@
 		"focus": "Osteoarthritis",
 		"sourceType": "Journal",
 		"network": "Genetics and the classification of arthritis in adults and children",
-		"authors": "Peter A. Nigrovic, M.D. Soumya Raychaudhuri, M.D., Ph.D. and Susan D. Thompson, Ph.D",
+		"authors": "Peter A. Nigrovic, M.D. Soumya Raychaudhuri, M.D., Ph.D. and Susan D. Thompson, Ph.D",
 		"date": "Dec-17",
 		"url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5805142/",
 		"text": "Historically, arthritis has been classified by clinical phenotype, as adjudicated by experts. Reliance on expert opinion is sometimes termed eminence-based medicine, a tongue-in-cheek contrast with evidence-based medicine. Sometimes clinical observation works well. For example, RA, gout and rheumatic fever were distinguished from one another on the basis of patient demographics, joint distribution, chronicity, and blood uric acid levels (2, 3). Yet pattern recognition has its limits, and RA itself is an excellent example. The identification of rheumatoid factor (RF) and then anti-citrullinated peptide antibodies (ACPAs) uncovered a fault line that would have been difficult to identify clinically, since seropositive and seronegative RA exhibit extensive phenotypic overlap. Yet these conditions differ in genetic associations, in immune complexes and complement fixation within the joint, and in synovial T cell populations (4–8). RA thus exemplifies how shared phenotype is an imperfect guide to shared pathophysiology."
@@ -38,7 +62,7 @@
 		"focus": "Osteoarthritis",
 		"sourceType": "Journal",
 		"network": "Autoimmune Arthritides, Rheumatoid Arthritis, Psoriatic Arthritis, or Peripheral Spondyloarthropathy, Following Lyme Disease",
-		"authors": "Sheila L. Arvikar, MD Jameson T. Crowley, PhD, Katherine B. Sulka, BS, and Allen C. Steere, MD",
+		"authors": "Sheila L. Arvikar, MD Jameson T. Crowley, PhD, Katherine B. Sulka, BS, and Allen C. Steere, MD",
 		"date": "Jan-17",
 		"url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5195856/",
 		"text": "Lyme arthritis (LA) was identified as a clinical entity in the late 1970’s after an outbreak of monoarticular and oligoarticular arthritis in children in Lyme, Connecticut (1). LA is now known to be a late manifestation of Lyme disease (2) caused by the tick-transmitted spirochete Borrelia burgdorferi (3). Before the cause of the disease was known, about 60% of non-antibiotic-treated patients developed LA within a median duration of 6 months (range, 4 days to 2 years) after the initial erythema migrans (EM) skin lesion (4). These patients experienced intermittent or persistent attacks of swelling and pain primarily in one or a few large joints, especially the knee, over a period of several years (4,5). Small joints, tendons or bursae were occasionally affected, usually in one location at a time. However, while some patients may report a history of a tick bite or EM, arthritis may be the presenting manifestation of the illness, without earlier signs or symptoms of Lyme disease (6)."
@@ -56,7 +80,7 @@
 		"focus": "Osteoarthritis",
 		"sourceType": "Journal",
 		"network": "Treatment strategies in early rheumatoid arthritis and prevention of rheumatoid arthritis",
-		"authors": "M Kristen Demoruelle 1, Kevin D Deane",
+		"authors": "M Kristen Demoruelle 1, Kevin D Deane",
 		"date": "Oct-12",
 		"url": "https://pubmed.ncbi.nlm.nih.gov/22773387/",
 		"text": "Data now suggest that current strategies in the treatment of rheumatoid arthritis (RA) should focus on early identification and diagnosis, followed by early initiation of DMARD therapy. Initiation of treatment in early RA-ideally, less than 3-6 months after symptom onset-improves the success of achieving disease remission and reduces joint damage and disability. While the optimal treatment regimen in early RA is unclear, use of initial DMARD mono- or combination therapy with prompt escalation to achieve low disease activity or remission is an appropriate approach. Ultimately, the goal of RA management should be the prevention of inflammatory joint disease and, thereby, prevention of disability. To date, studies have shown that pharmacologic interventions can delay progression from undifferentiated inflammatory arthritis to classifiable RA. However, further investigation is needed to identify asymptomatic individuals at high risk for future RA and to intervene early enough in the pathogenesis of RA to prevent progression to clinical disease."
@@ -74,7 +98,7 @@
 		"focus": "Rheumatoid Arthritis",
 		"sourceType": "Journal",
 		"network": "Autoimmune Arthritides, Rheumatoid Arthritis, Psoriatic Arthritis, or Peripheral Spondyloarthropathy, Following Lyme Disease",
-		"authors": "Sheila L. Arvikar, MD,* Jameson T. Crowley, PhD, Katherine B. Sulka, BS, and Allen C. Steere, MD",
+		"authors": "Sheila L. Arvikar, MD,* Jameson T. Crowley, PhD, Katherine B. Sulka, BS, and Allen C. Steere, MD",
 		"date": "Jan-18",
 		"url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5195856/",
 		"text": "These patients experienced intermittent or persistent attacks of swelling and pain primarily in one or a few large joints, especially the knee, over a period of several years (4,5). Small joints, tendons or bursae were occasionally affected, usually in one location at a time. However, while some patients may report a history of a tick bite or EM, arthritis may be the presenting manifestation of the illness, without earlier signs or symptoms of Lyme disease (6)"
@@ -83,7 +107,7 @@
 		"focus": "Rheumatoid Arthritis",
 		"sourceType": "Journal",
 		"network": "Treatment Strategies in Early Rheumatoid Arthritis and Prevention of Rheumatoid Arthritis",
-		"authors": "M. Kristen Demoruelle and Kevin D. Deane",
+		"authors": "M. Kristen Demoruelle and Kevin D. Deane",
 		"date": "Oct-13",
 		"url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3616381/",
 		"text": "However, it is now generally accepted that early RA is the onset of symptoms of joint (typically polyarticular) pain, stiffness, or swelling within the past 3 months [2, 3•], although in practical terms it may be difficult for rheumatologists to evaluate patients within that 3-month time frame, due to a variety of factors, including delay in referral of patients with early symptoms of inflammatory arthritis (IA) or delays in patients seeking medical attention for their symptoms [4]."
@@ -119,7 +143,7 @@
 		"focus": "Pancreatic Cancer",
 		"sourceType": "Journal",
 		"network": "Screening for Pancreatic Cancer: Why, How, and Who?",
-		"authors": "Katherine E. Poruk, BS, BA, Matthew A. Firpo, PhD, Douglas G. Adler, MD, and Sean J. Mulvihill, MD",
+		"authors": "Katherine E. Poruk, BS, BA, Matthew A. Firpo, PhD, Douglas G. Adler, MD, and Sean J. Mulvihill, MD",
 		"date": "Jul-14",
 		"url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4113008/",
 		"text": "When symptoms do develop, a characteristic pattern of painless jaundice is often recognized, but commonly atypical patterns of symptoms including weight loss, abdominal pain, and malaise lead to delays in diagnosis."
@@ -164,7 +188,7 @@
 		"focus": "Fibromyalgia",
 		"sourceType": "Journal",
 		"network": "",
-		"authors": "Kristen Ronn Weaver, MS, Gail D’Eramo Melkus, EdD, and Wendy A Henderson, PhD, MSN, FAAN",
+		"authors": "Kristen Ronn Weaver, MS, Gail D’Eramo Melkus, EdD, and Wendy A Henderson, PhD, MSN, FAAN",
 		"date": "Jun-18",
 		"url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5453305/",
 		"text": "IBS is the gastrointestinal disorder that is most commonly diagnosed; the diagnosis is made from the presence of certain symptoms in the absence of organic disease (Chey, Kurlander & Eswaran, 2015). IBS has been categorized as a functional bowel disorder, defined by symptom onset greater than six months and recurrence at least three days per month during the last three months (Longstreth et al., 2006). Diagnostic criteria require abdominal discomfort or pain to be associated with two or more of the following: improvement with defecation, onset associated with change in the form of stool, or onset associated with a change in the frequency of stool (Longstreth et al., 2006). This diagnostic criteria, known as Rome III classification, also subtypes IBS patients based on their predominant stool pattern: constipation (IBS-C), diarrhea (IBS-D), mixed (IBS-M) or unsubtyped (IBS-U) (Longstreth et al., 2006). Rome III has served as the symptom-based, diagnostic criteria for IBS since its release in 2006; in early 2016 the Rome Foundation released Rome IV, an updated classification system for conceptualizing and diagnosing functional gastrointestinal disorders (Drossman, 2016) (see Table 1)."
@@ -173,7 +197,7 @@
 		"focus": "Fibromyalgia",
 		"sourceType": "Journal",
 		"network": "",
-		"authors": "Bhupinder Kaur Sandhu and Siba Prosad Paul",
+		"authors": "Bhupinder Kaur Sandhu and Siba Prosad Paul",
 		"date": "May-14",
 		"url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4033441/",
 		"text": "One of the first references to the concept of an “irritable bowel” causing symptoms of diarrhea, abdominal pain, constipation, without any well-recognized infective cause appeared in the Rocky Mountain Medical Journal in 1950[3]. This article suggested that IBS is caused by a psychosomatic or mental disorder[3]."
