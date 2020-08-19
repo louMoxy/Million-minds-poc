@@ -20,7 +20,8 @@ export class dataSource {
     const selectedData = data.find((d: Data) => d.id === id);
     let result = selectedData.symptom;
     selectedData.terms.forEach((term) => {
-      result = result.replace(term, `<span>${term}</span>`)
+      const regex = new RegExp(term,"g");
+      result = result.replace(regex, `<span>${term}</span>`)
     })
     return result;
   }
@@ -51,4 +52,5 @@ interface ReportData {
   text: string
   url: string
   score: number
+  terms?: string[]
 }

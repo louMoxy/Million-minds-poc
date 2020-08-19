@@ -71,7 +71,7 @@ export const SearchResults = () => {
           </TableHead>
           <TableBody>
             {reports.map(
-              ({ sourceType, focus, date, authors, network, text, url }, i) => (
+              ({ sourceType, focus, date, authors, network, text, url , terms}, i) => (
                 <TableRow key={i}>
                   <TableCell
                     style={{
@@ -86,10 +86,7 @@ export const SearchResults = () => {
                   <TableCell>{date}</TableCell>
                   <TableCell>{authors}</TableCell>
                   <TableCell>{network}</TableCell>
-                  <TableCell style={{textDecoration: 'underline'}}>
-                    <a href={url} target="_blank">
-                      {text}
-                    </a>
+                  <TableCell className="description" dangerouslySetInnerHTML={{ __html: getHighlightedText(text, url, terms) }}>
                   </TableCell>
                   <TableCell align={'center'}>0.8</TableCell>
                 </TableRow>
@@ -100,6 +97,15 @@ export const SearchResults = () => {
       </TableContainer>
     </Container>
   )
+}
+
+const getHighlightedText = (description: string, url: string, terms: string[] = []) => {
+  let result = description;
+  terms.forEach((term) => {
+    const regex = new RegExp(term,"g");
+    result = result.replace(regex, `<span>${term}</span>`)
+  })
+  return `${result} <a href={url} target="_blank">Continue reading ></a>`;
 }
 
 const Container = styled.div`
@@ -118,6 +124,16 @@ const Container = styled.div`
     th {
       padding: 5px;
       border: solid 1px #eee;
+    }
+  }
+  .description {
+    a {
+     text-decoration: underline;
+    }
+    span {
+      background: ${colours.blue};
+      color: white;
+      padding: 0 3px;
     }
   }
 `
