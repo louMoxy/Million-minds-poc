@@ -71,7 +71,7 @@ export const SearchResults = () => {
           </TableHead>
           <TableBody>
             {reports.map(
-              ({ sourceType, focus, date, authors, network, text, url, index , terms}, i) => (
+              ({ sourceType, focus, date, authors, network, text, url, index, terms }, i) => (
                 <TableRow key={i}>
                   <TableCell
                     style={{
@@ -105,7 +105,7 @@ const getHighlightedText = (description: string, url: string, terms: string[] = 
     const regex = new RegExp(term,"g");
     result = result.replace(regex, `<span>${term}</span>`)
   })
-  return `${result} <a href={url} target="_blank">Continue reading ></a>`;
+  return `${result} <a href=${url} target="_blank">Continue reading ></a>`;
 }
 
 const Container = styled.div`
