@@ -31,8 +31,12 @@ export class dataSource {
 
   static getReports(id: number): ReportData[] {
     const {symptomName} = data.find((d: Data) => d.id === id);
-    return reports.filter(({focus}) => focus === symptomName)
+    return reports.filter(({focus}) => cleanString(focus) === cleanString(symptomName))
   }
+}
+
+const cleanString = (str: string) => {
+  return str.toLowerCase().trim();
 }
 
 interface Data {
@@ -42,7 +46,7 @@ interface Data {
   terms: string[]
 }
 
-interface ReportData {
+export interface ReportData {
   sourceType: string
   focus: string
   date: string

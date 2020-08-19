@@ -1,5 +1,5 @@
 import * as React from 'react'
-import { dataSource } from '../dataSource/dataSource'
+import { dataSource, ReportData } from '../dataSource/dataSource'
 import styled from 'styled-components'
 import { SelectedIdContext } from '../context/selectedIdContext'
 import { colours } from '../components/GlobalStyles'
@@ -22,13 +22,31 @@ const colourArray = [
 
 export const SearchResults = () => {
   const { selectedId } = React.useContext(SelectedIdContext)
-  const [reports] = React.useState(dataSource.getReports(selectedId))
+  const [reports, setReports] = React.useState<ReportData[]>(
+    dataSource.getReports(selectedId)
+  )
+  const [filters, setFilters] = React.useState<string[]>([])
   let sourceTypes = []
-  reports.forEach(({ sourceType }) => {
+  dataSource.getReports(selectedId).forEach(({ sourceType }) => {
     if (!sourceTypes.includes(sourceType)) {
       return sourceTypes.push(sourceType)
     }
   })
+  const filterBySourceType = (sourceType: string) => {
+    const newFilters = filters.includes(sourceType)
+      ? filters.filter(str => str !== sourceType)
+      : [...filters, sourceType]
+    setFilters(newFilters.length === sourceTypes.length ? [] : newFilters)
+  }
+
+  React.useEffect(() => {
+    if (filters.length) {
+      setReports(reports.filter(report => filters.includes(report.sourceType)))
+    } else {
+      setReports(dataSource.getReports(selectedId))
+    }
+  }, [filters])
+
   return (
     <Container>
       <Typography variant="body1">
@@ -37,8 +55,8 @@ export const SearchResults = () => {
       <Top>
         <TopLeft>
           <Typography variant="caption" style={{ opacity: 0.6 }}>
-            These are indexed, showing those with the strongest association at the
-            top of the list. ​
+            These are indexed, showing those with the strongest association at
+            the top of the list. ​
           </Typography>
           <DownloadButton>
             <p>Export to CSV</p>
@@ -50,7 +68,17 @@ export const SearchResults = () => {
             {sourceTypes.map(sourceType => (
               <div key={sourceType}>
                 <div className="dot" />
-                <p>{sourceType}</p>
+                <p
+                  onClick={() => filterBySourceType(sourceType)}
+                  style={{
+                    opacity:
+                      filters.length === 0 || filters.includes(sourceType)
+                        ? 1
+                        : 0.4,
+                  }}
+                >
+                  {sourceType}
+                </p>
               </div>
             ))}
           </List>
@@ -86,7 +114,7 @@ export const SearchResults = () => {
                   <TableCell>{date}</TableCell>
                   <TableCell>{authors}</TableCell>
                   <TableCell>{network}</TableCell>
-                  <TableCell style={{textDecoration: 'underline'}}>
+                  <TableCell style={{ textDecoration: 'underline' }}>
                     <a href={url} target="_blank">
                       {text}
                     </a>
@@ -130,6 +158,9 @@ const List = styled.div`
   }
   & > div {
     display: flex;
+    &:hover p {
+      color: ${colourArray[0]};
+    }
     .dot {
       background: ${colourArray[0]};
       height: 12px;
@@ -137,11 +168,24 @@ const List = styled.div`
       border-radius: 50%;
       margin: 8px 5px 0 9px;
     }
-    &:nth-child(3) .dot {
-      background: ${colourArray[1]};
+    p {
+      cursor: pointer;
     }
-    &:nth-child(4) .dot {
-      background: ${colourArray[2]};
+    &:nth-child(3) {
+      &:hover p {
+        color: ${colourArray[1]};
+      }
+      .dot {
+        background: ${colourArray[1]};
+      }
+    }
+    &:nth-child(4) {
+      &:hover p {
+        color: ${colourArray[2]};
+      }
+      .dot {
+        background: ${colourArray[2]};
+      }
     }
   }
 `
@@ -163,12 +207,12 @@ const DownloadButton = styled.div`
 
 const Top = styled.div`
   display: flex;
-`;
+`
 
 const TopLeft = styled.div`
   flex: 1;
-`;
+`
 
 const TopRight = styled.div`
   flex: 1;
-`;
+`
