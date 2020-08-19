@@ -5,9 +5,11 @@
 		"authors": "MATTHEW J. SNYDER, DO, MARJORIE GUTHRIE, MD, and STEPHEN CAGLE, MD",
 		"date": "Jul-18",
 		"url": "https://www.aafp.org/afp/2018/0701/p25.html",
-		"text": "In an observational study of 230 children with appendicitis, a delay of more than 48 hours from symptom onset to diagnosis and surgery was associated with an increase in the perforation rate compared with those in whom diagnosis and surgery occurred within 24 hours (adjusted odds ratio = 4.9 [95% CI, 1.9 to 12] vs. 3.6 [95% CI, 1.4 to 9.2]), as well as a 56% mean increase in the length of hospital stay.6 Based on a study of 375 children (26% of whom had perforation), risk factors for perforation included fever, vomiting, longer duration of symptoms, elevated CRP level or WBC count, and ultrasound findings of free abdominal fluid, visualized perforation, or a mean appendix diameter of 11 mm or more.34 Surgical consultation is recommended in these patients to determine whether they are candidates for nonsurgical treatment with intravenous antibiotics."
+		"text": "In an observational study of 230 children with appendicitis, a delay of more than 48 hours from symptom onset to diagnosis and surgery was associated with an increase in the perforation rate compared with those in whom diagnosis and surgery occurred within 24 hours (adjusted odds ratio = 4.9 [95% CI, 1.9 to 12] vs. 3.6 [95% CI, 1.4 to 9.2]), as well as a 56% mean increase in the length of hospital stay.6 Based on a study of 375 children (26% of whom had perforation), risk factors for perforation included fever, vomiting, longer duration of symptoms, elevated CRP level or WBC count, and ultrasound findings of free abdominal fluid, visualized perforation, or a mean appendix diameter of 11 mm or more.34 Surgical consultation is recommended in these patients to determine whether they are candidates for nonsurgical treatment with intravenous antibiotics.",
+		"index": "0.7",
+		"terms": ["vomiting"]
 	},
-	{
+	  {
 		"focus": "Appendicitis",
 		"sourceType": "Self.com",
 		"network": "What Appendicitis Really Feels Like, From 13 People Who Have Been There",
@@ -16,7 +18,7 @@
 		"url": "https://www.self.com/story/what-appendicitis-feels-like-real-people-stories",
 		"text": "The telltale symptoms of appendicitis include pain on the right side of the lower abdomen (that typically feels worse if you move around), nausea, bloating, and possibly a fever and/or vomiting, according to the Mayo Clinic.",
 		"index": "1.0",
-		"terms": ["right side lower abdomen", "vomiting", "abdomen"],
+		"terms": ["right side lower abdomen", "vomiting", "abdomen"]
 	},
 	{
 		"focus": "Appendicitis",
@@ -25,20 +27,20 @@
 		"authors": "MATTHEW J. SNYDER, DO, MARJORIE GUTHRIE, MD, and STEPHEN CAGLE, MD",
 		"date": "Jul-18",
 		"url": "https://www.aafp.org/afp/2018/0701/p25.html",
-		"text": "In a study of 375 children, risk factors for appendiceal perforation included fever, vomiting, longer duration of symptoms, elevated C-reactive protein level or white blood cell count, and ultrasound findings of free abdominal fluid, visualized perforation, or a mean appendix diameter of 11 mm or more."
+		"text": "In a study of 375 children, risk factors for appendiceal perforation included fever, vomiting, longer duration of symptoms, elevated C-reactive protein level or white blood cell count, and ultrasound findings of free abdominal fluid, visualized perforation, or a mean appendix diameter of 11 mm or more.",
 		"index": "0.7",
-		"terms": ["vomiting"],
+		"terms": ["vomiting"]
 	},
-		{
+	{
 		"focus": "Appendicitis",
 		"sourceType": "Academic Publication",
 		"network": "Diagnosing Appendicitis: Evidence-Based Review of the Diagnostic Approach in 2014",
 		"authors": "Daniel J. Shogilev, MD, Nicolaj Duus, MD, Stephen R. Odom, MD, and Nathan I. Shapiro, MD",
 		"date": "Oct-14",
 		"url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4251237/",
-		"text": "The Alvarado score is a clinical scoring system used to stratify the risk of appendicitis in patients presenting with abdominal pain. Alvarado’s original work was published in 1988 and is based on his retrospective data analysis of 305 patients presenting with abdominal pain suggestive of acute appendicitis. This study found eight predictive factors of diagnostic value in acute appendicitis and assigned each factor a value of 1 or 2 based on their diagnostic weight. A score of 1 was given for each of the following: elevated temperature >37.3°C, rebound tenderness, migration of pain to right lower quadrant (RLQ), anorexia, nausea or vomiting, and leukocyte left shift. A score of 2 was given for RLQ tenderness and leukocytosis >10 000. The likelihood of appendicitis and specific management recommendations are given based on the total score. A score of 5 or 6 is “compatible” with the diagnosis of acute appendicitis and recommends the clinician observe or serially examine the patient. A score of 7 or 8 is “probable” appendicitis and a score of 9 or 10 is “very probable” appendicitis and recommends surgical intervention."
+		"text": "The Alvarado score is a clinical scoring system used to stratify the risk of appendicitis in patients presenting with abdominal pain. Alvarado’s original work was published in 1988 and is based on his retrospective data analysis of 305 patients presenting with abdominal pain suggestive of acute appendicitis. This study found eight predictive factors of diagnostic value in acute appendicitis and assigned each factor a value of 1 or 2 based on their diagnostic weight. A score of 1 was given for each of the following: elevated temperature >37.3°C, rebound tenderness, migration of pain to right lower quadrant (RLQ), anorexia, nausea or vomiting, and leukocyte left shift. A score of 2 was given for RLQ tenderness and leukocytosis >10 000. The likelihood of appendicitis and specific management recommendations are given based on the total score. A score of 5 or 6 is “compatible” with the diagnosis of acute appendicitis and recommends the clinician observe or serially examine the patient. A score of 7 or 8 is “probable” appendicitis and a score of 9 or 10 is “very probable” appendicitis and recommends surgical intervention.",
 		"index": "0.8",
-		"terms": ["vomiting", "lower right quadrant"],
+		"terms": ["vomiting", "lower right quadrant"]
 	},
 	{
 		"focus": "Osteoarthritis",
@@ -317,8 +319,9 @@
 		"authors": "Snoo93542",
 		"date": "7th July 2020",
 		"url": "https://www.reddit.com/r/lymedisease/comments/hmn8nm/lyme_disease_babesia_bartonella/",
-		"text": "Hey everyone I got Lyme disease in 2016, although I believe it was dormant in my body many years prior. I was experiencing some adverse symptoms that were ongoing for many months such as extreme fatigue, dizzness/lightheadness spells, fainting, chest pains, heart palpations, shortness of breath, and many more unusual and scary symptoms. After visiting many doctors and a few months of uncertainty I was diagnosed with lyme disease along with co-infections babesia and bartonella from positive blood test along with clinical diagnostic from lyme specialist. ",
-		"index": "1.0"
+		"text": "Hey everyone I got Lyme disease in 2016, although I believe it was dormant in my body many years prior. I was experiencing some adverse symptoms that were ongoing for many months such as extreme fatigue, dizziness/lightheadness spells, fainting, chest pains, heart palpations, shortness of breath, and many more unusual and scary symptoms. After visiting many doctors and a few months of uncertainty I was diagnosed with lyme disease along with co-infections babesia and bartonella from positive blood test along with clinical diagnostic from lyme specialist. ",
+		"index": "1.0",
+		"terms": ["heart palpatations", "fatigue", "dizziness"]
 	},
 	{
 		"focus": "Lyme Disease",
@@ -348,7 +351,8 @@
 		"date": "Jun-16",
 		"url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4477530/",
 		"text": " It is well-recognized that some patients experience prolonged symptoms during convalescence from Lyme disease, and a subset suffer significant functional impairment. The most common complaints among such patients are arthralgias, myalgias, headache, neck and backache, fatigue, irritability, and cognitive dysfunction (particularly perceived difficulty with memory and concentration).",
-		"index": "0.8"
+		"index": "0.8",
+		"terms": ["headache", "fatigue"]
 	},
 	{
 		"focus": "Lyme Disease",
@@ -358,7 +362,8 @@
 		"date": "Dec-19",
 		"url": "https://www.frontiersin.org/articles/10.3389/fmed.2019.00283/full",
 		"text": "Welch's one-way tests indicated significant differences between clinical groups across three of four subscales; pain and fatigue [F(3, 114.86) = 17.04, p < 0.001], neuropsychiatric symptoms [F(3, 110.45) = 36.19, p < 0.001], and neurological symptoms [F(3, 108.29) = 11.96, p < 0.001]. Pairwise post-hoc comparisons (Figure 2) revealed significant differences between PTLDS and both EM and TBI on the pain and fatigue subscale; and between PTLDS and EM on both the neurologic and the neuropsychiatric subscales. All other comparisons were not significant.",
-		"index": "0.7"
+		"index": "0.7",
+		"terms": ["fatigue"]
 	},
 	{
 		"focus": "Lyme Disease",
@@ -368,17 +373,8 @@
 		"date": "May-13",
 		"url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3652387/",
 		"text": "Lyme disease, caused by the spirochete Borrelia burgdorferi, is the most common vector-borne disease in the United States. The clinical presentation varies depending on the stage of the illness: early disease includes erthyma migrans, early disseminated disease includes multiple erythema migrans, meningitis, cranial nerve palsies, and carditis; late disease is primarily arthritis. The symptoms and signs of infection resolve in most patients after treatment with appropriate antimicrobials for 2 to 4 weeks. Serologic testing should be used judiciously as it often results in misdiagnosis when performed on blood from patients with a low prior probability of disease and those with only nonspecific symptoms such as fatigue or arthralgia without objective signs of infection.",
-		"index": "0.7"
-	},
-	{
-		"focus": "Lyme Disease",
-		"sourceType": "Journal",
-		"network": "Chronic Lyme Disease",
-		"authors": "Paul M. Lantos",
-		"date": "Jun-16",
-		"url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4477530/",
-		"text": "Some CLD advocates emphasize that CLD is a polymicrobial infection in which patients suffer from multiple tick-borne coinfections.71,72 In practice, patients with a diagnosis of CLD are often diagnosed with and treated for numerous superimposed infections, including Babesia spp and Anaplasma phagocytophilum (well-described tick-borne pathogens), Bartonella henselae (which is not known to be transmitted by ticks), pathogens of unclear clinical relevance such as the xenotropic murine leukemia virus-related virus, and even completely fictitious pathogens such as “Protomyxozoa rheumatica.” There is no evidence to support chronic anaplasmosis; chronic symptomatic babesiosis when present invariably is associated with fever and molecular or microscopic evidence of parasitemia. Bartonella species are readily identified in ticks, but there is virtually no quality evidence of tick-borne transmission to humans or of simultaneous Lyme disease and bartonellosis.73 It is important to recognize that, in the context of CLD, a diagnosis of coinfection may be just as spurious.",
-		"index": "0.7"
+		"index": "0.7",
+		"terms": ["fatigue"]
 	},
 	{
 		"focus": "Multiple Sclerosis ",
