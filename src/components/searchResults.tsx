@@ -71,7 +71,7 @@ export const SearchResults = () => {
           </TableHead>
           <TableBody>
             {reports.map(
-              ({ sourceType, focus, date, authors, network, text, url, index }, i) => (
+              ({ sourceType, focus, date, authors, network, text, url, index , terms}, i) => (
                 <TableRow key={i}>
                   <TableCell
                     style={{
