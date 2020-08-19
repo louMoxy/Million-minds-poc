@@ -13,12 +13,13 @@
   {
     "id": 2,
     "symptomName": "Appendicitis",
-    "symptom": "I woke up with severe stomach pain this morning, I have been having some abdominal pain with constipation since last Thursday. It’s been a couple of hours since I woke up, the pain still persists, pain at the right side of lower abdomen feels constant.",
+    "symptom": "I woke up with severe stomach pain this morningand have been vomiting, I have been having some abdominal pain with constipation since last Thursday. It’s been a couple of hours since I woke up, the pain still persists, particularly pain at the right side of lower abdomen.",
     "terms": [
       "severe stomach pain",
       "abdominal pain",
       "constipation",
       "right side of lower abdomen"
+      "vomiting"
     ]
   },
   {
