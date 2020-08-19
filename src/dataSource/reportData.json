@@ -405,20 +405,24 @@
   {
     "focus": "Chronic Fatigue",
     "sourceType": "Journal",
-    "network": "",
-    "authors": "",
-    "date": "",
+    "network": "A Systematic Review of Biological Mechanisms of Fatigue in Chronic Illness",
+    "authors": "Lea Ann Matura, PhD, Susan Malone, PhD, Rosario Jaime-Lara, MSN, and Barbara Riegel, PhD",
+    "date": "Mar-18",
     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6346311/",
-    "text": "HF\nFatigue and dyspnea are the hallmark symptoms of chronic HF, but there is surprisingly little research on fatigue in HF. In a qualitative study, the authors characterized HF fatigue as having both bodily and mental aspects (Falk, Granger, Swedberg, & Ekman, 2007). Patients described the bodily experience of fatigue as a feeling of sleepiness and lacking strength and energy. They described the mental aspects of fatigue as demoralization and intellectual deficiency. Restorative activites (e.g., social interaction) alleviated fatigue in this small sample of patients with chronic HF."
+    "text": "HF\nFatigue and dyspnea are the hallmark symptoms of chronic HF, but there is surprisingly little research on fatigue in HF. In a qualitative study, the authors characterized HF fatigue as having both bodily and mental aspects (Falk, Granger, Swedberg, & Ekman, 2007). Patients described the bodily experience of fatigue as a feeling of sleepiness and lacking strength and energy. They described the mental aspects of fatigue as demoralization and intellectual deficiency. Restorative activites (e.g., social interaction) alleviated fatigue in this small sample of patients with chronic HF.",
+    "index": "0.4",
+    "terms": ["fatigue", "energy"],
   },
   {
-    "focus": "",
+    "focus": "Chronic Fagtigue",
     "sourceType": "Journal",
-    "network": "",
-    "authors": "",
-    "date": "",
+    "network": "BIOMARKERS for CHRONIC FATIGUE",
+    "authors": "Nancy G. Klimas, Gordon Broderick and Mary Ann Fletcher",
+    "date": "Jun-12",
     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5373648/",
-    "text": "In a recent review, Graff, el al, (2011) noted reports of moderate to severe fatigue in 50 to 70% of the cases in immune-mediated inflammatory diseases. As reported by the New York Times (Crouse, 2011) following her withdrawal August 31, 2011 from the US Open tennis tournament, Venus Williams, winner of seven Grand Slam singles titles, said, “The fatigue is hard to explain unless you have it. Some mornings I feel really sick, like when you don’t get enough sleep or you have flu or a cold. I always have some level of tiredness. And the more I tried to push through it, the tougher it got.” Williams received the diagnosis of the autoimmune disorder, Sjögren's syndrome, a condition correlated with CF, earlier in the month. This CF is similar to “sickness behavior” in animals which is mediated by pro-inflammatory cytokines, in particular interleukin (IL)-1, acting on neuronal brain cells (Dantzer, 2001). Increased levels of IL-1 receptor antagonist (IL-1Ra) in the cerebrospinal fluid were associated with increasing fatigue in primary Sjögren's syndrome patients, supporting the suggestion that the IL-1 system is a possible biomarker of fatigue (Harboe et al., 2009)."
+    "text": "In a recent review, Graff, el al, (2011) noted reports of moderate to severe fatigue in 50 to 70% of the cases in immune-mediated inflammatory diseases. As reported by the New York Times (Crouse, 2011) following her withdrawal August 31, 2011 from the US Open tennis tournament, Venus Williams, winner of seven Grand Slam singles titles, said, “The fatigue is hard to explain unless you have it. Some mornings I feel really sick, like when you don’t get enough sleep or you have flu or a cold. I always have some level of tiredness. And the more I tried to push through it, the tougher it got.” Williams received the diagnosis of the autoimmune disorder, Sjögren's syndrome, a condition correlated with CF, earlier in the month. This CF is similar to “sickness behavior” in animals which is mediated by pro-inflammatory cytokines, in particular interleukin (IL)-1, acting on neuronal brain cells (Dantzer, 2001). Increased levels of IL-1 receptor antagonist (IL-1Ra) in the cerebrospinal fluid were associated with increasing fatigue in primary Sjögren's syndrome patients, supporting the suggestion that the IL-1 system is a possible biomarker of fatigue (Harboe et al., 2009).",
+    "index": "0.3"
+    "terms": ["fatigue", "tiredness"],
   },
   {
     "focus": "Chronic Fatigue",

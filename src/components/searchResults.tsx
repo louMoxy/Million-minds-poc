@@ -34,19 +34,28 @@ export const SearchResults = () => {
       <Typography variant="body1">
         Below are relevant results (based on the symptoms described).​
       </Typography>
-      <Typography variant="caption" style={{ opacity: 0.6 }}>
-        These are indexed, showing those with the strongest association at the
-        top of the list. ​
-      </Typography>
-      <List>
-        <p>Source Type:</p>
-        {sourceTypes.map(sourceType => (
-          <div key={sourceType}>
-            <div className="dot" />
-            <p>{sourceType}</p>
-          </div>
-        ))}
-      </List>
+      <Top>
+        <TopLeft>
+          <Typography variant="caption" style={{ opacity: 0.6 }}>
+            These are indexed, showing those with the strongest association at the
+            top of the list. ​
+          </Typography>
+          <DownloadButton>
+            <p>Export to CSV</p>
+          </DownloadButton>
+        </TopLeft>
+        <TopRight>
+          <List>
+            <p>Source Type:</p>
+            {sourceTypes.map(sourceType => (
+              <div key={sourceType}>
+                <div className="dot" />
+                <p>{sourceType}</p>
+              </div>
+            ))}
+          </List>
+        </TopRight>
+      </Top>
       <TableContainer>
         <Table aria-label="simple table">
           <TableHead>
@@ -77,10 +86,7 @@ export const SearchResults = () => {
                   <TableCell>{date}</TableCell>
                   <TableCell>{authors}</TableCell>
                   <TableCell>{network}</TableCell>
-                  <TableCell style={{textDecoration: 'underline'}}>
-                    <a href={url} target="_blank">
-                      {text}
-                    </a>
+                  <TableCell className="description" dangerouslySetInnerHTML={{ __html: getHighlightedText(text, url, terms) }}>
                   </TableCell>
                   <TableCell align={'center'}>{index || 0.8}</TableCell>
                 </TableRow>
@@ -91,6 +97,15 @@ export const SearchResults = () => {
       </TableContainer>
     </Container>
   )
+}
+
+const getHighlightedText = (description: string, url: string, terms: string[] = []) => {
+  let result = description;
+  terms.forEach((term) => {
+    const regex = new RegExp(term,"g");
+    result = result.replace(regex, `<span>${term}</span>`)
+  })
+  return `${result} <a href={url} target="_blank">Continue reading ></a>`;
 }
 
 const Container = styled.div`
@@ -109,6 +124,16 @@ const Container = styled.div`
     th {
       padding: 5px;
       border: solid 1px #eee;
+    }
+  }
+  .description {
+    a {
+     text-decoration: underline;
+    }
+    span {
+      background: ${colours.blue};
+      color: white;
+      padding: 0 3px;
     }
   }
 `
@@ -136,3 +161,30 @@ const List = styled.div`
     }
   }
 `
+
+const DownloadButton = styled.div`
+  background: ${colours.peach};
+  color: white;
+  padding: 0 10px;
+  width: fit-content;
+  align-self: flex-end;
+  border-radius: 5px;
+  font-size: 12px;
+  cursor: pointer;
+  p {
+    margin: 0;
+    padding: 0;
+  }
+`
+
+const Top = styled.div`
+  display: flex;
+`;
+
+const TopLeft = styled.div`
+  flex: 1;
+`;
+
+const TopRight = styled.div`
+  flex: 1;
+`;
