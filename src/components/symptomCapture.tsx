@@ -62,10 +62,10 @@ export const SymptomCapture = () => {
           Select a patient’s symptoms description
         </Typography>
         <Columns>
-          {symptoms.map(({ id, symptomName, text, clipped }) => (
+          {symptoms.map(({ id, symptomName, patient, text, clipped }) => (
             <SymptomCard key={id} onClick={() => setSelectedId(id)}>
               <CardContent>
-                <Typography variant="body1">{symptomName}</Typography>
+          <Typography variant="body1">{symptomName}{patient ? ': ' + patient : ''}</Typography>
               </CardContent>
               <Divider />
               <CardContent>

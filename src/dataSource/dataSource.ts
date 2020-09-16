@@ -7,11 +7,13 @@ export class dataSource {
   static getAllSymptom(): {
     symptomName: string
     symptom: string
+    patient: string
     id: number
   }[] {
-    return data.map(({ symptomName, symptom, id }: Data) => ({
+    return data.map(({ symptomName, symptom, patient, id }: Data) => ({
       symptomName,
       symptom,
+      patient,
       id,
     }))
   }
@@ -40,6 +42,7 @@ interface Data {
   id: number
   symptom: string
   symptomName: string
+  patient: string
   terms: string[]
 }
 
