@@ -9,6 +9,9 @@ import {
   Button,
 } from '@material-ui/core'
 import ExpandMoreIcon from '@material-ui/icons/ExpandMore'
+import CheckIcon from '@material-ui/icons/Check';
+import ClearIcon from '@material-ui/icons/Clear';
+import ToggleButton from '@material-ui/lab/ToggleButton';
 import { Container } from './GlobalStyles'
 import { SelectedIdContext } from '../context/selectedIdContext'
 import { Phone } from './phone'
@@ -33,6 +36,7 @@ export const SymptomCapture = () => {
       .sort(sortData)
   )
   const { selectedId, setSelectedId } = React.useContext(SelectedIdContext)
+  const [selected, setSelected] = React.useState(false);
 
   React.useEffect(() => {
     setSelectedId(symptoms[0].id)
@@ -55,6 +59,15 @@ export const SymptomCapture = () => {
   return (
     <Container>
       <div>
+        Displaying sympton names&nbsp;
+        <ToggleButton
+        value="check"
+        selected={selected}
+        onChange={() => {
+          setSelected(!selected);
+        }}>
+          { selected ? <CheckIcon /> : <ClearIcon />}
+      </ToggleButton>
         <Typography
           variant="body1"
           style={{ margin: '30px 20px', textAlign: 'center' }}
@@ -65,7 +78,7 @@ export const SymptomCapture = () => {
           {symptoms.map(({ id, symptomName, patient, text, clipped }) => (
             <SymptomCard key={id} onClick={() => setSelectedId(id)}>
               <CardContent>
-          <Typography variant="body1">{symptomName}{patient ? ': ' + patient : ''}</Typography>
+                <Typography variant="body1">{selected ? symptomName : '?????????'}{patient ? ': ' + patient : ''}</Typography>
               </CardContent>
               <Divider />
               <CardContent>
