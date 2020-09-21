@@ -59,7 +59,7 @@ export const SymptomCapture = () => {
   return (
     <Container>
       <div>
-        Displaying sympton names&nbsp;
+        Display conditions&nbsp;
         <ToggleButton
         value="check"
         selected={selected}
@@ -78,7 +78,7 @@ export const SymptomCapture = () => {
           {symptoms.map(({ id, symptomName, patient, text, clipped }) => (
             <SymptomCard key={id} onClick={() => setSelectedId(id)}>
               <CardContent>
-                <Typography variant="body1">{selected ? symptomName : '?????????'}{patient ? ': ' + patient : ''}</Typography>
+                <Typography variant="body1">{selected ? symptomName : '------------'}{patient ? ': ' + patient : ''}</Typography>
               </CardContent>
               <Divider />
               <CardContent>
